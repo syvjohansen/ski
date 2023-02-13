@@ -1,0 +1,1037 @@
+,rank,country,price,score,active,athlete_id,is_team,name,gender,links.self,links.results
+0,1,NOR,17461,411,True,3422819,False,KLAEBO Johannes Hoesflot,m,https://www.fantasyxc.se/api/athletes/3422819,https://www.fantasyxc.se/api/athletes/3422819/results
+1,1,SWE,14816,380,True,3506154,False,KARLSSON Frida,f,https://www.fantasyxc.se/api/athletes/3506154,https://www.fantasyxc.se/api/athletes/3506154/results
+2,2,NOR,15861,360,True,3425301,False,JOHAUG Therese,f,https://www.fantasyxc.se/api/athletes/3425301,https://www.fantasyxc.se/api/athletes/3425301/results
+3,3,SWE,10639,307,True,3505800,False,DAHLQVIST Maja,f,https://www.fantasyxc.se/api/athletes/3505800,https://www.fantasyxc.se/api/athletes/3505800/results
+4,4,USA,9782,306,True,3535316,False,BRENNAN Rosie,f,https://www.fantasyxc.se/api/athletes/3535316,https://www.fantasyxc.se/api/athletes/3535316/results
+5,2,RUS,7231,290,True,3481539,False,USTIUGOV Sergey,m,https://www.fantasyxc.se/api/athletes/3481539,https://www.fantasyxc.se/api/athletes/3481539/results
+6,3,RUS,18092,250,True,3482277,False,BOLSHUNOV Alexander,m,https://www.fantasyxc.se/api/athletes/3482277,https://www.fantasyxc.se/api/athletes/3482277/results
+7,5,USA,11933,237,True,3535410,False,DIGGINS Jessie,f,https://www.fantasyxc.se/api/athletes/3535410,https://www.fantasyxc.se/api/athletes/3535410/results
+8,4,NOR,7003,200,True,3421779,False,KRUEGER Simen Hegstad,m,https://www.fantasyxc.se/api/athletes/3421779,https://www.fantasyxc.se/api/athletes/3421779/results
+9,6,RUS,18872,200,True,3485975,True,RUSSIA I,f,https://www.fantasyxc.se/api/athletes/3485975,https://www.fantasyxc.se/api/athletes/3485975/results
+10,4,NOR,23607,200,True,100069,True,NORWAY I,m,https://www.fantasyxc.se/api/athletes/100069,https://www.fantasyxc.se/api/athletes/100069/results
+11,6,NOR,7015,192,True,3422619,False,VALNES Erik,m,https://www.fantasyxc.se/api/athletes/3422619,https://www.fantasyxc.se/api/athletes/3422619/results
+12,7,FRA,5136,183,True,3190345,False,JOUVE Richard,m,https://www.fantasyxc.se/api/athletes/3190345,https://www.fantasyxc.se/api/athletes/3190345/results
+13,7,CHE,5998,177,True,3515221,False,FAEHNDRICH Nadine,f,https://www.fantasyxc.se/api/athletes/3515221,https://www.fantasyxc.se/api/athletes/3515221/results
+14,8,RUS,5514,176,True,3482119,False,CHERVOTKIN Alexey,m,https://www.fantasyxc.se/api/athletes/3482119,https://www.fantasyxc.se/api/athletes/3482119/results
+15,8,RUS,8151,169,True,3486010,False,NEPRYAEVA Natalia,f,https://www.fantasyxc.se/api/athletes/3486010,https://www.fantasyxc.se/api/athletes/3486010/results
+16,9,RUS,7808,160,True,193053,True,RUSSIA II,m,https://www.fantasyxc.se/api/athletes/193053,https://www.fantasyxc.se/api/athletes/193053/results
+17,9,SWE,22810,160,True,3505793,True,SWEDEN I,f,https://www.fantasyxc.se/api/athletes/3505793,https://www.fantasyxc.se/api/athletes/3505793/results
+18,9,NOR,7542,160,True,3425499,False,WENG Heidi,f,https://www.fantasyxc.se/api/athletes/3425499,https://www.fantasyxc.se/api/athletes/3425499/results
+19,10,RUS,4006,156,True,3482806,False,TERENTEV Alexander,m,https://www.fantasyxc.se/api/athletes/3482806,https://www.fantasyxc.se/api/athletes/3482806/results
+20,11,DEU,5021,148,True,3205460,False,HENNIG Katharina,f,https://www.fantasyxc.se/api/athletes/3205460,https://www.fantasyxc.se/api/athletes/3205460/results
+21,11,NOR,7354,147,True,3420586,False,HOLUND Hans Christer,m,https://www.fantasyxc.se/api/athletes/3420586,https://www.fantasyxc.se/api/athletes/3420586/results
+22,12,SVN,6894,146,True,3565062,False,LAMPIC Anamarija,f,https://www.fantasyxc.se/api/athletes/3565062,https://www.fantasyxc.se/api/athletes/3565062/results
+23,13,NOR,4479,145,True,3426201,False,WENG Tiril Udnes,f,https://www.fantasyxc.se/api/athletes/3426201,https://www.fantasyxc.se/api/athletes/3426201/results
+24,14,FIN,6160,144,True,3185256,False,PARMAKOSKI Krista,f,https://www.fantasyxc.se/api/athletes/3185256,https://www.fantasyxc.se/api/athletes/3185256/results
+25,12,CZE,3472,141,True,3150570,False,NOVAK Michal,m,https://www.fantasyxc.se/api/athletes/3150570,https://www.fantasyxc.se/api/athletes/3150570/results
+26,13,RUS,6258,139,True,3482105,False,YAKIMUSHKIN Ivan,m,https://www.fantasyxc.se/api/athletes/3482105,https://www.fantasyxc.se/api/athletes/3482105/results
+27,15,SWE,10597,136,True,3505990,False,ANDERSSON Ebba,f,https://www.fantasyxc.se/api/athletes/3505990,https://www.fantasyxc.se/api/athletes/3505990/results
+28,14,RUS,4732,127,True,3481432,False,MALTSEV Artem,m,https://www.fantasyxc.se/api/athletes/3481432,https://www.fantasyxc.se/api/athletes/3481432/results
+29,15,NOR,3497,121,True,3421754,False,TAUGBOEL Haavard Solaas,m,https://www.fantasyxc.se/api/athletes/3421754,https://www.fantasyxc.se/api/athletes/3421754/results
+30,16,NOR,21123,120,True,3425825,True,NORWAY I,f,https://www.fantasyxc.se/api/athletes/3425825,https://www.fantasyxc.se/api/athletes/3425825/results
+31,16,NOR,2528,120,True,74612,True,NORWAY II,m,https://www.fantasyxc.se/api/athletes/74612,https://www.fantasyxc.se/api/athletes/74612/results
+32,17,SWE,4788,119,True,3506105,False,HAGSTROEM Johanna,f,https://www.fantasyxc.se/api/athletes/3506105,https://www.fantasyxc.se/api/athletes/3506105/results
+33,18,DEU,2654,112,True,3205403,False,CARL Victoria,f,https://www.fantasyxc.se/api/athletes/3205403,https://www.fantasyxc.se/api/athletes/3205403/results
+34,19,NOR,2597,108,True,3426200,False,WENG Lotta Udnes,f,https://www.fantasyxc.se/api/athletes/3426200,https://www.fantasyxc.se/api/athletes/3426200/results
+35,20,FIN,2287,103,True,3185168,False,NISKANEN Kerttu,f,https://www.fantasyxc.se/api/athletes/3185168,https://www.fantasyxc.se/api/athletes/3185168/results
+36,21,USA,17557,100,True,3535469,True,UNITED STATES OF AMERICA I,f,https://www.fantasyxc.se/api/athletes/3535469,https://www.fantasyxc.se/api/athletes/3535469/results
+37,17,RUS,18594,100,True,201359,True,RUSSIA I,m,https://www.fantasyxc.se/api/athletes/201359,https://www.fantasyxc.se/api/athletes/201359/results
+38,17,FIN,6983,100,True,3180535,False,NISKANEN Iivo,m,https://www.fantasyxc.se/api/athletes/3180535,https://www.fantasyxc.se/api/athletes/3180535/results
+39,17,NOR,5292,100,True,3420909,False,GOLBERG Paal,m,https://www.fantasyxc.se/api/athletes/3420909,https://www.fantasyxc.se/api/athletes/3420909/results
+40,22,RUS,6446,98,True,3485933,False,SORINA Tatiana,f,https://www.fantasyxc.se/api/athletes/3485933,https://www.fantasyxc.se/api/athletes/3485933/results
+41,23,SWE,4313,96,True,3506008,False,RIBOM Emma,f,https://www.fantasyxc.se/api/athletes/3506008,https://www.fantasyxc.se/api/athletes/3506008/results
+42,24,FIN,12405,90,True,3185375,True,FINLAND I,f,https://www.fantasyxc.se/api/athletes/3185375,https://www.fantasyxc.se/api/athletes/3185375/results
+43,20,ITA,14152,90,True,100073,True,ITALY I,m,https://www.fantasyxc.se/api/athletes/100073,https://www.fantasyxc.se/api/athletes/100073/results
+44,25,RUS,7283,88,True,3486239,False,STUPAK Yulia,f,https://www.fantasyxc.se/api/athletes/3486239,https://www.fantasyxc.se/api/athletes/3486239/results
+45,21,NOR,2547,86,True,3423264,False,AMUNDSEN Harald Oestberg,m,https://www.fantasyxc.se/api/athletes/3423264,https://www.fantasyxc.se/api/athletes/3423264/results
+46,26,NOR,2737,86,True,3425365,False,FALLA Maiken Caspersen,f,https://www.fantasyxc.se/api/athletes/3425365,https://www.fantasyxc.se/api/athletes/3425365/results
+47,27,NOR,3311,80,True,3425822,True,NORWAY II,f,https://www.fantasyxc.se/api/athletes/3425822,https://www.fantasyxc.se/api/athletes/3425822/results
+48,22,RUS,2329,80,True,3481988,False,SEMIKOV Ilia,m,https://www.fantasyxc.se/api/athletes/3481988,https://www.fantasyxc.se/api/athletes/3481988/results
+49,22,SWE,12217,80,True,100075,True,SWEDEN I,m,https://www.fantasyxc.se/api/athletes/100075,https://www.fantasyxc.se/api/athletes/100075/results
+50,22,NOR,797,80,True,3423291,False,LARSEN Thomas Helland,m,https://www.fantasyxc.se/api/athletes/3423291,https://www.fantasyxc.se/api/athletes/3423291/results
+51,25,ITA,7023,77,True,3290326,False,PELLEGRINO Federico,m,https://www.fantasyxc.se/api/athletes/3290326,https://www.fantasyxc.se/api/athletes/3290326/results
+52,26,FRA,1968,75,True,3190529,False,LAPALUS Hugo,m,https://www.fantasyxc.se/api/athletes/3190529,https://www.fantasyxc.se/api/athletes/3190529/results
+53,27,FRA,4149,74,True,3190323,False,CHANAVAT Lucas,m,https://www.fantasyxc.se/api/athletes/3190323,https://www.fantasyxc.se/api/athletes/3190323/results
+54,28,NOR,2282,72,True,3421154,False,NYENGET Martin Loewstroem,m,https://www.fantasyxc.se/api/athletes/3421154,https://www.fantasyxc.se/api/athletes/3421154/results
+55,28,DEU,12485,72,True,100070,True,GERMANY I,m,https://www.fantasyxc.se/api/athletes/100070,https://www.fantasyxc.se/api/athletes/100070/results
+56,28,DEU,12344,72,True,3205415,True,GERMANY I,f,https://www.fantasyxc.se/api/athletes/3205415,https://www.fantasyxc.se/api/athletes/3205415/results
+57,30,NOR,779,71,True,3422477,False,NORTHUG Even,m,https://www.fantasyxc.se/api/athletes/3422477,https://www.fantasyxc.se/api/athletes/3422477/results
+58,31,NOR,4211,69,True,3420605,False,ROETHE Sjur,m,https://www.fantasyxc.se/api/athletes/3420605,https://www.fantasyxc.se/api/athletes/3420605/results
+59,29,SWE,2100,69,True,3505998,False,OLSSON Moa,f,https://www.fantasyxc.se/api/athletes/3505998,https://www.fantasyxc.se/api/athletes/3505998/results
+60,30,NOR,4501,68,True,3427109,False,FOSSESHOLM Helene Marie,f,https://www.fantasyxc.se/api/athletes/3427109,https://www.fantasyxc.se/api/athletes/3427109/results
+61,32,SWE,1152,66,True,3501340,False,GRATE Marcus,m,https://www.fantasyxc.se/api/athletes/3501340,https://www.fantasyxc.se/api/athletes/3501340/results
+62,33,CHE,16797,64,True,101157,True,SWITZERLAND I,m,https://www.fantasyxc.se/api/athletes/101157,https://www.fantasyxc.se/api/athletes/101157/results
+63,31,RUS,4631,64,True,3485977,True,RUSSIA II,f,https://www.fantasyxc.se/api/athletes/3485977,https://www.fantasyxc.se/api/athletes/3485977/results
+64,31,FIN,1663,64,True,3185579,False,MATINTALO Johanna,f,https://www.fantasyxc.se/api/athletes/3185579,https://www.fantasyxc.se/api/athletes/3185579/results
+65,34,RUS,3484,63,True,3481163,False,RETIVYKH Gleb,m,https://www.fantasyxc.se/api/athletes/3481163,https://www.fantasyxc.se/api/athletes/3481163/results
+66,33,SWE,2851,62,True,3505828,False,DYVIK Anna,f,https://www.fantasyxc.se/api/athletes/3505828,https://www.fantasyxc.se/api/athletes/3505828/results
+67,35,FIN,1171,60,True,3180865,False,VUORINEN Lauri,m,https://www.fantasyxc.se/api/athletes/3180865,https://www.fantasyxc.se/api/athletes/3180865/results
+68,35,USA,1572,60,True,3530910,False,SCHOONMAKER James Clinton,m,https://www.fantasyxc.se/api/athletes/3530910,https://www.fantasyxc.se/api/athletes/3530910/results
+69,34,FIN,1247,60,True,3185551,False,JOENSUU Jasmi,f,https://www.fantasyxc.se/api/athletes/3185551,https://www.fantasyxc.se/api/athletes/3185551/results
+70,37,USA,10824,58,True,121833,True,UNITED STATES OF AMERICA I,m,https://www.fantasyxc.se/api/athletes/121833,https://www.fantasyxc.se/api/athletes/121833/results
+71,37,FRA,3740,58,True,3190111,False,MANIFICAT Maurice,m,https://www.fantasyxc.se/api/athletes/3190111,https://www.fantasyxc.se/api/athletes/3190111/results
+72,35,DEU,3077,58,True,3205419,True,GERMANY II,f,https://www.fantasyxc.se/api/athletes/3205419,https://www.fantasyxc.se/api/athletes/3205419/results
+73,36,FIN,740,56,True,3185447,False,LYLYNPERA Katri,f,https://www.fantasyxc.se/api/athletes/3185447,https://www.fantasyxc.se/api/athletes/3185447/results
+74,39,SWE,433,54,True,3501278,False,PERSSON Anton,m,https://www.fantasyxc.se/api/athletes/3501278,https://www.fantasyxc.se/api/athletes/3501278/results
+75,37,NOR,546,53,True,3426496,False,MYHRVOLD Mathilde,f,https://www.fantasyxc.se/api/athletes/3426496,https://www.fantasyxc.se/api/athletes/3426496/results
+76,40,CAN,7178,52,True,3100322,True,CANADA I,m,https://www.fantasyxc.se/api/athletes/3100322,https://www.fantasyxc.se/api/athletes/3100322/results
+77,38,USA,1503,52,True,3535602,False,SWIRBUL Hailey,f,https://www.fantasyxc.se/api/athletes/3535602,https://www.fantasyxc.se/api/athletes/3535602/results
+78,38,SWE,3997,52,True,3505794,True,SWEDEN II,f,https://www.fantasyxc.se/api/athletes/3505794,https://www.fantasyxc.se/api/athletes/3505794/results
+79,40,ITA,738,51,True,3295193,False,LAURENT Greta,f,https://www.fantasyxc.se/api/athletes/3295193,https://www.fantasyxc.se/api/athletes/3295193/results
+80,41,NOR,1594,50,True,3425421,False,HAGA Ragnhild,f,https://www.fantasyxc.se/api/athletes/3425421,https://www.fantasyxc.se/api/athletes/3425421/results
+81,41,NOR,5254,50,True,3425410,False,OESTBERG Ingvild Flugstad,f,https://www.fantasyxc.se/api/athletes/3425410,https://www.fantasyxc.se/api/athletes/3425410/results
+82,43,AUT,3768,49,True,3055067,False,STADLOBER Teresa,f,https://www.fantasyxc.se/api/athletes/3055067,https://www.fantasyxc.se/api/athletes/3055067/results
+83,41,DEU,1659,49,True,3200205,False,BOEGL Lucas,m,https://www.fantasyxc.se/api/athletes/3200205,https://www.fantasyxc.se/api/athletes/3200205/results
+84,44,ITA,4678,48,True,3295216,True,ITALY I,f,https://www.fantasyxc.se/api/athletes/3295216,https://www.fantasyxc.se/api/athletes/3295216/results
+85,42,FIN,14642,48,True,100072,True,FINLAND I,m,https://www.fantasyxc.se/api/athletes/100072,https://www.fantasyxc.se/api/athletes/100072/results
+86,43,DEU,872,47,True,3200356,False,DOBLER Jonas,m,https://www.fantasyxc.se/api/athletes/3200356,https://www.fantasyxc.se/api/athletes/3200356/results
+87,45,FRA,1446,46,True,3195219,False,CLAUDEL Delphine,f,https://www.fantasyxc.se/api/athletes/3195219,https://www.fantasyxc.se/api/athletes/3195219/results
+88,45,DEU,1035,46,True,3205407,False,FINK Pia,f,https://www.fantasyxc.se/api/athletes/3205407,https://www.fantasyxc.se/api/athletes/3205407/results
+89,44,RUS,3365,44,True,3482280,False,SPITSOV Denis,m,https://www.fantasyxc.se/api/athletes/3482280,https://www.fantasyxc.se/api/athletes/3482280/results
+90,44,FRA,15235,44,True,102344,True,FRANCE I,m,https://www.fantasyxc.se/api/athletes/102344,https://www.fantasyxc.se/api/athletes/102344/results
+91,44,NOR,8652,44,True,3421320,False,IVERSEN Emil,m,https://www.fantasyxc.se/api/athletes/3421320,https://www.fantasyxc.se/api/athletes/3421320/results
+92,47,FIN,4823,44,True,5164,True,FINLAND II,f,https://www.fantasyxc.se/api/athletes/5164,https://www.fantasyxc.se/api/athletes/5164/results
+93,47,ITA,2286,43,True,3290379,False,DE FABIANI Francesco,m,https://www.fantasyxc.se/api/athletes/3290379,https://www.fantasyxc.se/api/athletes/3290379/results
+94,47,USA,401,43,True,3530902,False,OGDEN Ben,m,https://www.fantasyxc.se/api/athletes/3530902,https://www.fantasyxc.se/api/athletes/3530902/results
+95,47,FIN,1775,43,True,3180861,False,MAKI Joni,m,https://www.fantasyxc.se/api/athletes/3180861,https://www.fantasyxc.se/api/athletes/3180861/results
+96,48,ITA,289,42,True,3295241,False,GANZ Caterina,f,https://www.fantasyxc.se/api/athletes/3295241,https://www.fantasyxc.se/api/athletes/3295241/results
+97,49,USA,4005,40,True,3535473,True,UNITED STATES OF AMERICA II,f,https://www.fantasyxc.se/api/athletes/3535473,https://www.fantasyxc.se/api/athletes/3535473/results
+98,50,FRA,5142,40,True,76685,True,FRANCE II,m,https://www.fantasyxc.se/api/athletes/76685,https://www.fantasyxc.se/api/athletes/76685/results
+99,50,NOR,644,40,True,3420994,False,TOENSETH Didrik,m,https://www.fantasyxc.se/api/athletes/3420994,https://www.fantasyxc.se/api/athletes/3420994/results
+100,49,RUS,789,40,True,3487065,False,STEPANOVA Veronika,f,https://www.fantasyxc.se/api/athletes/3487065,https://www.fantasyxc.se/api/athletes/3487065/results
+101,51,SWE,827,38,True,3506181,False,LINDSTROEM Louise,f,https://www.fantasyxc.se/api/athletes/3506181,https://www.fantasyxc.se/api/athletes/3506181/results
+102,52,SWE,1444,37,True,3501662,False,JOHANSSON Leo,m,https://www.fantasyxc.se/api/athletes/3501662,https://www.fantasyxc.se/api/athletes/3501662/results
+103,52,CZE,10774,36,True,3155265,True,CZECH REPUBLIC I,f,https://www.fantasyxc.se/api/athletes/3155265,https://www.fantasyxc.se/api/athletes/3155265/results
+104,53,FIN,4169,36,True,74591,True,FINLAND II,m,https://www.fantasyxc.se/api/athletes/74591,https://www.fantasyxc.se/api/athletes/74591/results
+105,54,SWE,1208,35,True,3501010,False,HAEGGSTROEM Johan,m,https://www.fantasyxc.se/api/athletes/3501010,https://www.fantasyxc.se/api/athletes/3501010/results
+106,55,DEU,499,34,True,3200802,False,MOCH Friedrich,m,https://www.fantasyxc.se/api/athletes/3200802,https://www.fantasyxc.se/api/athletes/3200802/results
+107,53,SVN,1302,33,True,3565055,False,UREVC Eva,f,https://www.fantasyxc.se/api/athletes/3565055,https://www.fantasyxc.se/api/athletes/3565055/results
+108,53,USA,1113,33,True,3535562,False,KERN Julia,f,https://www.fantasyxc.se/api/athletes/3535562,https://www.fantasyxc.se/api/athletes/3535562/results
+109,56,USA,2199,32,True,102478,True,UNITED STATES OF AMERICA II,m,https://www.fantasyxc.se/api/athletes/102478,https://www.fantasyxc.se/api/athletes/102478/results
+110,55,KAZ,1869,32,True,3675033,True,KAZAKHSTAN I,f,https://www.fantasyxc.se/api/athletes/3675033,https://www.fantasyxc.se/api/athletes/3675033/results
+111,56,NOR,389,32,True,3423782,False,MOSEBY Haavard,m,https://www.fantasyxc.se/api/athletes/3423782,https://www.fantasyxc.se/api/athletes/3423782/results
+112,58,RUS,990,31,True,3481132,False,LARKOV Andrey,m,https://www.fantasyxc.se/api/athletes/3481132,https://www.fantasyxc.se/api/athletes/3481132/results
+113,56,CHE,1424,30,True,3515087,False,VAN DER GRAAFF Laurien,f,https://www.fantasyxc.se/api/athletes/3515087,https://www.fantasyxc.se/api/athletes/3515087/results
+114,56,CAN,7275,30,True,3105195,True,CANADA I,f,https://www.fantasyxc.se/api/athletes/3105195,https://www.fantasyxc.se/api/athletes/3105195/results
+115,59,POL,4143,30,True,185888,True,POLAND I,m,https://www.fantasyxc.se/api/athletes/185888,https://www.fantasyxc.se/api/athletes/185888/results
+116,60,NOR,620,29,True,3420961,False,KROGH Finn Haagen,m,https://www.fantasyxc.se/api/athletes/3420961,https://www.fantasyxc.se/api/athletes/3420961/results
+117,60,CHE,390,29,True,3510451,False,SCHAAD Roman,m,https://www.fantasyxc.se/api/athletes/3510451,https://www.fantasyxc.se/api/athletes/3510451/results
+118,62,CHE,806,28,True,3510377,False,HEDIGER Jovian,m,https://www.fantasyxc.se/api/athletes/3510377,https://www.fantasyxc.se/api/athletes/3510377/results
+119,62,KAZ,2694,28,True,100074,True,KAZAKHSTAN I,m,https://www.fantasyxc.se/api/athletes/100074,https://www.fantasyxc.se/api/athletes/100074/results
+120,58,RUS,228,27,True,3486176,False,RYGALINA Anastasia,f,https://www.fantasyxc.se/api/athletes/3486176,https://www.fantasyxc.se/api/athletes/3486176/results
+121,58,RUS,303,27,True,3486003,False,VASILIEVA Lilia,f,https://www.fantasyxc.se/api/athletes/3486003,https://www.fantasyxc.se/api/athletes/3486003/results
+122,64,USA,1858,26,True,3530882,False,SCHUMACHER Gus,m,https://www.fantasyxc.se/api/athletes/3530882,https://www.fantasyxc.se/api/athletes/3530882/results
+123,64,FIN,257,26,True,3181180,False,LINDHOLM Remi,m,https://www.fantasyxc.se/api/athletes/3181180,https://www.fantasyxc.se/api/athletes/3181180/results
+124,64,GBR,2704,26,True,3220002,False,MUSGRAVE Andrew,m,https://www.fantasyxc.se/api/athletes/3220002,https://www.fantasyxc.se/api/athletes/3220002/results
+125,60,NOR,1055,25,True,3426112,False,STENSETH Ane Appelkvist,f,https://www.fantasyxc.se/api/athletes/3426112,https://www.fantasyxc.se/api/athletes/3426112/results
+126,67,FRA,1798,24,True,3190302,False,PARISSE Clement,m,https://www.fantasyxc.se/api/athletes/3190302,https://www.fantasyxc.se/api/athletes/3190302/results
+127,67,CHE,503,24,True,3510656,False,GROND Valerio,m,https://www.fantasyxc.se/api/athletes/3510656,https://www.fantasyxc.se/api/athletes/3510656/results
+128,61,CZE,633,23,True,3155324,False,JANATOVA Katerina,f,https://www.fantasyxc.se/api/athletes/3155324,https://www.fantasyxc.se/api/athletes/3155324/results
+129,61,DEU,490,23,True,3205434,False,KREHL Sofie,f,https://www.fantasyxc.se/api/athletes/3205434,https://www.fantasyxc.se/api/athletes/3205434/results
+130,69,USA,718,22,True,3530713,False,BOLGER Kevin,m,https://www.fantasyxc.se/api/athletes/3530713,https://www.fantasyxc.se/api/athletes/3530713/results
+131,63,SWE,2118,21,True,3505217,False,KALLA Charlotte,f,https://www.fantasyxc.se/api/athletes/3505217,https://www.fantasyxc.se/api/athletes/3505217/results
+132,70,RUS,3601,20,True,3481803,False,MELNICHENKO Andrey,m,https://www.fantasyxc.se/api/athletes/3481803,https://www.fantasyxc.se/api/athletes/3481803/results
+133,64,DEU,299,20,True,3205491,False,FRAEBEL Antonia,f,https://www.fantasyxc.se/api/athletes/3205491,https://www.fantasyxc.se/api/athletes/3205491/results
+134,64,NOR,1690,20,True,3425669,False,KALVAA Anne Kjersti,f,https://www.fantasyxc.se/api/athletes/3425669,https://www.fantasyxc.se/api/athletes/3425669/results
+135,71,FIN,716,18,True,3180557,False,HYVARINEN Perttu,m,https://www.fantasyxc.se/api/athletes/3180557,https://www.fantasyxc.se/api/athletes/3180557/results
+136,71,FIN,244,18,True,3181408,False,MOILANEN Niilo,m,https://www.fantasyxc.se/api/athletes/3181408,https://www.fantasyxc.se/api/athletes/3181408/results
+137,73,FIN,214,17,True,3180990,False,HAARALA Juuso,m,https://www.fantasyxc.se/api/athletes/3180990,https://www.fantasyxc.se/api/athletes/3180990/results
+138,73,POL,232,17,True,3430103,False,STAREGA Maciej,m,https://www.fantasyxc.se/api/athletes/3430103,https://www.fantasyxc.se/api/athletes/3430103/results
+139,73,DEU,1030,17,True,3200376,False,NOTZ Florian,m,https://www.fantasyxc.se/api/athletes/3200376,https://www.fantasyxc.se/api/athletes/3200376/results
+140,66,NOR,231,16,True,3425397,False,HARSEM Kathrine Rolsted,f,https://www.fantasyxc.se/api/athletes/3425397,https://www.fantasyxc.se/api/athletes/3425397/results
+141,76,AUT,231,16,True,3050342,False,VERMEULEN Mika,m,https://www.fantasyxc.se/api/athletes/3050342,https://www.fantasyxc.se/api/athletes/3050342/results
+142,76,FIN,219,16,True,3181133,False,MANNILA Lauri,m,https://www.fantasyxc.se/api/athletes/3181133,https://www.fantasyxc.se/api/athletes/3181133/results
+143,76,CHE,466,16,True,3510342,False,BAUMANN Jonas,m,https://www.fantasyxc.se/api/athletes/3510342,https://www.fantasyxc.se/api/athletes/3510342/results
+144,67,POL,241,15,True,3435197,False,MARCISZ Izabela,f,https://www.fantasyxc.se/api/athletes/3435197,https://www.fantasyxc.se/api/athletes/3435197/results
+145,79,NOR,255,15,True,3422186,False,TURTVEIT Vebjoern,m,https://www.fantasyxc.se/api/athletes/3422186,https://www.fantasyxc.se/api/athletes/3422186/results
+146,79,CHE,359,15,True,3510361,False,PRALONG Candide,m,https://www.fantasyxc.se/api/athletes/3510361,https://www.fantasyxc.se/api/athletes/3510361/results
+147,79,CAN,218,15,True,3100409,False,LEVEILLE Olivier,m,https://www.fantasyxc.se/api/athletes/3100409,https://www.fantasyxc.se/api/athletes/3100409/results
+148,79,NOR,1689,15,True,3421164,False,SKAR Sindre Bjoernestad,m,https://www.fantasyxc.se/api/athletes/3421164,https://www.fantasyxc.se/api/athletes/3421164/results
+149,67,NOR,814,15,True,3426626,False,SKISTAD Kristine Stavaas,f,https://www.fantasyxc.se/api/athletes/3426626,https://www.fantasyxc.se/api/athletes/3426626/results
+150,69,NOR,481,14,True,3425381,False,SVENDSEN Anna,f,https://www.fantasyxc.se/api/athletes/3425381,https://www.fantasyxc.se/api/athletes/3425381/results
+151,83,CHE,3601,14,True,3510023,False,COLOGNA Dario,m,https://www.fantasyxc.se/api/athletes/3510023,https://www.fantasyxc.se/api/athletes/3510023/results
+152,83,ITA,233,14,True,3290524,False,ABRAM Mikael,m,https://www.fantasyxc.se/api/athletes/3290524,https://www.fantasyxc.se/api/athletes/3290524/results
+153,83,CHE,336,14,True,3510588,False,RIEBLI Janik,m,https://www.fantasyxc.se/api/athletes/3510588,https://www.fantasyxc.se/api/athletes/3510588/results
+154,69,LVA,692,14,True,3555052,False,EIDUKA Patricija,f,https://www.fantasyxc.se/api/athletes/3555052,https://www.fantasyxc.se/api/athletes/3555052/results
+155,86,FRA,512,13,True,3190282,False,JAY Renaud,m,https://www.fantasyxc.se/api/athletes/3190282,https://www.fantasyxc.se/api/athletes/3190282/results
+156,86,CZE,212,13,True,3150664,False,CERNY Ondrej,m,https://www.fantasyxc.se/api/athletes/3150664,https://www.fantasyxc.se/api/athletes/3150664/results
+157,86,USA,214,13,True,3530911,False,JAGER Luke,m,https://www.fantasyxc.se/api/athletes/3530911,https://www.fantasyxc.se/api/athletes/3530911/results
+158,86,SWE,2172,13,True,3501741,False,POROMAA William,m,https://www.fantasyxc.se/api/athletes/3501741,https://www.fantasyxc.se/api/athletes/3501741/results
+159,86,SWE,223,13,True,3501587,False,BERGLUND Gustaf,m,https://www.fantasyxc.se/api/athletes/3501587,https://www.fantasyxc.se/api/athletes/3501587/results
+160,71,DEU,808,12,True,3205305,False,GIMMLER Laura,f,https://www.fantasyxc.se/api/athletes/3205305,https://www.fantasyxc.se/api/athletes/3205305/results
+161,71,USA,276,12,True,3535718,False,LAUKLI Sophia,f,https://www.fantasyxc.se/api/athletes/3535718,https://www.fantasyxc.se/api/athletes/3535718/results
+162,91,NOR,223,12,True,3423627,False,SKAANES Haakon,m,https://www.fantasyxc.se/api/athletes/3423627,https://www.fantasyxc.se/api/athletes/3423627/results
+163,91,CHE,227,12,True,3510417,False,KAESER Erwan,m,https://www.fantasyxc.se/api/athletes/3510417,https://www.fantasyxc.se/api/athletes/3510417/results
+164,91,FRA,919,12,True,3190268,False,BACKSCHEIDER Adrien,m,https://www.fantasyxc.se/api/athletes/3190268,https://www.fantasyxc.se/api/athletes/3190268/results
+165,73,ITA,227,11,True,3295000,False,BROCARD Elisa,f,https://www.fantasyxc.se/api/athletes/3295000,https://www.fantasyxc.se/api/athletes/3295000/results
+166,73,CZE,342,11,True,3155344,False,BERANOVA Tereza,f,https://www.fantasyxc.se/api/athletes/3155344,https://www.fantasyxc.se/api/athletes/3155344/results
+167,94,FIN,252,11,True,3181098,False,SUHONEN Verneri,m,https://www.fantasyxc.se/api/athletes/3181098,https://www.fantasyxc.se/api/athletes/3181098/results
+168,75,JPN,425,10,True,1274580,False,ISHIDA Masako,f,https://www.fantasyxc.se/api/athletes/1274580,https://www.fantasyxc.se/api/athletes/1274580/results
+169,95,CZE,229,10,True,3150549,False,SELLER Ludek,m,https://www.fantasyxc.se/api/athletes/3150549,https://www.fantasyxc.se/api/athletes/3150549/results
+170,95,FIN,1704,10,True,3180508,False,HAKOLA Ristomatti,m,https://www.fantasyxc.se/api/athletes/3180508,https://www.fantasyxc.se/api/athletes/3180508/results
+171,76,FIN,229,9,True,3185828,False,KAHARA Jasmin,f,https://www.fantasyxc.se/api/athletes/3185828,https://www.fantasyxc.se/api/athletes/3185828/results
+172,76,FIN,1658,9,True,3185137,False,KYLLOENEN Anne,f,https://www.fantasyxc.se/api/athletes/3185137,https://www.fantasyxc.se/api/athletes/3185137/results
+173,97,POL,359,8,True,3430249,False,BURY Dominik,m,https://www.fantasyxc.se/api/athletes/3430249,https://www.fantasyxc.se/api/athletes/3430249/results
+174,78,RUS,217,7,True,3486820,False,FALEEVA Anastasiya,f,https://www.fantasyxc.se/api/athletes/3486820,https://www.fantasyxc.se/api/athletes/3486820/results
+175,78,RUS,498,7,True,3486563,False,MATSOKINA Hristina,f,https://www.fantasyxc.se/api/athletes/3486563,https://www.fantasyxc.se/api/athletes/3486563/results
+176,78,RUS,247,7,True,3486548,False,ISTOMINA Mariya,f,https://www.fantasyxc.se/api/athletes/3486548,https://www.fantasyxc.se/api/athletes/3486548/results
+177,98,SWE,895,7,True,3500664,False,HALFVARSSON Calle,m,https://www.fantasyxc.se/api/athletes/3500664,https://www.fantasyxc.se/api/athletes/3500664/results
+178,98,CZE,222,7,True,3150635,False,KALIVODA Tomas,m,https://www.fantasyxc.se/api/athletes/3150635,https://www.fantasyxc.se/api/athletes/3150635/results
+179,81,NOR,218,6,True,3425896,False,THEODORSEN Silje,f,https://www.fantasyxc.se/api/athletes/3425896,https://www.fantasyxc.se/api/athletes/3425896/results
+180,100,CHE,636,6,True,3510351,False,FURGER Roman,m,https://www.fantasyxc.se/api/athletes/3510351,https://www.fantasyxc.se/api/athletes/3510351/results
+181,81,NOR,248,6,True,3425863,False,ALNAES Anikken Gjerde,f,https://www.fantasyxc.se/api/athletes/3425863,https://www.fantasyxc.se/api/athletes/3425863/results
+182,83,FRA,227,5,True,3195263,False,QUINTIN Lena,f,https://www.fantasyxc.se/api/athletes/3195263,https://www.fantasyxc.se/api/athletes/3195263/results
+183,101,GBR,473,5,True,3220033,False,CLUGNET James,m,https://www.fantasyxc.se/api/athletes/3220033,https://www.fantasyxc.se/api/athletes/3220033/results
+184,83,SWE,275,5,True,3506276,False,HANSSON Moa,f,https://www.fantasyxc.se/api/athletes/3506276,https://www.fantasyxc.se/api/athletes/3506276/results
+185,101,SWE,224,5,True,3501252,False,JONSSON Olof,m,https://www.fantasyxc.se/api/athletes/3501252,https://www.fantasyxc.se/api/athletes/3501252/results
+186,101,CHE,470,5,True,3510479,False,RUEESCH Jason,m,https://www.fantasyxc.se/api/athletes/3510479,https://www.fantasyxc.se/api/athletes/3510479/results
+187,85,RUS,1913,4,True,3486314,False,KIRPICHENKO Yana,f,https://www.fantasyxc.se/api/athletes/3486314,https://www.fantasyxc.se/api/athletes/3486314/results
+188,104,DEU,556,4,True,3200676,False,BRUGGER Janosch,m,https://www.fantasyxc.se/api/athletes/3200676,https://www.fantasyxc.se/api/athletes/3200676/results
+189,104,FRA,659,4,True,3190398,False,LAPIERRE Jules,m,https://www.fantasyxc.se/api/athletes/3190398,https://www.fantasyxc.se/api/athletes/3190398/results
+190,85,FIN,250,4,True,1255374,False,ROPONEN Riitta-Liisa,f,https://www.fantasyxc.se/api/athletes/1255374,https://www.fantasyxc.se/api/athletes/1255374/results
+191,87,USA,211,3,True,3535606,False,HALVORSEN Hannah,f,https://www.fantasyxc.se/api/athletes/3535606,https://www.fantasyxc.se/api/athletes/3535606/results
+192,87,USA,218,3,True,3535703,False,MCCABE Novie,f,https://www.fantasyxc.se/api/athletes/3535703,https://www.fantasyxc.se/api/athletes/3535703/results
+193,106,RUS,536,2,True,3480695,False,BESSMERTNYKH Alexander,m,https://www.fantasyxc.se/api/athletes/3480695,https://www.fantasyxc.se/api/athletes/3480695/results
+194,106,SWE,219,2,True,3501842,False,ERSSON Georg,m,https://www.fantasyxc.se/api/athletes/3501842,https://www.fantasyxc.se/api/athletes/3501842/results
+195,89,DEU,215,2,True,3205570,False,RYDZEK Coletta,f,https://www.fantasyxc.se/api/athletes/3205570,https://www.fantasyxc.se/api/athletes/3205570/results
+196,89,FRA,227,2,True,3195289,False,DOLCI Flora,f,https://www.fantasyxc.se/api/athletes/3195289,https://www.fantasyxc.se/api/athletes/3195289/results
+197,106,JPN,213,2,True,3300494,False,BABA Naoto,m,https://www.fantasyxc.se/api/athletes/3300494,https://www.fantasyxc.se/api/athletes/3300494/results
+198,109,NOR,228,1,True,3423749,False,RYSSTAD Aron Aakre,m,https://www.fantasyxc.se/api/athletes/3423749,https://www.fantasyxc.se/api/athletes/3423749/results
+199,91,USA,478,1,True,3535601,False,OGDEN Katharine,f,https://www.fantasyxc.se/api/athletes/3535601,https://www.fantasyxc.se/api/athletes/3535601/results
+200,91,FIN,211,1,True,3185305,False,PAJUNOJA Maaret,f,https://www.fantasyxc.se/api/athletes/3185305,https://www.fantasyxc.se/api/athletes/3185305/results
+201,91,NOR,222,1,True,3426431,False,SIMPSON-LARSEN Karoline,f,https://www.fantasyxc.se/api/athletes/3426431,https://www.fantasyxc.se/api/athletes/3426431/results
+202,109,GBR,1947,1,True,3220016,False,YOUNG Andrew,m,https://www.fantasyxc.se/api/athletes/3220016,https://www.fantasyxc.se/api/athletes/3220016/results
+203,94,SVN,216,0,False,3565061,False,ZAVBI KUNAVER Anja,f,https://www.fantasyxc.se/api/athletes/3565061,https://www.fantasyxc.se/api/athletes/3565061/results
+204,94,SWE,230,0,True,3505591,False,NORDSTROEM Maria,f,https://www.fantasyxc.se/api/athletes/3505591,https://www.fantasyxc.se/api/athletes/3505591/results
+205,94,POL,216,0,False,3435040,False,GALEWICZ Martyna,f,https://www.fantasyxc.se/api/athletes/3435040,https://www.fantasyxc.se/api/athletes/3435040/results
+206,94,NOR,233,0,True,3426562,False,ENGEBRETSEN Martine,f,https://www.fantasyxc.se/api/athletes/3426562,https://www.fantasyxc.se/api/athletes/3426562/results
+207,94,USA,219,0,False,3535467,False,POKORNY Annie,f,https://www.fantasyxc.se/api/athletes/3535467,https://www.fantasyxc.se/api/athletes/3535467/results
+208,94,CHN,214,0,True,3125103,False,YILAMUJIANG Dinigeer,f,https://www.fantasyxc.se/api/athletes/3125103,https://www.fantasyxc.se/api/athletes/3125103/results
+209,94,RUS,216,0,False,3485221,False,SHAPOVALOVA Evgenia,f,https://www.fantasyxc.se/api/athletes/3485221,https://www.fantasyxc.se/api/athletes/3485221/results
+210,94,CHE,228,0,True,3515112,False,STIFFLER Tatjana,f,https://www.fantasyxc.se/api/athletes/3515112,https://www.fantasyxc.se/api/athletes/3515112/results
+211,94,UKR,213,0,False,1142563,False,SHEVCHENKO Valentina,f,https://www.fantasyxc.se/api/athletes/1142563,https://www.fantasyxc.se/api/athletes/1142563/results
+212,94,FIN,213,0,True,3185752,False,KORVA Anita,f,https://www.fantasyxc.se/api/athletes/3185752,https://www.fantasyxc.se/api/athletes/3185752/results
+213,94,FRA,217,0,False,3195056,False,JEAN Aurore,f,https://www.fantasyxc.se/api/athletes/3195056,https://www.fantasyxc.se/api/athletes/3195056/results
+214,94,KOR,212,0,True,1258769,False,LEE Chaewon,f,https://www.fantasyxc.se/api/athletes/1258769,https://www.fantasyxc.se/api/athletes/1258769/results
+215,94,CZE,228,0,True,3155231,False,MORAVCOVA Klara,f,https://www.fantasyxc.se/api/athletes/3155231,https://www.fantasyxc.se/api/athletes/3155231/results
+216,94,BLR,227,0,False,3665105,False,TIKHONOVA Yulia,f,https://www.fantasyxc.se/api/athletes/3665105,https://www.fantasyxc.se/api/athletes/3665105/results
+217,94,RUS,224,0,True,3485753,False,VLASOVA Anastasia,f,https://www.fantasyxc.se/api/athletes/3485753,https://www.fantasyxc.se/api/athletes/3485753/results
+218,94,CHE,698,0,False,3515184,False,VON SIEBENTHAL Nathalie,f,https://www.fantasyxc.se/api/athletes/3515184,https://www.fantasyxc.se/api/athletes/3515184/results
+219,94,SVN,212,0,False,3565039,False,RAZINGER Nika,f,https://www.fantasyxc.se/api/athletes/3565039,https://www.fantasyxc.se/api/athletes/3565039/results
+220,94,DEU,217,0,True,3205496,False,SAUERBREY Katherine,f,https://www.fantasyxc.se/api/athletes/3205496,https://www.fantasyxc.se/api/athletes/3205496/results
+221,94,RUS,224,0,False,3485770,False,MURAVEVA Zhanna,f,https://www.fantasyxc.se/api/athletes/3485770,https://www.fantasyxc.se/api/athletes/3485770/results
+222,94,NOR,229,0,True,3425355,False,SLIND Silje Oeyre,f,https://www.fantasyxc.se/api/athletes/3425355,https://www.fantasyxc.se/api/athletes/3425355/results
+223,94,USA,222,0,False,3535372,False,HOLMES Chelsea,f,https://www.fantasyxc.se/api/athletes/3535372,https://www.fantasyxc.se/api/athletes/3535372/results
+224,94,RUS,221,0,False,3485701,False,VANEEVA Ksenia,f,https://www.fantasyxc.se/api/athletes/3485701,https://www.fantasyxc.se/api/athletes/3485701/results
+225,94,RUS,233,0,False,3485788,False,FELLER Ksenia,f,https://www.fantasyxc.se/api/athletes/3485788,https://www.fantasyxc.se/api/athletes/3485788/results
+226,94,CZE,225,0,True,3155356,False,HAVLICKOVA Barbora,f,https://www.fantasyxc.se/api/athletes/3155356,https://www.fantasyxc.se/api/athletes/3155356/results
+227,94,SWE,214,0,True,3505434,False,WIKEN Emma,f,https://www.fantasyxc.se/api/athletes/3505434,https://www.fantasyxc.se/api/athletes/3505434/results
+228,94,UKR,232,0,True,3695050,True,UKRAINE II,f,https://www.fantasyxc.se/api/athletes/3695050,https://www.fantasyxc.se/api/athletes/3695050/results
+229,94,CZE,222,0,True,3155186,False,SCHUETZOVA Sandra,f,https://www.fantasyxc.se/api/athletes/3155186,https://www.fantasyxc.se/api/athletes/3155186/results
+230,94,RUS,212,0,False,3485323,False,CHERNOUSOVA Marina,f,https://www.fantasyxc.se/api/athletes/3485323,https://www.fantasyxc.se/api/athletes/3485323/results
+231,94,USA,229,0,False,3535222,False,FLOWERS Erika,f,https://www.fantasyxc.se/api/athletes/3535222,https://www.fantasyxc.se/api/athletes/3535222/results
+232,94,NOR,232,0,True,3426175,False,HUSTAD Sofie Nordsveen,f,https://www.fantasyxc.se/api/athletes/3426175,https://www.fantasyxc.se/api/athletes/3426175/results
+233,94,NOR,229,0,True,3426003,False,HEIMDAL Lovise,f,https://www.fantasyxc.se/api/athletes/3426003,https://www.fantasyxc.se/api/athletes/3426003/results
+234,94,CZE,229,0,True,3155373,False,SMUTNA Katerina,f,https://www.fantasyxc.se/api/athletes/3155373,https://www.fantasyxc.se/api/athletes/3155373/results
+235,94,CAN,223,0,False,3105133,False,HICKS Annika,f,https://www.fantasyxc.se/api/athletes/3105133,https://www.fantasyxc.se/api/athletes/3105133/results
+236,94,GBR,212,0,False,3225019,False,TAYLOR Annika,f,https://www.fantasyxc.se/api/athletes/3225019,https://www.fantasyxc.se/api/athletes/3225019/results
+237,94,RUS,231,0,True,3485008,False,SABIRZIANOVA Diliara,f,https://www.fantasyxc.se/api/athletes/3485008,https://www.fantasyxc.se/api/athletes/3485008/results
+238,94,CAN,315,0,False,3105214,False,STEWART-JONES Katherine,f,https://www.fantasyxc.se/api/athletes/3105214,https://www.fantasyxc.se/api/athletes/3105214/results
+239,94,USA,218,0,True,3535407,False,RORABAUGH Becca,f,https://www.fantasyxc.se/api/athletes/3535407,https://www.fantasyxc.se/api/athletes/3535407/results
+240,94,RUS,228,0,True,3485202,False,MATVEEVA Natalia,f,https://www.fantasyxc.se/api/athletes/3485202,https://www.fantasyxc.se/api/athletes/3485202/results
+241,94,DEU,217,0,True,3205350,False,WINKLER Anne,f,https://www.fantasyxc.se/api/athletes/3205350,https://www.fantasyxc.se/api/athletes/3205350/results
+242,94,FRA,229,0,True,3195010,False,THOMAS HUGUE Coraline,f,https://www.fantasyxc.se/api/athletes/3195010,https://www.fantasyxc.se/api/athletes/3195010/results
+243,94,SWE,609,0,False,3505405,False,FALK Hanna,f,https://www.fantasyxc.se/api/athletes/3505405,https://www.fantasyxc.se/api/athletes/3505405/results
+244,94,NOR,214,0,False,3425955,False,SNILDALSLI Wenche Aune,f,https://www.fantasyxc.se/api/athletes/3425955,https://www.fantasyxc.se/api/athletes/3425955/results
+245,94,AUS,218,0,False,3045088,False,JEZERSEK Barbara,f,https://www.fantasyxc.se/api/athletes/3045088,https://www.fantasyxc.se/api/athletes/3045088/results
+246,94,RUS,225,0,True,3486057,False,STOROZHILOVA Daria,f,https://www.fantasyxc.se/api/athletes/3486057,https://www.fantasyxc.se/api/athletes/3486057/results
+247,94,NOR,222,0,True,3425350,False,SLIND Astrid Oeyre,f,https://www.fantasyxc.se/api/athletes/3425350,https://www.fantasyxc.se/api/athletes/3425350/results
+248,94,RUS,215,0,False,3485759,False,BABCHINA Natalia,f,https://www.fantasyxc.se/api/athletes/3485759,https://www.fantasyxc.se/api/athletes/3485759/results
+249,94,JPN,220,0,False,3305024,False,OBAYASHI Chisa,f,https://www.fantasyxc.se/api/athletes/3305024,https://www.fantasyxc.se/api/athletes/3305024/results
+250,94,FIN,231,0,True,3185442,False,NURMI Leena,f,https://www.fantasyxc.se/api/athletes/3185442,https://www.fantasyxc.se/api/athletes/3185442/results
+251,94,NOR,212,0,True,3425865,False,TJETLAND Renate Bergset,f,https://www.fantasyxc.se/api/athletes/3425865,https://www.fantasyxc.se/api/athletes/3425865/results
+252,94,CAN,224,0,False,3105190,False,BROWNE Cendrine,f,https://www.fantasyxc.se/api/athletes/3105190,https://www.fantasyxc.se/api/athletes/3105190/results
+253,94,CZE,212,0,True,3155111,False,GROHOVA Karolina,f,https://www.fantasyxc.se/api/athletes/3155111,https://www.fantasyxc.se/api/athletes/3155111/results
+254,94,TUR,434,0,True,3525064,True,TURKEY I,f,https://www.fantasyxc.se/api/athletes/3525064,https://www.fantasyxc.se/api/athletes/3525064/results
+255,94,KAZ,213,0,False,3675018,False,MATROSSOVA Marina,f,https://www.fantasyxc.se/api/athletes/3675018,https://www.fantasyxc.se/api/athletes/3675018/results
+256,94,UKR,231,0,False,1194555,False,NESTERENKO Lada,f,https://www.fantasyxc.se/api/athletes/1194555,https://www.fantasyxc.se/api/athletes/1194555/results
+257,94,BLR,211,0,True,3665059,False,LUKONINA Ina,f,https://www.fantasyxc.se/api/athletes/3665059,https://www.fantasyxc.se/api/athletes/3665059/results
+258,94,MNG,365,0,True,3725035,True,MONGOLIA I,f,https://www.fantasyxc.se/api/athletes/3725035,https://www.fantasyxc.se/api/athletes/3725035/results
+259,94,RUS,233,0,False,3486030,False,SITNIK Natalia,f,https://www.fantasyxc.se/api/athletes/3486030,https://www.fantasyxc.se/api/athletes/3486030/results
+260,94,RUS,228,0,False,3485370,False,POVOLIAEVA Anna,f,https://www.fantasyxc.se/api/athletes/3485370,https://www.fantasyxc.se/api/athletes/3485370/results
+261,94,GBR,220,0,False,3535463,False,BATHE Nichole,f,https://www.fantasyxc.se/api/athletes/3535463,https://www.fantasyxc.se/api/athletes/3535463/results
+262,94,NOR,224,0,True,3425443,False,NAKSTAD Maria Stroem,f,https://www.fantasyxc.se/api/athletes/3425443,https://www.fantasyxc.se/api/athletes/3425443/results
+263,94,NOR,228,0,True,3425483,False,HAGEN Martine Ek,f,https://www.fantasyxc.se/api/athletes/3425483,https://www.fantasyxc.se/api/athletes/3425483/results
+264,94,POL,231,0,False,3435001,False,KOWALCZYK Justyna,f,https://www.fantasyxc.se/api/athletes/3435001,https://www.fantasyxc.se/api/athletes/3435001/results
+265,94,LTU,1524,0,True,3785050,True,LITHUANIA I,f,https://www.fantasyxc.se/api/athletes/3785050,https://www.fantasyxc.se/api/athletes/3785050/results
+266,94,SWE,221,0,True,3505954,False,OEHRN Rebecca,f,https://www.fantasyxc.se/api/athletes/3505954,https://www.fantasyxc.se/api/athletes/3505954/results
+267,94,DEU,216,0,False,3205075,False,HERRMANN Denise,f,https://www.fantasyxc.se/api/athletes/3205075,https://www.fantasyxc.se/api/athletes/3205075/results
+268,94,RUS,212,0,False,3486427,False,PIVOVAROVA Alexandra,f,https://www.fantasyxc.se/api/athletes/3486427,https://www.fantasyxc.se/api/athletes/3486427/results
+269,94,DEU,232,0,True,3205422,False,PREUSSGER Julia,f,https://www.fantasyxc.se/api/athletes/3205422,https://www.fantasyxc.se/api/athletes/3205422/results
+270,94,RUS,233,0,False,3486464,False,BUSHMAKINA Ekaterina,f,https://www.fantasyxc.se/api/athletes/3486464,https://www.fantasyxc.se/api/athletes/3486464/results
+271,94,SWE,233,0,False,3505906,False,BJOERN Mimmi,f,https://www.fantasyxc.se/api/athletes/3505906,https://www.fantasyxc.se/api/athletes/3505906/results
+272,94,DEU,213,0,False,3205260,False,SCHICHO Elisabeth,f,https://www.fantasyxc.se/api/athletes/3205260,https://www.fantasyxc.se/api/athletes/3205260/results
+273,94,SVK,3285,0,True,3705085,True,SLOVAKIA I,f,https://www.fantasyxc.se/api/athletes/3705085,https://www.fantasyxc.se/api/athletes/3705085/results
+274,94,RUS,216,0,True,3486901,False,MEKRYUKOVA Nataliya,f,https://www.fantasyxc.se/api/athletes/3486901,https://www.fantasyxc.se/api/athletes/3486901/results
+275,94,CHE,225,0,True,3515289,False,STEINER Desiree,f,https://www.fantasyxc.se/api/athletes/3515289,https://www.fantasyxc.se/api/athletes/3515289/results
+276,94,DEU,232,0,False,3205461,False,MANN Jenny,f,https://www.fantasyxc.se/api/athletes/3205461,https://www.fantasyxc.se/api/athletes/3205461/results
+277,94,SWE,473,0,True,3505956,False,ROENNLUND Elina,f,https://www.fantasyxc.se/api/athletes/3505956,https://www.fantasyxc.se/api/athletes/3505956/results
+278,94,SVK,232,0,True,3705041,False,KLEMENTOVA Barbora,f,https://www.fantasyxc.se/api/athletes/3705041,https://www.fantasyxc.se/api/athletes/3705041/results
+279,94,CHN,231,0,True,3125046,False,LI Xin,f,https://www.fantasyxc.se/api/athletes/3125046,https://www.fantasyxc.se/api/athletes/3125046/results
+280,94,POL,220,0,False,3435014,False,JASKOWIEC Sylwia,f,https://www.fantasyxc.se/api/athletes/3435014,https://www.fantasyxc.se/api/athletes/3435014/results
+281,94,RUS,215,0,True,3486350,False,SEVERINA Irina,f,https://www.fantasyxc.se/api/athletes/3486350,https://www.fantasyxc.se/api/athletes/3486350/results
+282,94,FRA,219,0,False,3195250,False,CHAMIOT MAITRAL Laura,f,https://www.fantasyxc.se/api/athletes/3195250,https://www.fantasyxc.se/api/athletes/3195250/results
+283,94,DEU,215,0,True,3205689,False,LOESCHKE Jessica,f,https://www.fantasyxc.se/api/athletes/3205689,https://www.fantasyxc.se/api/athletes/3205689/results
+284,94,CHE,2900,0,True,3515214,True,SWITZERLAND II,f,https://www.fantasyxc.se/api/athletes/3515214,https://www.fantasyxc.se/api/athletes/3515214/results
+285,94,KAZ,230,0,True,3675035,False,SHEVCHENKO Anna,f,https://www.fantasyxc.se/api/athletes/3675035,https://www.fantasyxc.se/api/athletes/3675035/results
+286,94,NOR,221,0,True,3425827,False,MOGSTAD Berit,f,https://www.fantasyxc.se/api/athletes/3425827,https://www.fantasyxc.se/api/athletes/3425827/results
+287,94,POL,4061,0,True,3430261,True,POLAND I,f,https://www.fantasyxc.se/api/athletes/3430261,https://www.fantasyxc.se/api/athletes/3430261/results
+288,94,FRA,220,0,True,3195253,False,DUCORDEAU Juliette,f,https://www.fantasyxc.se/api/athletes/3195253,https://www.fantasyxc.se/api/athletes/3195253/results
+289,94,FIN,212,0,True,3185705,False,OLKKONEN Tiia,f,https://www.fantasyxc.se/api/athletes/3185705,https://www.fantasyxc.se/api/athletes/3185705/results
+290,94,ITA,506,0,True,3295215,True,ITALY II,f,https://www.fantasyxc.se/api/athletes/3295215,https://www.fantasyxc.se/api/athletes/3295215/results
+291,94,CAN,224,0,False,3105184,False,COMEAU Anne-Marie,f,https://www.fantasyxc.se/api/athletes/3105184,https://www.fantasyxc.se/api/athletes/3105184/results
+292,94,RUS,222,0,False,3486270,False,TIMIRYAEVA Yulia,f,https://www.fantasyxc.se/api/athletes/3486270,https://www.fantasyxc.se/api/athletes/3486270/results
+293,94,CHE,227,0,True,3515252,False,MEIER Alina,f,https://www.fantasyxc.se/api/athletes/3515252,https://www.fantasyxc.se/api/athletes/3515252/results
+294,94,RUS,221,0,True,3486232,False,GOLOVAN Diana,f,https://www.fantasyxc.se/api/athletes/3486232,https://www.fantasyxc.se/api/athletes/3486232/results
+295,94,USA,223,0,False,3535584,False,PHINNEY Kelsey,f,https://www.fantasyxc.se/api/athletes/3535584,https://www.fantasyxc.se/api/athletes/3535584/results
+296,94,RUS,227,0,False,3485889,False,ROMANOVA Yulia,f,https://www.fantasyxc.se/api/athletes/3485889,https://www.fantasyxc.se/api/athletes/3485889/results
+297,94,NOR,221,0,False,3425404,False,EIDE Mari,f,https://www.fantasyxc.se/api/athletes/3425404,https://www.fantasyxc.se/api/athletes/3425404/results
+298,94,SWE,215,0,False,3505231,False,ERIKSSON Mia,f,https://www.fantasyxc.se/api/athletes/3505231,https://www.fantasyxc.se/api/athletes/3505231/results
+299,94,CHN,224,0,True,3125106,False,JIALIN Bayani,f,https://www.fantasyxc.se/api/athletes/3125106,https://www.fantasyxc.se/api/athletes/3125106/results
+300,94,SWE,222,0,False,3505869,False,MAGNUSSON Anna,f,https://www.fantasyxc.se/api/athletes/3505869,https://www.fantasyxc.se/api/athletes/3505869/results
+301,94,CAN,216,0,False,3105146,False,BEATTY Dahria,f,https://www.fantasyxc.se/api/athletes/3105146,https://www.fantasyxc.se/api/athletes/3105146/results
+302,94,SVN,230,0,False,3565073,False,SLABANJA Manca,f,https://www.fantasyxc.se/api/athletes/3565073,https://www.fantasyxc.se/api/athletes/3565073/results
+303,94,KOR,655,0,True,3325102,True,KOREA I,f,https://www.fantasyxc.se/api/athletes/3325102,https://www.fantasyxc.se/api/athletes/3325102/results
+304,94,FRA,224,0,True,3195313,False,LATUILLIERE Enora,f,https://www.fantasyxc.se/api/athletes/3195313,https://www.fantasyxc.se/api/athletes/3195313/results
+305,94,SWE,217,0,False,3505183,False,JOENSSON HAAG Anna,f,https://www.fantasyxc.se/api/athletes/3505183,https://www.fantasyxc.se/api/athletes/3505183/results
+306,94,KOR,221,0,False,3325065,False,JE Sangmi,f,https://www.fantasyxc.se/api/athletes/3325065,https://www.fantasyxc.se/api/athletes/3325065/results
+307,94,POL,225,0,False,3435018,False,KUBINSKA Kornelia,f,https://www.fantasyxc.se/api/athletes/3435018,https://www.fantasyxc.se/api/athletes/3435018/results
+308,94,RUS,223,0,True,3486186,False,PLOTNIKOVA Svetlana,f,https://www.fantasyxc.se/api/athletes/3486186,https://www.fantasyxc.se/api/athletes/3486186/results
+309,94,POL,229,0,False,3435133,False,LETOCHA Urszula,f,https://www.fantasyxc.se/api/athletes/3435133,https://www.fantasyxc.se/api/athletes/3435133/results
+310,94,SWE,1157,0,True,3506079,False,LUNDGREN Moa,f,https://www.fantasyxc.se/api/athletes/3506079,https://www.fantasyxc.se/api/athletes/3506079/results
+311,94,CZE,220,0,True,3155249,False,NOVAKOVA Petra,f,https://www.fantasyxc.se/api/athletes/3155249,https://www.fantasyxc.se/api/athletes/3155249/results
+312,94,FRA,250,0,False,3195040,False,FAIVRE PICON Anouk,f,https://www.fantasyxc.se/api/athletes/3195040,https://www.fantasyxc.se/api/athletes/3195040/results
+313,94,USA,5018,0,False,3535304,False,CALDWELL HAMILTON Sophie,f,https://www.fantasyxc.se/api/athletes/3535304,https://www.fantasyxc.se/api/athletes/3535304/results
+314,94,NOR,218,0,False,3425177,False,GJEITNES Kari Vikhagen,f,https://www.fantasyxc.se/api/athletes/3425177,https://www.fantasyxc.se/api/athletes/3425177/results
+315,94,ITA,229,0,False,3295088,False,DE MARTIN TOPRANIN Virginia,f,https://www.fantasyxc.se/api/athletes/3295088,https://www.fantasyxc.se/api/athletes/3295088/results
+316,94,AUT,1208,0,True,3055176,True,AUSTRIA I,f,https://www.fantasyxc.se/api/athletes/3055176,https://www.fantasyxc.se/api/athletes/3055176/results
+317,94,RUS,215,0,False,3486477,False,PETROVA Yuliya,f,https://www.fantasyxc.se/api/athletes/3486477,https://www.fantasyxc.se/api/athletes/3486477/results
+318,94,RUS,211,0,False,3485324,False,KURAMSHINA Viktoria,f,https://www.fantasyxc.se/api/athletes/3485324,https://www.fantasyxc.se/api/athletes/3485324/results
+319,94,USA,231,0,False,3535636,False,MILLER Kaitlynn,f,https://www.fantasyxc.se/api/athletes/3535636,https://www.fantasyxc.se/api/athletes/3535636/results
+320,94,RUS,231,0,False,3485491,False,TANYGINA Alevtina,f,https://www.fantasyxc.se/api/athletes/3485491,https://www.fantasyxc.se/api/athletes/3485491/results
+321,94,NOR,229,0,True,3425912,False,MURUD Thea Krokan,f,https://www.fantasyxc.se/api/athletes/3425912,https://www.fantasyxc.se/api/athletes/3425912/results
+322,94,UKR,225,0,True,3695052,False,OLEKH Viktoriya,f,https://www.fantasyxc.se/api/athletes/3695052,https://www.fantasyxc.se/api/athletes/3695052/results
+323,94,KAZ,226,0,True,3675066,False,TYULENEVA Valeriya,f,https://www.fantasyxc.se/api/athletes/3675066,https://www.fantasyxc.se/api/athletes/3675066/results
+324,94,KAZ,216,0,True,3675041,False,SHURYGA Angelina,f,https://www.fantasyxc.se/api/athletes/3675041,https://www.fantasyxc.se/api/athletes/3675041/results
+325,94,ITA,229,0,False,3295237,False,STUERZ Giulia,f,https://www.fantasyxc.se/api/athletes/3295237,https://www.fantasyxc.se/api/athletes/3295237/results
+326,94,ITA,215,0,True,3295439,False,DI CENTA Martina,f,https://www.fantasyxc.se/api/athletes/3295439,https://www.fantasyxc.se/api/athletes/3295439/results
+327,94,CZE,2877,0,False,3155314,False,RAZYMOVA Katerina,f,https://www.fantasyxc.se/api/athletes/3155314,https://www.fantasyxc.se/api/athletes/3155314/results
+328,94,NOR,217,0,False,3425519,False,KVAALE Barbro,f,https://www.fantasyxc.se/api/athletes/3425519,https://www.fantasyxc.se/api/athletes/3425519/results
+329,94,RUS,221,0,True,3486375,False,KUCHERUK Olga,f,https://www.fantasyxc.se/api/athletes/3486375,https://www.fantasyxc.se/api/athletes/3486375/results
+330,94,SWE,231,0,False,3505614,False,LINDKVIST Ida,f,https://www.fantasyxc.se/api/athletes/3505614,https://www.fantasyxc.se/api/athletes/3505614/results
+331,94,NOR,219,0,True,3426182,False,OUS Amalie Haakonsen,f,https://www.fantasyxc.se/api/athletes/3426182,https://www.fantasyxc.se/api/athletes/3426182/results
+332,94,EST,222,0,False,3395086,False,VEERPALU Anette,f,https://www.fantasyxc.se/api/athletes/3395086,https://www.fantasyxc.se/api/athletes/3395086/results
+333,94,NOR,218,0,False,1303777,False,BJOERGEN Marit,f,https://www.fantasyxc.se/api/athletes/1303777,https://www.fantasyxc.se/api/athletes/1303777/results
+334,94,FIN,214,0,True,3185610,False,ALAKOSKI Anni,f,https://www.fantasyxc.se/api/athletes/3185610,https://www.fantasyxc.se/api/athletes/3185610/results
+335,94,NOR,227,0,True,3425902,False,GUSSIAAS Mari Stoeen,f,https://www.fantasyxc.se/api/athletes/3425902,https://www.fantasyxc.se/api/athletes/3425902/results
+336,94,AUT,231,0,False,3055085,False,SCHWARZ Nathalie,f,https://www.fantasyxc.se/api/athletes/3055085,https://www.fantasyxc.se/api/athletes/3055085/results
+337,94,RUS,212,0,True,3485858,False,KRYUCHKOVA Ekaterina,f,https://www.fantasyxc.se/api/athletes/3485858,https://www.fantasyxc.se/api/athletes/3485858/results
+338,94,SRB,1660,0,True,3315039,True,SERBIA I,f,https://www.fantasyxc.se/api/athletes/3315039,https://www.fantasyxc.se/api/athletes/3315039/results
+339,94,SWE,226,0,False,3505003,False,RYDQVIST Maria,f,https://www.fantasyxc.se/api/athletes/3505003,https://www.fantasyxc.se/api/athletes/3505003/results
+340,94,RUS,216,0,True,3485841,False,DAVYDENKOVA Maria,f,https://www.fantasyxc.se/api/athletes/3485841,https://www.fantasyxc.se/api/athletes/3485841/results
+341,94,JPN,211,0,True,3305279,False,TSUCHIYA Masae,f,https://www.fantasyxc.se/api/athletes/3305279,https://www.fantasyxc.se/api/athletes/3305279/results
+342,94,DEU,224,0,True,3205424,False,HERRMANN Nadine,f,https://www.fantasyxc.se/api/athletes/3205424,https://www.fantasyxc.se/api/athletes/3205424/results
+343,94,RUS,216,0,False,3485510,False,KALSINA Polina,f,https://www.fantasyxc.se/api/athletes/3485510,https://www.fantasyxc.se/api/athletes/3485510/results
+344,94,EST,219,0,False,3395035,False,ALBA Laura,f,https://www.fantasyxc.se/api/athletes/3395035,https://www.fantasyxc.se/api/athletes/3395035/results
+345,94,UKR,230,0,True,3695082,False,KROL Yuliia,f,https://www.fantasyxc.se/api/athletes/3695082,https://www.fantasyxc.se/api/athletes/3695082/results
+346,94,POL,231,0,True,3435201,False,SKINDER Monika,f,https://www.fantasyxc.se/api/athletes/3435201,https://www.fantasyxc.se/api/athletes/3435201/results
+347,94,NOR,211,0,True,3426149,False,SKAANES Marte,f,https://www.fantasyxc.se/api/athletes/3426149,https://www.fantasyxc.se/api/athletes/3426149/results
+348,94,FIN,216,0,True,3185702,False,PIIPPO Eveliina,f,https://www.fantasyxc.se/api/athletes/3185702,https://www.fantasyxc.se/api/athletes/3185702/results
+349,94,KAZ,224,0,False,1319976,False,KOLOMINA Yelena,f,https://www.fantasyxc.se/api/athletes/1319976,https://www.fantasyxc.se/api/athletes/1319976/results
+350,94,USA,228,0,False,3535261,False,STEPHEN Elizabeth,f,https://www.fantasyxc.se/api/athletes/3535261,https://www.fantasyxc.se/api/athletes/3535261/results
+351,94,SWE,219,0,False,3505631,False,CEDERVAERN Emilie,f,https://www.fantasyxc.se/api/athletes/3505631,https://www.fantasyxc.se/api/athletes/3505631/results
+352,94,DEU,213,0,False,3205224,False,KOLB Hanna,f,https://www.fantasyxc.se/api/athletes/3205224,https://www.fantasyxc.se/api/athletes/3205224/results
+353,94,CAN,223,0,False,3105179,False,BOUFFARD-NESBITT Olivia,f,https://www.fantasyxc.se/api/athletes/3105179,https://www.fantasyxc.se/api/athletes/3105179/results
+354,94,DEU,219,0,False,3205215,False,GOESSNER Miriam,f,https://www.fantasyxc.se/api/athletes/3205215,https://www.fantasyxc.se/api/athletes/3205215/results
+355,94,EST,3977,0,True,3395163,True,ESTONIA I,f,https://www.fantasyxc.se/api/athletes/3395163,https://www.fantasyxc.se/api/athletes/3395163/results
+356,94,RUS,226,0,True,3485760,False,GAIANOVA Elmira,f,https://www.fantasyxc.se/api/athletes/3485760,https://www.fantasyxc.se/api/athletes/3485760/results
+357,94,USA,213,0,False,3535021,False,GREGG Caitlin,f,https://www.fantasyxc.se/api/athletes/3535021,https://www.fantasyxc.se/api/athletes/3535021/results
+358,111,JPN,219,0,True,3300270,False,NARUSE Kaichi,m,https://www.fantasyxc.se/api/athletes/3300270,https://www.fantasyxc.se/api/athletes/3300270/results
+359,111,ITA,221,0,True,3290417,False,FANTON Paolo,m,https://www.fantasyxc.se/api/athletes/3290417,https://www.fantasyxc.se/api/athletes/3290417/results
+360,111,SWE,223,0,False,3501346,False,THORN Viktor,m,https://www.fantasyxc.se/api/athletes/3501346,https://www.fantasyxc.se/api/athletes/3501346/results
+361,111,NOR,225,0,False,3421601,False,GRAVE Nils Magnus Boeen,m,https://www.fantasyxc.se/api/athletes/3421601,https://www.fantasyxc.se/api/athletes/3421601/results
+362,111,AUS,213,0,False,3040080,False,WATSON Callum,m,https://www.fantasyxc.se/api/athletes/3040080,https://www.fantasyxc.se/api/athletes/3040080/results
+363,111,SWE,214,0,True,3501577,False,ANDERSSON Fredrik,m,https://www.fantasyxc.se/api/athletes/3501577,https://www.fantasyxc.se/api/athletes/3501577/results
+364,111,DEU,221,0,False,3200219,False,MAETTIG Valentin,m,https://www.fantasyxc.se/api/athletes/3200219,https://www.fantasyxc.se/api/athletes/3200219/results
+365,111,CAN,214,0,False,3100268,False,KENNEDY Russell,m,https://www.fantasyxc.se/api/athletes/3100268,https://www.fantasyxc.se/api/athletes/3100268/results
+366,111,POL,220,0,True,3430276,False,HARATYK Mateusz,m,https://www.fantasyxc.se/api/athletes/3430276,https://www.fantasyxc.se/api/athletes/3430276/results
+367,111,FRA,214,0,True,3190002,False,CHAUVET Benoit,m,https://www.fantasyxc.se/api/athletes/3190002,https://www.fantasyxc.se/api/athletes/3190002/results
+368,111,SVN,224,0,False,3560109,False,DOLAR Miha,m,https://www.fantasyxc.se/api/athletes/3560109,https://www.fantasyxc.se/api/athletes/3560109/results
+369,111,ITA,228,0,True,3290600,False,DAPRA Simone,m,https://www.fantasyxc.se/api/athletes/3290600,https://www.fantasyxc.se/api/athletes/3290600/results
+370,111,FRA,220,0,False,3190303,False,PHILIPOT Mickael,m,https://www.fantasyxc.se/api/athletes/3190303,https://www.fantasyxc.se/api/athletes/3190303/results
+371,111,KAZ,230,0,False,3670058,False,MUKHIN Rinat,m,https://www.fantasyxc.se/api/athletes/3670058,https://www.fantasyxc.se/api/athletes/3670058/results
+372,111,CHE,227,0,False,1362947,False,PERL Curdin,m,https://www.fantasyxc.se/api/athletes/1362947,https://www.fantasyxc.se/api/athletes/1362947/results
+373,111,DEU,230,0,True,3200072,False,KATZ Andreas,m,https://www.fantasyxc.se/api/athletes/3200072,https://www.fantasyxc.se/api/athletes/3200072/results
+374,111,RUS,298,0,True,3482260,False,SOBAKAREV Andrey,m,https://www.fantasyxc.se/api/athletes/3482260,https://www.fantasyxc.se/api/athletes/3482260/results
+375,111,ISL,316,0,True,3250062,True,ICELAND I,m,https://www.fantasyxc.se/api/athletes/3250062,https://www.fantasyxc.se/api/athletes/3250062/results
+376,111,CZE,214,0,True,3150509,False,KNOP Petr,m,https://www.fantasyxc.se/api/athletes/3150509,https://www.fantasyxc.se/api/athletes/3150509/results
+377,111,CZE,3234,0,True,74730,True,CZECH REPUBLIC II,m,https://www.fantasyxc.se/api/athletes/74730,https://www.fantasyxc.se/api/athletes/74730/results
+378,111,SWE,218,0,False,3500983,False,QUICKLUND Carl,m,https://www.fantasyxc.se/api/athletes/3500983,https://www.fantasyxc.se/api/athletes/3500983/results
+379,111,KAZ,211,0,True,3670022,False,VELICHKO Yevgeniy,m,https://www.fantasyxc.se/api/athletes/3670022,https://www.fantasyxc.se/api/athletes/3670022/results
+380,111,SVN,483,0,True,3560101,False,SIMENC Miha,m,https://www.fantasyxc.se/api/athletes/3560101,https://www.fantasyxc.se/api/athletes/3560101/results
+381,111,MNG,216,0,True,201365,True,Mongolia I,m,https://www.fantasyxc.se/api/athletes/201365,https://www.fantasyxc.se/api/athletes/201365/results
+382,111,CZE,229,0,True,3150559,False,BESTAK Jonas,m,https://www.fantasyxc.se/api/athletes/3150559,https://www.fantasyxc.se/api/athletes/3150559/results
+383,111,CAN,230,0,False,3100006,False,KERSHAW Devon,m,https://www.fantasyxc.se/api/athletes/3100006,https://www.fantasyxc.se/api/athletes/3100006/results
+384,111,CAN,221,0,True,3100406,False,CYR Antoine,m,https://www.fantasyxc.se/api/athletes/3100406,https://www.fantasyxc.se/api/athletes/3100406/results
+385,111,CZE,232,0,False,3150069,False,JAKS Martin,m,https://www.fantasyxc.se/api/athletes/3150069,https://www.fantasyxc.se/api/athletes/3150069/results
+386,111,NOR,322,0,True,3422992,False,WIIG Sivert,m,https://www.fantasyxc.se/api/athletes/3422992,https://www.fantasyxc.se/api/athletes/3422992/results
+387,111,AUT,217,0,True,3050256,False,FOETTINGER Michael,m,https://www.fantasyxc.se/api/athletes/3050256,https://www.fantasyxc.se/api/athletes/3050256/results
+388,111,UKR,221,0,True,3690030,False,PEREKHODA Ruslan,m,https://www.fantasyxc.se/api/athletes/3690030,https://www.fantasyxc.se/api/athletes/3690030/results
+389,111,RUS,223,0,False,3480016,False,LEGKOV Alexander,m,https://www.fantasyxc.se/api/athletes/3480016,https://www.fantasyxc.se/api/athletes/3480016/results
+390,111,CHE,216,0,True,3510619,False,FAEHNDRICH Cyril,m,https://www.fantasyxc.se/api/athletes/3510619,https://www.fantasyxc.se/api/athletes/3510619/results
+391,111,ROU,214,0,True,3460018,False,PEPENE Paul Constantin,m,https://www.fantasyxc.se/api/athletes/3460018,https://www.fantasyxc.se/api/athletes/3460018/results
+392,111,FIN,216,0,False,1344711,False,JAUHOJAERVI Sami,m,https://www.fantasyxc.se/api/athletes/1344711,https://www.fantasyxc.se/api/athletes/1344711/results
+393,111,SWE,216,0,True,3501639,False,HERBERT Johan,m,https://www.fantasyxc.se/api/athletes/3501639,https://www.fantasyxc.se/api/athletes/3501639/results
+394,111,SWE,213,0,True,3501635,False,AFLODAL Axel,m,https://www.fantasyxc.se/api/athletes/3501635,https://www.fantasyxc.se/api/athletes/3501635/results
+395,111,ITA,219,0,False,3290290,False,NIZZI Enrico,m,https://www.fantasyxc.se/api/athletes/3290290,https://www.fantasyxc.se/api/athletes/3290290/results
+396,111,SWE,229,0,True,3501356,False,DANIELSSON Filip,m,https://www.fantasyxc.se/api/athletes/3501356,https://www.fantasyxc.se/api/athletes/3501356/results
+397,111,NOR,218,0,False,3420239,False,NORTHUG Petter Jr.,m,https://www.fantasyxc.se/api/athletes/3420239,https://www.fantasyxc.se/api/athletes/3420239/results
+398,111,RUS,214,0,False,3480684,False,USACHEV Igor,m,https://www.fantasyxc.se/api/athletes/3480684,https://www.fantasyxc.se/api/athletes/3480684/results
+399,111,FIN,211,0,True,3180766,False,OJANSIVU Antti,m,https://www.fantasyxc.se/api/athletes/3180766,https://www.fantasyxc.se/api/athletes/3180766/results
+400,111,NOR,216,0,False,1059725,False,AUKLAND Anders,m,https://www.fantasyxc.se/api/athletes/1059725,https://www.fantasyxc.se/api/athletes/1059725/results
+401,111,ISL,218,0,True,3250018,False,BIRGISSON Saevar,m,https://www.fantasyxc.se/api/athletes/3250018,https://www.fantasyxc.se/api/athletes/3250018/results
+402,111,DEU,215,0,True,3200426,False,MADLENER Moritz,m,https://www.fantasyxc.se/api/athletes/3200426,https://www.fantasyxc.se/api/athletes/3200426/results
+403,111,USA,222,0,True,3530772,False,LUSTGARTEN Benjamin,m,https://www.fantasyxc.se/api/athletes/3530772,https://www.fantasyxc.se/api/athletes/3530772/results
+404,111,NOR,226,0,True,3420953,False,MOXNES Einar Flaktveit,m,https://www.fantasyxc.se/api/athletes/3420953,https://www.fantasyxc.se/api/athletes/3420953/results
+405,111,DEU,231,0,False,3200710,False,GROSS Lukas,m,https://www.fantasyxc.se/api/athletes/3200710,https://www.fantasyxc.se/api/athletes/3200710/results
+406,111,CAN,227,0,False,3100412,False,RITCHIE Graham,m,https://www.fantasyxc.se/api/athletes/3100412,https://www.fantasyxc.se/api/athletes/3100412/results
+407,111,CZE,8569,0,True,102473,True,CZECH REPUBLIC I,m,https://www.fantasyxc.se/api/athletes/102473,https://www.fantasyxc.se/api/athletes/102473/results
+408,111,POL,213,0,False,3430186,False,KLISZ Pawel,m,https://www.fantasyxc.se/api/athletes/3430186,https://www.fantasyxc.se/api/athletes/3430186/results
+409,111,NOR,216,0,False,3420421,False,HELGESTAD Daniel Myrmael,m,https://www.fantasyxc.se/api/athletes/3420421,https://www.fantasyxc.se/api/athletes/3420421/results
+410,111,CHN,230,0,True,3120134,False,KUERBANJIANG Wuerkaixi,m,https://www.fantasyxc.se/api/athletes/3120134,https://www.fantasyxc.se/api/athletes/3120134/results
+411,111,KAZ,508,0,True,3670115,False,PUKHKALO Vitaliy,m,https://www.fantasyxc.se/api/athletes/3670115,https://www.fantasyxc.se/api/athletes/3670115/results
+412,111,CAN,216,0,False,3100248,False,LOCKE Julien,m,https://www.fantasyxc.se/api/athletes/3100248,https://www.fantasyxc.se/api/athletes/3100248/results
+413,111,FRA,223,0,True,3190481,False,MANCINI Tom,m,https://www.fantasyxc.se/api/athletes/3190481,https://www.fantasyxc.se/api/athletes/3190481/results
+414,111,DEU,233,0,False,3200331,False,WICK Thomas,m,https://www.fantasyxc.se/api/athletes/3200331,https://www.fantasyxc.se/api/athletes/3200331/results
+415,111,LIE,225,0,False,3350003,False,HAELG Philipp,m,https://www.fantasyxc.se/api/athletes/3350003,https://www.fantasyxc.se/api/athletes/3350003/results
+416,111,SWE,221,0,False,3500324,False,NORBERG Mikael,m,https://www.fantasyxc.se/api/athletes/3500324,https://www.fantasyxc.se/api/athletes/3500324/results
+417,111,NOR,228,0,True,3422803,False,STENSHAGEN Mattis,m,https://www.fantasyxc.se/api/athletes/3422803,https://www.fantasyxc.se/api/athletes/3422803/results
+418,111,CHN,256,0,True,132612,True,PEOPLES REPUBLIC OF CHINA I,m,https://www.fantasyxc.se/api/athletes/132612,https://www.fantasyxc.se/api/athletes/132612/results
+419,111,USA,214,0,False,3530629,False,CALDWELL Patrick,m,https://www.fantasyxc.se/api/athletes/3530629,https://www.fantasyxc.se/api/athletes/3530629/results
+420,111,RUS,216,0,False,3482071,False,BAKANOV Alexander,m,https://www.fantasyxc.se/api/athletes/3482071,https://www.fantasyxc.se/api/athletes/3482071/results
+421,111,NOR,211,0,True,3420376,False,GLOEERSEN Anders,m,https://www.fantasyxc.se/api/athletes/3420376,https://www.fantasyxc.se/api/athletes/3420376/results
+422,111,FIN,228,0,False,3180054,False,NOUSIAINEN Ville,m,https://www.fantasyxc.se/api/athletes/3180054,https://www.fantasyxc.se/api/athletes/3180054/results
+423,111,CHE,223,0,True,3510366,False,SCHNIDER Ueli,m,https://www.fantasyxc.se/api/athletes/3510366,https://www.fantasyxc.se/api/athletes/3510366/results
+424,111,FRA,222,0,True,3190298,False,POUYE Alexandre,m,https://www.fantasyxc.se/api/athletes/3190298,https://www.fantasyxc.se/api/athletes/3190298/results
+425,111,CHN,218,0,True,3120109,False,ENTEMAKE Maowulietibieke,m,https://www.fantasyxc.se/api/athletes/3120109,https://www.fantasyxc.se/api/athletes/3120109/results
+426,111,TUR,227,0,True,171272,True,TURKEY I,m,https://www.fantasyxc.se/api/athletes/171272,https://www.fantasyxc.se/api/athletes/171272/results
+427,111,NOR,233,0,True,3421216,False,NYENG Emil,m,https://www.fantasyxc.se/api/athletes/3421216,https://www.fantasyxc.se/api/athletes/3421216/results
+428,111,USA,224,0,True,3530005,False,NEWELL Andrew,m,https://www.fantasyxc.se/api/athletes/3530005,https://www.fantasyxc.se/api/athletes/3530005/results
+429,111,RUS,224,0,True,3481507,False,NIKOLAEV Artem,m,https://www.fantasyxc.se/api/athletes/3481507,https://www.fantasyxc.se/api/athletes/3481507/results
+430,111,AUT,3502,0,True,100622,True,AUSTRIA I,m,https://www.fantasyxc.se/api/athletes/100622,https://www.fantasyxc.se/api/athletes/100622/results
+431,111,RUS,217,0,False,3480503,False,GAFAROV Anton,m,https://www.fantasyxc.se/api/athletes/3480503,https://www.fantasyxc.se/api/athletes/3480503/results
+432,111,CAN,231,0,False,3100314,False,BRIAND Antoine,m,https://www.fantasyxc.se/api/athletes/3100314,https://www.fantasyxc.se/api/athletes/3100314/results
+433,111,RUS,574,0,True,3482350,False,POROSHKIN Ilia,m,https://www.fantasyxc.se/api/athletes/3482350,https://www.fantasyxc.se/api/athletes/3482350/results
+434,111,RUS,214,0,True,3481210,False,VITSENKO Alexey,m,https://www.fantasyxc.se/api/athletes/3481210,https://www.fantasyxc.se/api/athletes/3481210/results
+435,111,RUS,219,0,False,3481544,False,SMIRNOV Mikhail,m,https://www.fantasyxc.se/api/athletes/3481544,https://www.fantasyxc.se/api/athletes/3481544/results
+436,111,CHE,211,0,False,3510207,False,KINDSCHI Joeri,m,https://www.fantasyxc.se/api/athletes/3510207,https://www.fantasyxc.se/api/athletes/3510207/results
+437,111,NOR,211,0,False,3421123,False,HAMMERLUND Sindre Saetre,m,https://www.fantasyxc.se/api/athletes/3421123,https://www.fantasyxc.se/api/athletes/3421123/results
+438,111,ITA,225,0,False,1067291,False,DI CENTA Giorgio,m,https://www.fantasyxc.se/api/athletes/1067291,https://www.fantasyxc.se/api/athletes/1067291/results
+439,111,KAZ,225,0,False,3670032,False,AKHMADIYEV Yerdos,m,https://www.fantasyxc.se/api/athletes/3670032,https://www.fantasyxc.se/api/athletes/3670032/results
+440,111,SWE,213,0,True,3501085,False,DYVIK Karl-Johan,m,https://www.fantasyxc.se/api/athletes/3501085,https://www.fantasyxc.se/api/athletes/3501085/results
+441,111,FRA,496,0,True,1345875,False,GAILLARD Jean Marc,m,https://www.fantasyxc.se/api/athletes/1345875,https://www.fantasyxc.se/api/athletes/1345875/results
+442,111,SWE,4263,0,True,74616,True,SWEDEN II,m,https://www.fantasyxc.se/api/athletes/74616,https://www.fantasyxc.se/api/athletes/74616/results
+443,111,AUS,224,0,False,3040096,False,KOVACS Paul,m,https://www.fantasyxc.se/api/athletes/3040096,https://www.fantasyxc.se/api/athletes/3040096/results
+444,111,CAN,229,0,False,3100449,False,GRALL-JOHNSON Pierre,m,https://www.fantasyxc.se/api/athletes/3100449,https://www.fantasyxc.se/api/athletes/3100449/results
+445,111,SWE,213,0,False,3500326,False,NORUM Robin,m,https://www.fantasyxc.se/api/athletes/3500326,https://www.fantasyxc.se/api/athletes/3500326/results
+446,111,SWE,223,0,True,3500755,False,JONSSON Fredrik,m,https://www.fantasyxc.se/api/athletes/3500755,https://www.fantasyxc.se/api/athletes/3500755/results
+447,111,FRA,215,0,False,3190370,False,ARNAULT Clement,m,https://www.fantasyxc.se/api/athletes/3190370,https://www.fantasyxc.se/api/athletes/3190370/results
+448,111,SWE,3459,0,True,3501255,False,SVENSSON Oskar,m,https://www.fantasyxc.se/api/athletes/3501255,https://www.fantasyxc.se/api/athletes/3501255/results
+449,111,UKR,233,0,True,3690074,False,KRASOVSKYI Oleksii,m,https://www.fantasyxc.se/api/athletes/3690074,https://www.fantasyxc.se/api/athletes/3690074/results
+450,111,CHE,3999,0,True,74618,True,SWITZERLAND II,m,https://www.fantasyxc.se/api/athletes/74618,https://www.fantasyxc.se/api/athletes/74618/results
+451,111,NOR,213,0,True,3420762,False,BOERSHEIM Torjus,m,https://www.fantasyxc.se/api/athletes/3420762,https://www.fantasyxc.se/api/athletes/3420762/results
+452,111,NOR,222,0,False,3422293,False,ERIKSEN Sivert Groetan,m,https://www.fantasyxc.se/api/athletes/3422293,https://www.fantasyxc.se/api/athletes/3422293/results
+453,111,RUS,211,0,True,3480322,False,PARFENOV Andrey,m,https://www.fantasyxc.se/api/athletes/3480322,https://www.fantasyxc.se/api/athletes/3480322/results
+454,111,CAN,220,0,False,3100175,False,KILLICK Graeme,m,https://www.fantasyxc.se/api/athletes/3100175,https://www.fantasyxc.se/api/athletes/3100175/results
+455,111,DNK,238,0,True,3170070,True,DENMARK I,m,https://www.fantasyxc.se/api/athletes/3170070,https://www.fantasyxc.se/api/athletes/3170070/results
+456,111,NOR,230,0,True,3424269,False,EVENSEN Ansgar,m,https://www.fantasyxc.se/api/athletes/3424269,https://www.fantasyxc.se/api/athletes/3424269/results
+457,111,DEU,232,0,True,3200464,False,HERZOG Daniel,m,https://www.fantasyxc.se/api/athletes/3200464,https://www.fantasyxc.se/api/athletes/3200464/results
+458,111,CAN,221,0,False,3100251,False,MONCION-GROULX Dominique,m,https://www.fantasyxc.se/api/athletes/3100251,https://www.fantasyxc.se/api/athletes/3100251/results
+459,111,ITA,230,0,True,3290514,False,GABRIELLI Giacomo,m,https://www.fantasyxc.se/api/athletes/3290514,https://www.fantasyxc.se/api/athletes/3290514/results
+460,111,RUS,214,0,False,3482308,False,PETROV Pavel,m,https://www.fantasyxc.se/api/athletes/3482308,https://www.fantasyxc.se/api/athletes/3482308/results
+461,111,FIN,216,0,False,3180114,False,STRANDVALL Matias,m,https://www.fantasyxc.se/api/athletes/3180114,https://www.fantasyxc.se/api/athletes/3180114/results
+462,111,CAN,214,0,False,3100137,False,COCKNEY Jesse,m,https://www.fantasyxc.se/api/athletes/3100137,https://www.fantasyxc.se/api/athletes/3100137/results
+463,111,ITA,232,0,False,3290016,False,CLARA Roland,m,https://www.fantasyxc.se/api/athletes/3290016,https://www.fantasyxc.se/api/athletes/3290016/results
+464,111,NOR,218,0,True,3424611,False,MOERK Martin Kirkeberg,m,https://www.fantasyxc.se/api/athletes/3424611,https://www.fantasyxc.se/api/athletes/3424611/results
+465,111,NOR,275,0,True,3422521,False,AUGDAL Eirik Sverdrup,m,https://www.fantasyxc.se/api/athletes/3422521,https://www.fantasyxc.se/api/athletes/3422521/results
+466,111,SWE,226,0,True,3501176,False,RUUS Marcus,m,https://www.fantasyxc.se/api/athletes/3501176,https://www.fantasyxc.se/api/athletes/3501176/results
+467,111,ITA,2347,0,True,74728,True,ITALY II,m,https://www.fantasyxc.se/api/athletes/74728,https://www.fantasyxc.se/api/athletes/74728/results
+468,111,ROU,214,0,True,3460021,False,HOGIU Petrica,m,https://www.fantasyxc.se/api/athletes/3460021,https://www.fantasyxc.se/api/athletes/3460021/results
+469,111,USA,230,0,False,3530530,False,HANNEMAN Reese,m,https://www.fantasyxc.se/api/athletes/3530530,https://www.fantasyxc.se/api/athletes/3530530/results
+470,111,NOR,225,0,False,1356933,False,HOEGNES Lars,m,https://www.fantasyxc.se/api/athletes/1356933,https://www.fantasyxc.se/api/athletes/1356933/results
+471,111,AUS,222,0,True,3040101,False,BELLINGHAM Phillip,m,https://www.fantasyxc.se/api/athletes/3040101,https://www.fantasyxc.se/api/athletes/3040101/results
+472,111,KAZ,229,0,True,3670006,False,CHEREPANOV Sergey,m,https://www.fantasyxc.se/api/athletes/3670006,https://www.fantasyxc.se/api/athletes/3670006/results
+473,111,NOR,221,0,False,3420023,False,GJERDALEN Tord Asle,m,https://www.fantasyxc.se/api/athletes/3420023,https://www.fantasyxc.se/api/athletes/3420023/results
+474,111,RUS,231,0,False,3481177,False,STUPAK Nikita,m,https://www.fantasyxc.se/api/athletes/3481177,https://www.fantasyxc.se/api/athletes/3481177/results
+475,111,JPN,233,0,False,3300241,False,KASHIWABARA Nobuhito,m,https://www.fantasyxc.se/api/athletes/3300241,https://www.fantasyxc.se/api/athletes/3300241/results
+476,111,SWE,232,0,True,3501297,False,SANDSTROEM Bjoern,m,https://www.fantasyxc.se/api/athletes/3501297,https://www.fantasyxc.se/api/athletes/3501297/results
+477,111,NOR,232,0,True,3422263,False,KVAALE Gaute,m,https://www.fantasyxc.se/api/athletes/3422263,https://www.fantasyxc.se/api/athletes/3422263/results
+478,111,SVK,223,0,False,3700074,False,SULEK Miroslav,m,https://www.fantasyxc.se/api/athletes/3700074,https://www.fantasyxc.se/api/athletes/3700074/results
+479,111,NOR,227,0,False,3420798,False,NORTHUG Tomas,m,https://www.fantasyxc.se/api/athletes/3420798,https://www.fantasyxc.se/api/athletes/3420798/results
+480,111,BGR,228,0,False,3090097,False,CHUCHUGANOV Yordan,m,https://www.fantasyxc.se/api/athletes/3090097,https://www.fantasyxc.se/api/athletes/3090097/results
+481,111,NOR,224,0,False,3422405,False,ERIKSTAD Audun,m,https://www.fantasyxc.se/api/athletes/3422405,https://www.fantasyxc.se/api/athletes/3422405/results
+482,111,USA,523,0,True,3530532,False,PATTERSON Scott,m,https://www.fantasyxc.se/api/athletes/3530532,https://www.fantasyxc.se/api/athletes/3530532/results
+483,111,SWE,216,0,True,3501399,False,JACOBSSON Hugo,m,https://www.fantasyxc.se/api/athletes/3501399,https://www.fantasyxc.se/api/athletes/3501399/results
+484,111,AUT,214,0,True,3050267,False,MOSER Benjamin,m,https://www.fantasyxc.se/api/athletes/3050267,https://www.fantasyxc.se/api/athletes/3050267/results
+485,111,RUS,229,0,True,3483152,False,FILIMONOV Denis,m,https://www.fantasyxc.se/api/athletes/3483152,https://www.fantasyxc.se/api/athletes/3483152/results
+486,111,NOR,220,0,False,3421807,False,SOLVANG Eirik,m,https://www.fantasyxc.se/api/athletes/3421807,https://www.fantasyxc.se/api/athletes/3421807/results
+487,111,RUS,220,0,True,3481745,False,SHEMIAKIN Alexey,m,https://www.fantasyxc.se/api/athletes/3481745,https://www.fantasyxc.se/api/athletes/3481745/results
+488,111,FRA,217,0,False,3190401,False,GUIGONNET Loic,m,https://www.fantasyxc.se/api/athletes/3190401,https://www.fantasyxc.se/api/athletes/3190401/results
+489,111,SWE,229,0,True,3501167,False,ENGDAHL Petter,m,https://www.fantasyxc.se/api/athletes/3501167,https://www.fantasyxc.se/api/athletes/3501167/results
+490,111,AUT,214,0,False,3050260,False,BLASSNIG Clemens,m,https://www.fantasyxc.se/api/athletes/3050260,https://www.fantasyxc.se/api/athletes/3050260/results
+491,111,SVN,219,0,True,3560121,False,LAMPIC Janez,m,https://www.fantasyxc.se/api/athletes/3560121,https://www.fantasyxc.se/api/athletes/3560121/results
+492,111,FIN,219,0,False,3180228,False,PAAKKONEN Lasse,m,https://www.fantasyxc.se/api/athletes/3180228,https://www.fantasyxc.se/api/athletes/3180228/results
+493,111,BGR,225,0,False,3090024,False,TSINZOV Veselin,m,https://www.fantasyxc.se/api/athletes/3090024,https://www.fantasyxc.se/api/athletes/3090024/results
+494,111,CHE,224,0,False,3510472,False,BIELER Livio,m,https://www.fantasyxc.se/api/athletes/3510472,https://www.fantasyxc.se/api/athletes/3510472/results
+495,111,BLR,223,0,False,3660155,False,KUKLIN Mikhail,m,https://www.fantasyxc.se/api/athletes/3660155,https://www.fantasyxc.se/api/athletes/3660155/results
+496,111,FIN,215,0,False,1344808,False,KITTILAE Kusti,m,https://www.fantasyxc.se/api/athletes/1344808,https://www.fantasyxc.se/api/athletes/1344808/results
+497,111,CAN,266,0,True,102476,True,CANADA II,m,https://www.fantasyxc.se/api/athletes/102476,https://www.fantasyxc.se/api/athletes/102476/results
+498,111,RUS,227,0,True,3480832,False,SEDOV Petr,m,https://www.fantasyxc.se/api/athletes/3480832,https://www.fantasyxc.se/api/athletes/3480832/results
+499,111,SWE,228,0,False,3500153,False,JOHANSSON Martin,m,https://www.fantasyxc.se/api/athletes/3500153,https://www.fantasyxc.se/api/athletes/3500153/results
+500,111,NOR,225,0,False,3422316,False,RISETH Fredrik,m,https://www.fantasyxc.se/api/athletes/3422316,https://www.fantasyxc.se/api/athletes/3422316/results
+501,111,TUR,214,0,True,3520061,False,AYCICEK Omer,m,https://www.fantasyxc.se/api/athletes/3520061,https://www.fantasyxc.se/api/athletes/3520061/results
+502,111,SWE,233,0,True,3500863,False,ANDERSSON Simon,m,https://www.fantasyxc.se/api/athletes/3500863,https://www.fantasyxc.se/api/athletes/3500863/results
+503,111,CHN,231,0,True,3120063,False,SHANG Jincai,m,https://www.fantasyxc.se/api/athletes/3120063,https://www.fantasyxc.se/api/athletes/3120063/results
+504,111,NOR,1102,0,False,3420228,False,SUNDBY Martin Johnsrud,m,https://www.fantasyxc.se/api/athletes/3420228,https://www.fantasyxc.se/api/athletes/3420228/results
+505,111,CZE,216,0,False,1217350,False,BAUER Lukas,m,https://www.fantasyxc.se/api/athletes/1217350,https://www.fantasyxc.se/api/athletes/1217350/results
+506,111,SVN,2053,0,True,101037,True,SLOVENIA I,m,https://www.fantasyxc.se/api/athletes/101037,https://www.fantasyxc.se/api/athletes/101037/results
+507,111,NOR,223,0,True,3421467,False,RUNDGREEN Mathias,m,https://www.fantasyxc.se/api/athletes/3421467,https://www.fantasyxc.se/api/athletes/3421467/results
+508,111,SWE,218,0,False,3500997,False,PERSSON Niklas,m,https://www.fantasyxc.se/api/athletes/3500997,https://www.fantasyxc.se/api/athletes/3500997/results
+509,111,ROU,219,0,True,3460030,False,CIOANCA Alin Florin,m,https://www.fantasyxc.se/api/athletes/3460030,https://www.fantasyxc.se/api/athletes/3460030/results
+510,111,EST,225,0,False,1323468,False,REHEMAA Aivar,m,https://www.fantasyxc.se/api/athletes/1323468,https://www.fantasyxc.se/api/athletes/1323468/results
+511,111,ESP,228,0,True,3490145,False,ROJO Imanol,m,https://www.fantasyxc.se/api/athletes/3490145,https://www.fantasyxc.se/api/athletes/3490145/results
+512,111,FIN,230,0,True,3181076,False,SIPILA Turo,m,https://www.fantasyxc.se/api/athletes/3181076,https://www.fantasyxc.se/api/athletes/3181076/results
+513,111,NOR,216,0,True,3422161,False,STADAAS Kasper,m,https://www.fantasyxc.se/api/athletes/3422161,https://www.fantasyxc.se/api/athletes/3422161/results
+514,111,LTU,216,0,True,3780034,False,DRUSYS Jaunius,m,https://www.fantasyxc.se/api/athletes/3780034,https://www.fantasyxc.se/api/athletes/3780034/results
+515,111,NOR,211,0,False,3421406,False,HJELSTUEN Haakon,m,https://www.fantasyxc.se/api/athletes/3421406,https://www.fantasyxc.se/api/athletes/3421406/results
+516,111,FRA,230,0,True,3190358,False,TIBERGHIEN Jean,m,https://www.fantasyxc.se/api/athletes/3190358,https://www.fantasyxc.se/api/athletes/3190358/results
+517,111,HRV,510,0,True,3380068,True,CROATIA I,m,https://www.fantasyxc.se/api/athletes/3380068,https://www.fantasyxc.se/api/athletes/3380068/results
+518,111,NOR,212,0,False,3421660,False,RISETH Martin,m,https://www.fantasyxc.se/api/athletes/3421660,https://www.fantasyxc.se/api/athletes/3421660/results
+519,111,FRA,228,0,False,3190229,False,JEANNEROD Alexis,m,https://www.fantasyxc.se/api/athletes/3190229,https://www.fantasyxc.se/api/athletes/3190229/results
+520,111,FRA,221,0,True,3190125,False,POIRRIER Bastien,m,https://www.fantasyxc.se/api/athletes/3190125,https://www.fantasyxc.se/api/athletes/3190125/results
+521,111,EST,229,0,False,3390164,False,VEERPALU Andreas,m,https://www.fantasyxc.se/api/athletes/3390164,https://www.fantasyxc.se/api/athletes/3390164/results
+522,111,ITA,224,0,False,3290373,False,MULLER Claudio,m,https://www.fantasyxc.se/api/athletes/3290373,https://www.fantasyxc.se/api/athletes/3290373/results
+523,111,NOR,759,0,True,3422613,False,JENSSEN Jan Thomas,m,https://www.fantasyxc.se/api/athletes/3422613,https://www.fantasyxc.se/api/athletes/3422613/results
+524,111,NOR,233,0,False,3421470,False,LOEFALD Hallvard,m,https://www.fantasyxc.se/api/athletes/3421470,https://www.fantasyxc.se/api/athletes/3421470/results
+525,111,EST,217,0,False,3390103,False,TAMMJARV Karel,m,https://www.fantasyxc.se/api/athletes/3390103,https://www.fantasyxc.se/api/athletes/3390103/results
+526,111,POL,218,0,True,3430141,False,ANTOLEC Jan,m,https://www.fantasyxc.se/api/athletes/3430141,https://www.fantasyxc.se/api/athletes/3430141/results
+527,111,USA,314,0,True,3530583,False,HANNEMAN Logan,m,https://www.fantasyxc.se/api/athletes/3530583,https://www.fantasyxc.se/api/athletes/3530583/results
+528,111,LTU,220,0,True,3780093,True,LITHUANIA II,m,https://www.fantasyxc.se/api/athletes/3780093,https://www.fantasyxc.se/api/athletes/3780093/results
+529,111,KAZ,230,0,True,3670080,False,LYUFT Ivan,m,https://www.fantasyxc.se/api/athletes/3670080,https://www.fantasyxc.se/api/athletes/3670080/results
+530,111,ITA,221,0,True,3290321,False,GARDENER Stefano,m,https://www.fantasyxc.se/api/athletes/3290321,https://www.fantasyxc.se/api/athletes/3290321/results
+531,111,ITA,211,0,False,3290266,False,PELLEGRIN Mattia,m,https://www.fantasyxc.se/api/athletes/3290266,https://www.fantasyxc.se/api/athletes/3290266/results
+532,111,USA,219,0,False,3530679,False,BRATRUD Kyle,m,https://www.fantasyxc.se/api/athletes/3530679,https://www.fantasyxc.se/api/athletes/3530679/results
+533,111,SVK,228,0,True,3700049,False,MLYNAR Peter,m,https://www.fantasyxc.se/api/athletes/3700049,https://www.fantasyxc.se/api/athletes/3700049/results
+534,111,RUS,213,0,True,3480821,False,UTKIN Alexander,m,https://www.fantasyxc.se/api/athletes/3480821,https://www.fantasyxc.se/api/athletes/3480821/results
+535,111,NOR,232,0,False,3420280,False,ELIASSEN Petter,m,https://www.fantasyxc.se/api/athletes/3420280,https://www.fantasyxc.se/api/athletes/3420280/results
+536,111,ESP,226,0,False,3490289,False,VIGO DEL ARCO Marti,m,https://www.fantasyxc.se/api/athletes/3490289,https://www.fantasyxc.se/api/athletes/3490289/results
+537,111,SWE,214,0,False,3500805,False,KARLSSON Anton,m,https://www.fantasyxc.se/api/athletes/3500805,https://www.fantasyxc.se/api/athletes/3500805/results
+538,111,CZE,223,0,False,3150136,False,BARTON Jan,m,https://www.fantasyxc.se/api/athletes/3150136,https://www.fantasyxc.se/api/athletes/3150136/results
+539,111,SWE,230,0,True,3501259,False,EKSTROEM Axel,m,https://www.fantasyxc.se/api/athletes/3501259,https://www.fantasyxc.se/api/athletes/3501259/results
+540,111,EST,226,0,False,1198435,False,SEEMA Raul,m,https://www.fantasyxc.se/api/athletes/1198435,https://www.fantasyxc.se/api/athletes/1198435/results
+541,111,FRA,220,0,True,3190548,False,CHAPPAZ Jules,m,https://www.fantasyxc.se/api/athletes/3190548,https://www.fantasyxc.se/api/athletes/3190548/results
+542,111,SVN,215,0,True,3560141,False,MARKUN Luka,m,https://www.fantasyxc.se/api/athletes/3560141,https://www.fantasyxc.se/api/athletes/3560141/results
+543,111,DEU,233,0,False,3200121,False,KUEHNE Andy,m,https://www.fantasyxc.se/api/athletes/3200121,https://www.fantasyxc.se/api/athletes/3200121/results
+544,111,NOR,215,0,False,3420002,False,DAHL John Kristian,m,https://www.fantasyxc.se/api/athletes/3420002,https://www.fantasyxc.se/api/athletes/3420002/results
+545,111,KAZ,218,0,True,3670075,False,BORTSOV Konstantin,m,https://www.fantasyxc.se/api/athletes/3670075,https://www.fantasyxc.se/api/athletes/3670075/results
+546,111,NOR,221,0,False,3420577,False,DYRHAUG Niklas,m,https://www.fantasyxc.se/api/athletes/3420577,https://www.fantasyxc.se/api/athletes/3420577/results
+547,111,SWE,221,0,True,3501398,False,BUSKQVIST Alfred,m,https://www.fantasyxc.se/api/athletes/3501398,https://www.fantasyxc.se/api/athletes/3501398/results
+548,111,CZE,225,0,False,3150589,False,PILZ Petr,m,https://www.fantasyxc.se/api/athletes/3150589,https://www.fantasyxc.se/api/athletes/3150589/results
+549,111,DEU,215,0,True,3200241,False,BING Thomas,m,https://www.fantasyxc.se/api/athletes/3200241,https://www.fantasyxc.se/api/athletes/3200241/results
+550,111,NOR,218,0,False,3420460,False,RENNEMO Anders Tettli,m,https://www.fantasyxc.se/api/athletes/3420460,https://www.fantasyxc.se/api/athletes/3420460/results
+551,111,SVN,233,0,True,3560107,False,CRV Benjamin,m,https://www.fantasyxc.se/api/athletes/3560107,https://www.fantasyxc.se/api/athletes/3560107/results
+552,111,CAN,230,0,False,1282146,False,MCKEEVER Brian,m,https://www.fantasyxc.se/api/athletes/1282146,https://www.fantasyxc.se/api/athletes/1282146/results
+553,111,RUS,232,0,False,3480021,False,PETUKHOV Alexey,m,https://www.fantasyxc.se/api/athletes/3480021,https://www.fantasyxc.se/api/athletes/3480021/results
+554,111,USA,211,0,False,3530177,False,GREGG Brian,m,https://www.fantasyxc.se/api/athletes/3530177,https://www.fantasyxc.se/api/athletes/3530177/results
+555,111,SWE,213,0,False,3500652,False,NIEMI-IMPOLA Bill,m,https://www.fantasyxc.se/api/athletes/3500652,https://www.fantasyxc.se/api/athletes/3500652/results
+556,111,DEU,248,0,False,3200210,False,EISENLAUER Sebastian,m,https://www.fantasyxc.se/api/athletes/3200210,https://www.fantasyxc.se/api/athletes/3200210/results
+557,111,ITA,216,0,True,3290533,False,HELLWEGER Michael,m,https://www.fantasyxc.se/api/athletes/3290533,https://www.fantasyxc.se/api/athletes/3290533/results
+558,111,DEU,220,0,True,3200014,False,WENZL Josef,m,https://www.fantasyxc.se/api/athletes/3200014,https://www.fantasyxc.se/api/athletes/3200014/results
+559,111,NOR,221,0,False,3421751,False,NILSEN Vegard Bjerkreim,m,https://www.fantasyxc.se/api/athletes/3421751,https://www.fantasyxc.se/api/athletes/3421751/results
+560,111,RUS,233,0,True,3482166,False,GREBENKO Alexander,m,https://www.fantasyxc.se/api/athletes/3482166,https://www.fantasyxc.se/api/athletes/3482166/results
+561,111,LTU,2342,0,True,3780092,True,LITHUANIA I,m,https://www.fantasyxc.se/api/athletes/3780092,https://www.fantasyxc.se/api/athletes/3780092/results
+562,111,ITA,258,0,False,3290446,False,ZELGER Stefan,m,https://www.fantasyxc.se/api/athletes/3290446,https://www.fantasyxc.se/api/athletes/3290446/results
+563,111,NOR,227,0,True,3422028,False,HAGA Magne,m,https://www.fantasyxc.se/api/athletes/3422028,https://www.fantasyxc.se/api/athletes/3422028/results
+564,111,RUS,212,0,False,3480436,False,KRIUKOV Nikita,m,https://www.fantasyxc.se/api/athletes/3480436,https://www.fantasyxc.se/api/athletes/3480436/results
+565,111,KAZ,324,0,False,3670007,False,POLTORANIN Alexey,m,https://www.fantasyxc.se/api/athletes/3670007,https://www.fantasyxc.se/api/athletes/3670007/results
+566,111,CAN,216,0,False,3100227,False,THOMPSON Bob,m,https://www.fantasyxc.se/api/athletes/3100227,https://www.fantasyxc.se/api/athletes/3100227/results
+567,111,USA,223,0,False,3530511,False,BJORNSEN Erik,m,https://www.fantasyxc.se/api/athletes/3530511,https://www.fantasyxc.se/api/athletes/3530511/results
+568,111,BRA,900,0,True,3080050,True,BRAZIL I,m,https://www.fantasyxc.se/api/athletes/3080050,https://www.fantasyxc.se/api/athletes/3080050/results
+569,111,SWE,218,0,False,3500972,False,BERGSTROEM Martin,m,https://www.fantasyxc.se/api/athletes/3500972,https://www.fantasyxc.se/api/athletes/3500972/results
+570,111,NOR,213,0,False,3421229,False,LANES Simen,m,https://www.fantasyxc.se/api/athletes/3421229,https://www.fantasyxc.se/api/athletes/3421229/results
+571,111,CHN,216,0,True,3120105,False,WEI Meng,m,https://www.fantasyxc.se/api/athletes/3120105,https://www.fantasyxc.se/api/athletes/3120105/results
+572,111,FIN,229,0,True,3180016,False,VARIS Kari,m,https://www.fantasyxc.se/api/athletes/3180016,https://www.fantasyxc.se/api/athletes/3180016/results
+573,111,FIN,225,0,True,3180436,False,MIKKONEN Juho,m,https://www.fantasyxc.se/api/athletes/3180436,https://www.fantasyxc.se/api/athletes/3180436/results
+574,111,CHE,227,0,False,1362656,False,LIVERS Toni,m,https://www.fantasyxc.se/api/athletes/1362656,https://www.fantasyxc.se/api/athletes/1362656/results
+575,111,SVN,214,0,False,3560062,False,KLAVZAR Bostjan,m,https://www.fantasyxc.se/api/athletes/3560062,https://www.fantasyxc.se/api/athletes/3560062/results
+576,111,SWE,224,0,False,3501189,False,ENGSTROEM Jacob,m,https://www.fantasyxc.se/api/athletes/3501189,https://www.fantasyxc.se/api/athletes/3501189/results
+577,111,KAZ,230,0,True,3670098,False,BASHMAKOV Nail,m,https://www.fantasyxc.se/api/athletes/3670098,https://www.fantasyxc.se/api/athletes/3670098/results
+578,111,RUS,228,0,True,3480440,False,GLAVATSKIKH Konstantin,m,https://www.fantasyxc.se/api/athletes/3480440,https://www.fantasyxc.se/api/athletes/3480440/results
+579,111,NOR,232,0,True,3421051,False,DAHLEN Thomas Albertsen,m,https://www.fantasyxc.se/api/athletes/3421051,https://www.fantasyxc.se/api/athletes/3421051/results
+580,111,ESP,900,0,True,3490337,True,SPAIN I,m,https://www.fantasyxc.se/api/athletes/3490337,https://www.fantasyxc.se/api/athletes/3490337/results
+581,111,BEL,634,0,True,3060026,True,BELGIUM I,m,https://www.fantasyxc.se/api/athletes/3060026,https://www.fantasyxc.se/api/athletes/3060026/results
+582,111,RUS,227,0,False,3482510,False,VECHKANOV Vladislav,m,https://www.fantasyxc.se/api/athletes/3482510,https://www.fantasyxc.se/api/athletes/3482510/results
+583,111,NOR,216,0,True,3422712,False,DOENNESTAD Henrik ,m,https://www.fantasyxc.se/api/athletes/3422712,https://www.fantasyxc.se/api/athletes/3422712/results
+584,111,UKR,212,0,False,3690065,False,YOLTUKHOVSKYY Oleg,m,https://www.fantasyxc.se/api/athletes/3690065,https://www.fantasyxc.se/api/athletes/3690065/results
+585,111,AUS,227,0,False,3040098,False,BURSILL Jackson,m,https://www.fantasyxc.se/api/athletes/3040098,https://www.fantasyxc.se/api/athletes/3040098/results
+586,111,USA,229,0,False,3530489,False,HOFFMAN Noah,m,https://www.fantasyxc.se/api/athletes/3530489,https://www.fantasyxc.se/api/athletes/3530489/results
+587,111,AUT,213,0,False,3050198,False,HABENICHT Tobias,m,https://www.fantasyxc.se/api/athletes/3050198,https://www.fantasyxc.se/api/athletes/3050198/results
+588,111,ROU,430,0,True,3460063,True, ROMANIA I,m,https://www.fantasyxc.se/api/athletes/3460063,https://www.fantasyxc.se/api/athletes/3460063/results
+589,111,CZE,227,0,True,3150462,False,RYPL Miroslav,m,https://www.fantasyxc.se/api/athletes/3150462,https://www.fantasyxc.se/api/athletes/3150462/results
+590,111,NOR,233,0,True,3422358,False,ARNESEN Harald Astrup,m,https://www.fantasyxc.se/api/athletes/3422358,https://www.fantasyxc.se/api/athletes/3422358/results
+591,111,KOR,220,0,True,3320185,False,BOEE Magnus,m,https://www.fantasyxc.se/api/athletes/3320185,https://www.fantasyxc.se/api/athletes/3320185/results
+592,111,ITA,217,0,True,3290504,False,VENTURA Paolo,m,https://www.fantasyxc.se/api/athletes/3290504,https://www.fantasyxc.se/api/athletes/3290504/results
+593,111,NOR,550,0,False,3421698,False,FOSSLI Sondre Turvoll,m,https://www.fantasyxc.se/api/athletes/3421698,https://www.fantasyxc.se/api/athletes/3421698/results
+594,111,LTU,216,0,False,3780010,False,STROLIA Mantas,m,https://www.fantasyxc.se/api/athletes/3780010,https://www.fantasyxc.se/api/athletes/3780010/results
+595,111,KOR,212,0,True,3320158,False,KIM Eunho,m,https://www.fantasyxc.se/api/athletes/3320158,https://www.fantasyxc.se/api/athletes/3320158/results
+596,111,CZE,217,0,True,3150519,False,FELLNER Adam,m,https://www.fantasyxc.se/api/athletes/3150519,https://www.fantasyxc.se/api/athletes/3150519/results
+597,111,UKR,220,0,False,3690111,False,KOSTRUBA Yan,m,https://www.fantasyxc.se/api/athletes/3690111,https://www.fantasyxc.se/api/athletes/3690111/results
+598,111,RUS,216,0,False,3480314,False,CHERNOUSOV Ilya,m,https://www.fantasyxc.se/api/athletes/3480314,https://www.fantasyxc.se/api/athletes/3480314/results
+599,111,SWE,222,0,True,3500880,False,JOHANSSON Emil,m,https://www.fantasyxc.se/api/athletes/3500880,https://www.fantasyxc.se/api/athletes/3500880/results
+600,111,SWE,217,0,False,3500762,False,LINDBLAD Anton,m,https://www.fantasyxc.se/api/athletes/3500762,https://www.fantasyxc.se/api/athletes/3500762/results
+601,111,KAZ,281,0,False,3670193,True,KAZAKHSTAN I,m,https://www.fantasyxc.se/api/athletes/3670193,https://www.fantasyxc.se/api/athletes/3670193/results
+602,111,SVN,228,0,False,3560079,False,PROSEN Luka,m,https://www.fantasyxc.se/api/athletes/3560079,https://www.fantasyxc.se/api/athletes/3560079/results
+603,111,CHE,228,0,True,3510249,False,JAEGER Martin,m,https://www.fantasyxc.se/api/athletes/3510249,https://www.fantasyxc.se/api/athletes/3510249/results
+604,111,NOR,233,0,False,3421102,False,BAKKE Henrik,m,https://www.fantasyxc.se/api/athletes/3421102,https://www.fantasyxc.se/api/athletes/3421102/results
+605,111,JPN,2022,0,True,102805,True,JAPAN I,m,https://www.fantasyxc.se/api/athletes/102805,https://www.fantasyxc.se/api/athletes/102805/results
+606,111,SWE,218,0,False,3500139,False,HELLNER Marcus,m,https://www.fantasyxc.se/api/athletes/3500139,https://www.fantasyxc.se/api/athletes/3500139/results
+607,111,DEU,221,0,False,3200511,False,HAUBER Thomas,m,https://www.fantasyxc.se/api/athletes/3200511,https://www.fantasyxc.se/api/athletes/3200511/results
+608,111,RUS,225,0,False,3481760,False,ROSTOVTSEV Dmitriy,m,https://www.fantasyxc.se/api/athletes/3481760,https://www.fantasyxc.se/api/athletes/3481760/results
+609,111,BLR,226,0,False,3660045,False,ASTAPENKA Yury,m,https://www.fantasyxc.se/api/athletes/3660045,https://www.fantasyxc.se/api/athletes/3660045/results
+610,111,THA,213,0,True,3900005,False,CHANLOUNG Mark,m,https://www.fantasyxc.se/api/athletes/3900005,https://www.fantasyxc.se/api/athletes/3900005/results
+611,111,AUT,1376,0,True,74732,True,AUSTRIA II,m,https://www.fantasyxc.se/api/athletes/74732,https://www.fantasyxc.se/api/athletes/74732/results
+612,111,CHN,217,0,True,3120068,False,WANG Qiang,m,https://www.fantasyxc.se/api/athletes/3120068,https://www.fantasyxc.se/api/athletes/3120068/results
+613,111,USA,211,0,True,3530496,False,NORRIS David,m,https://www.fantasyxc.se/api/athletes/3530496,https://www.fantasyxc.se/api/athletes/3530496/results
+614,111,CHN,216,0,True,3120133,False,BAO Lin,m,https://www.fantasyxc.se/api/athletes/3120133,https://www.fantasyxc.se/api/athletes/3120133/results
+615,111,NOR,229,0,True,3421849,False,MYSEN Eirik,m,https://www.fantasyxc.se/api/athletes/3421849,https://www.fantasyxc.se/api/athletes/3421849/results
+616,111,UKR,233,0,True,3690117,False,DRAHUN Dmytro,m,https://www.fantasyxc.se/api/athletes/3690117,https://www.fantasyxc.se/api/athletes/3690117/results
+617,111,ITA,216,0,False,3290109,False,PAREDI Simone,m,https://www.fantasyxc.se/api/athletes/3290109,https://www.fantasyxc.se/api/athletes/3290109/results
+618,111,CHN,220,0,True,3120099,False,ZHU Mingliang,m,https://www.fantasyxc.se/api/athletes/3120099,https://www.fantasyxc.se/api/athletes/3120099/results
+619,111,RUS,229,0,True,3480982,False,SKOBELEV Vladislav,m,https://www.fantasyxc.se/api/athletes/3480982,https://www.fantasyxc.se/api/athletes/3480982/results
+620,111,UKR,223,0,True,74731,True,UKRAINE II,m,https://www.fantasyxc.se/api/athletes/74731,https://www.fantasyxc.se/api/athletes/74731/results
+621,111,EST,6672,0,True,101490,True,ESTONIA I,m,https://www.fantasyxc.se/api/athletes/101490,https://www.fantasyxc.se/api/athletes/101490/results
+622,111,NOR,222,0,True,3423534,False,HOPE Jon Rolf Skamo,m,https://www.fantasyxc.se/api/athletes/3423534,https://www.fantasyxc.se/api/athletes/3423534/results
+623,111,USA,218,0,False,3530485,False,PACKER Eric,m,https://www.fantasyxc.se/api/athletes/3530485,https://www.fantasyxc.se/api/athletes/3530485/results
+624,111,SWE,229,0,False,3500259,False,JOENSSON HAAG Emil,m,https://www.fantasyxc.se/api/athletes/3500259,https://www.fantasyxc.se/api/athletes/3500259/results
+625,111,LVA,1869,0,True,3550242,True,LATVIA I,m,https://www.fantasyxc.se/api/athletes/3550242,https://www.fantasyxc.se/api/athletes/3550242/results
+626,111,NOR,229,0,True,3421665,False,STENSAAS Magnus,m,https://www.fantasyxc.se/api/athletes/3421665,https://www.fantasyxc.se/api/athletes/3421665/results
+627,111,FRA,229,0,True,3190429,False,CHAUTEMPS Arnaud,m,https://www.fantasyxc.se/api/athletes/3190429,https://www.fantasyxc.se/api/athletes/3190429/results
+628,111,CAN,221,0,False,3100232,False,SHIELDS Andy,m,https://www.fantasyxc.se/api/athletes/3100232,https://www.fantasyxc.se/api/athletes/3100232/results
+629,111,FRA,661,0,True,3190353,False,CHAUVIN Valentin,m,https://www.fantasyxc.se/api/athletes/3190353,https://www.fantasyxc.se/api/athletes/3190353/results
+630,111,RUS,211,0,True,3481755,False,VOKUEV Ermil,m,https://www.fantasyxc.se/api/athletes/3481755,https://www.fantasyxc.se/api/athletes/3481755/results
+631,111,KAZ,221,0,False,3670042,False,MALYSHEV Sergey,m,https://www.fantasyxc.se/api/athletes/3670042,https://www.fantasyxc.se/api/athletes/3670042/results
+632,111,NOR,228,0,True,3420672,False,SVEEN Simen Andreas,m,https://www.fantasyxc.se/api/athletes/3420672,https://www.fantasyxc.se/api/athletes/3420672/results
+633,111,RUS,222,0,False,3482233,False,TOLKACHEV Maxim,m,https://www.fantasyxc.se/api/athletes/3482233,https://www.fantasyxc.se/api/athletes/3482233/results
+634,111,NOR,231,0,True,3421269,False,STOCK Daniel,m,https://www.fantasyxc.se/api/athletes/3421269,https://www.fantasyxc.se/api/athletes/3421269/results
+635,111,NOR,214,0,True,3423502,False,HAEGELAND Tor Olav Nesheim,m,https://www.fantasyxc.se/api/athletes/3423502,https://www.fantasyxc.se/api/athletes/3423502/results
+636,111,SVN,235,0,True,92281,True,SLOVENIA II,m,https://www.fantasyxc.se/api/athletes/92281,https://www.fantasyxc.se/api/athletes/92281/results
+637,111,DEU,214,0,True,3200832,False,SCHROETER Jonas,m,https://www.fantasyxc.se/api/athletes/3200832,https://www.fantasyxc.se/api/athletes/3200832/results
+638,111,SWE,215,0,True,3501462,False,ERIKSSON Jonas,m,https://www.fantasyxc.se/api/athletes/3501462,https://www.fantasyxc.se/api/athletes/3501462/results
+639,111,AUS,223,0,True,3040125,False,DE CAMPO Seve,m,https://www.fantasyxc.se/api/athletes/3040125,https://www.fantasyxc.se/api/athletes/3040125/results
+640,111,FRA,233,0,False,3190081,False,FOURCADE Martin,m,https://www.fantasyxc.se/api/athletes/3190081,https://www.fantasyxc.se/api/athletes/3190081/results
+641,111,KAZ,211,0,False,3670025,False,MALYSHEV Alexandr,m,https://www.fantasyxc.se/api/athletes/3670025,https://www.fantasyxc.se/api/athletes/3670025/results
+642,111,DEU,896,0,True,74727,True,GERMANY II,m,https://www.fantasyxc.se/api/athletes/74727,https://www.fantasyxc.se/api/athletes/74727/results
+643,111,KOR,552,0,True,171273,True,KOREA I,m,https://www.fantasyxc.se/api/athletes/171273,https://www.fantasyxc.se/api/athletes/171273/results
+644,111,FIN,400,0,True,3181007,False,VUORELA Markus,m,https://www.fantasyxc.se/api/athletes/3181007,https://www.fantasyxc.se/api/athletes/3181007/results
+645,111,RUS,224,0,True,3480828,False,JAPAROV Dmitriy,m,https://www.fantasyxc.se/api/athletes/3480828,https://www.fantasyxc.se/api/athletes/3480828/results
+646,111,RUS,211,0,True,3480669,False,SHAKIRZIANOV Raul,m,https://www.fantasyxc.se/api/athletes/3480669,https://www.fantasyxc.se/api/athletes/3480669/results
+647,111,UKR,226,0,False,3690108,False,ORLYK Andrii,m,https://www.fantasyxc.se/api/athletes/3690108,https://www.fantasyxc.se/api/athletes/3690108/results
+648,111,DEU,226,0,True,3200435,False,OLEX Max,m,https://www.fantasyxc.se/api/athletes/3200435,https://www.fantasyxc.se/api/athletes/3200435/results
+649,111,FRA,214,0,False,3190105,False,PERRILLAT BOITEUX Ivan,m,https://www.fantasyxc.se/api/athletes/3190105,https://www.fantasyxc.se/api/athletes/3190105/results
+650,111,FIN,231,0,True,3180565,False,KORPELA Heikki,m,https://www.fantasyxc.se/api/athletes/3180565,https://www.fantasyxc.se/api/athletes/3180565/results
+651,111,CZE,215,0,False,3150603,False,DUDEK Ondrej,m,https://www.fantasyxc.se/api/athletes/3150603,https://www.fantasyxc.se/api/athletes/3150603/results
+652,111,DEU,211,0,True,3200900,False,CERVINKA Maxim,m,https://www.fantasyxc.se/api/athletes/3200900,https://www.fantasyxc.se/api/athletes/3200900/results
+653,111,POL,231,0,True,3430233,False,BURY Kamil,m,https://www.fantasyxc.se/api/athletes/3430233,https://www.fantasyxc.se/api/athletes/3430233/results
+654,111,KAZ,227,0,True,3670049,False,VOLOTKA Denis,m,https://www.fantasyxc.se/api/athletes/3670049,https://www.fantasyxc.se/api/athletes/3670049/results
+655,111,NOR,226,0,False,3420131,False,KJOELSTAD Johan,m,https://www.fantasyxc.se/api/athletes/3420131,https://www.fantasyxc.se/api/athletes/3420131/results
+656,111,ITA,214,0,True,3290357,False,BERTOLINA Mirco,m,https://www.fantasyxc.se/api/athletes/3290357,https://www.fantasyxc.se/api/athletes/3290357/results
+657,111,RUS,221,0,True,3480280,False,MORILOV Nikolay,m,https://www.fantasyxc.se/api/athletes/3480280,https://www.fantasyxc.se/api/athletes/3480280/results
+658,111,LTU,219,0,True,3780015,False,VAICIULIS Modestas,m,https://www.fantasyxc.se/api/athletes/3780015,https://www.fantasyxc.se/api/athletes/3780015/results
+659,111,NOR,228,0,False,3421402,False,ANDERSEN Bendik Persch,m,https://www.fantasyxc.se/api/athletes/3421402,https://www.fantasyxc.se/api/athletes/3421402/results
+660,111,CZE,220,0,False,3150035,False,KOZISEK Dusan,m,https://www.fantasyxc.se/api/athletes/3150035,https://www.fantasyxc.se/api/athletes/3150035/results
+661,111,FIN,221,0,False,3180408,False,LUUSUA Ari,m,https://www.fantasyxc.se/api/athletes/3180408,https://www.fantasyxc.se/api/athletes/3180408/results
+662,111,ROU,232,0,True,3460040,False,POPA Raul Mihai,m,https://www.fantasyxc.se/api/athletes/3460040,https://www.fantasyxc.se/api/athletes/3460040/results
+663,111,LVA,221,0,True,3550114,False,BIKSE Indulis,m,https://www.fantasyxc.se/api/athletes/3550114,https://www.fantasyxc.se/api/athletes/3550114/results
+664,111,NOR,213,0,False,3420458,False,PEDERSEN Morten Eide,m,https://www.fantasyxc.se/api/athletes/3420458,https://www.fantasyxc.se/api/athletes/3420458/results
+665,111,CZE,228,0,False,3150183,False,GRAEF Jakub,m,https://www.fantasyxc.se/api/athletes/3150183,https://www.fantasyxc.se/api/athletes/3150183/results
+666,111,FIN,219,0,False,3180221,False,JYLHAE Martti,m,https://www.fantasyxc.se/api/athletes/3180221,https://www.fantasyxc.se/api/athletes/3180221/results
+667,111,RUS,222,0,False,3480563,False,ZHMURKO Artem,m,https://www.fantasyxc.se/api/athletes/3480563,https://www.fantasyxc.se/api/athletes/3480563/results
+668,111,DEU,217,0,False,3200229,False,TSCHARNKE Tim,m,https://www.fantasyxc.se/api/athletes/3200229,https://www.fantasyxc.se/api/athletes/3200229/results
+669,111,NOR,217,0,False,3422338,False,GRAESLI Kristian,m,https://www.fantasyxc.se/api/athletes/3422338,https://www.fantasyxc.se/api/athletes/3422338/results
+670,111,SWE,222,0,False,3500651,False,PERSSON Simon,m,https://www.fantasyxc.se/api/athletes/3500651,https://www.fantasyxc.se/api/athletes/3500651/results
+671,111,AUT,227,0,False,3050179,False,HAUKE Max,m,https://www.fantasyxc.se/api/athletes/3050179,https://www.fantasyxc.se/api/athletes/3050179/results
+672,111,NOR,227,0,True,3422106,False,HOLTH Chrisander Skjoenberg,m,https://www.fantasyxc.se/api/athletes/3422106,https://www.fantasyxc.se/api/athletes/3422106/results
+673,111,SVK,230,0,False,3700073,False,SEGEC Andrej,m,https://www.fantasyxc.se/api/athletes/3700073,https://www.fantasyxc.se/api/athletes/3700073/results
+674,111,NOR,227,0,False,3421553,False,BAKKENE Eivind,m,https://www.fantasyxc.se/api/athletes/3421553,https://www.fantasyxc.se/api/athletes/3421553/results
+675,111,DEU,224,0,True,3200880,False,SOSSAU Anian,m,https://www.fantasyxc.se/api/athletes/3200880,https://www.fantasyxc.se/api/athletes/3200880/results
+676,111,NOR,220,0,False,3421094,False,FRORUD Espen Udjus,m,https://www.fantasyxc.se/api/athletes/3421094,https://www.fantasyxc.se/api/athletes/3421094/results
+677,111,FIN,218,0,False,3180053,False,HEIKKINEN Matti,m,https://www.fantasyxc.se/api/athletes/3180053,https://www.fantasyxc.se/api/athletes/3180053/results
+678,111,AUS,2410,0,True,171268,True,AUSTRALIA I,m,https://www.fantasyxc.se/api/athletes/171268,https://www.fantasyxc.se/api/athletes/171268/results
+679,111,SWE,216,0,False,3500970,False,KARDIN Oskar,m,https://www.fantasyxc.se/api/athletes/3500970,https://www.fantasyxc.se/api/athletes/3500970/results
+680,111,AND,756,0,True,3020003,False,ESTEVE ALTIMIRAS Ireneu,m,https://www.fantasyxc.se/api/athletes/3020003,https://www.fantasyxc.se/api/athletes/3020003/results
+681,111,POL,428,0,True,185887,True,POLAND II,m,https://www.fantasyxc.se/api/athletes/185887,https://www.fantasyxc.se/api/athletes/185887/results
+682,111,RUS,215,0,False,3481846,False,TARASOV Roman,m,https://www.fantasyxc.se/api/athletes/3481846,https://www.fantasyxc.se/api/athletes/3481846/results
+683,111,NOR,226,0,True,3420360,False,ANDRESEN Ragnar Bragvin,m,https://www.fantasyxc.se/api/athletes/3420360,https://www.fantasyxc.se/api/athletes/3420360/results
+684,111,RUS,231,0,True,3480578,False,ANISIMOV Ivan,m,https://www.fantasyxc.se/api/athletes/3480578,https://www.fantasyxc.se/api/athletes/3480578/results
+685,111,RUS,221,0,False,3480739,False,PANZHINSKIY Alexander,m,https://www.fantasyxc.se/api/athletes/3480739,https://www.fantasyxc.se/api/athletes/3480739/results
+686,111,SWE,219,0,True,3501555,False,ROSJOE Eric,m,https://www.fantasyxc.se/api/athletes/3501555,https://www.fantasyxc.se/api/athletes/3501555/results
+687,111,NOR,306,0,True,3420009,False,JESPERSEN Chris Andre,m,https://www.fantasyxc.se/api/athletes/3420009,https://www.fantasyxc.se/api/athletes/3420009/results
+688,111,AUT,216,0,False,3050180,False,BALDAUF Dominik,m,https://www.fantasyxc.se/api/athletes/3050180,https://www.fantasyxc.se/api/athletes/3050180/results
+689,111,CHE,230,0,True,3510416,False,SCHAAD Fabian,m,https://www.fantasyxc.se/api/athletes/3510416,https://www.fantasyxc.se/api/athletes/3510416/results
+690,111,SWE,212,0,True,3501044,False,BRAENNMARK Viktor,m,https://www.fantasyxc.se/api/athletes/3501044,https://www.fantasyxc.se/api/athletes/3501044/results
+691,111,FIN,228,0,False,3180301,False,LEHTONEN Lari,m,https://www.fantasyxc.se/api/athletes/3180301,https://www.fantasyxc.se/api/athletes/3180301/results
+692,111,LTU,214,0,True,3780033,False,STROLIA Tautvydas,m,https://www.fantasyxc.se/api/athletes/3780033,https://www.fantasyxc.se/api/athletes/3780033/results
+693,111,EST,225,0,False,3390055,False,SELLIS Siim,m,https://www.fantasyxc.se/api/athletes/3390055,https://www.fantasyxc.se/api/athletes/3390055/results
+694,111,KAZ,233,0,True,3670079,False,KOVALYOV Vladislav,m,https://www.fantasyxc.se/api/athletes/3670079,https://www.fantasyxc.se/api/athletes/3670079/results
+695,111,USA,872,0,False,3530120,False,HAMILTON Simeon,m,https://www.fantasyxc.se/api/athletes/3530120,https://www.fantasyxc.se/api/athletes/3530120/results
+696,111,SWE,213,0,True,3500879,False,ERIKSSON Gustav,m,https://www.fantasyxc.se/api/athletes/3500879,https://www.fantasyxc.se/api/athletes/3500879/results
+697,111,HUN,1244,0,True,3240041,True,HUNGARY I,m,https://www.fantasyxc.se/api/athletes/3240041,https://www.fantasyxc.se/api/athletes/3240041/results
+698,111,CHE,232,0,False,3510348,False,COLOGNA Gianluca,m,https://www.fantasyxc.se/api/athletes/3510348,https://www.fantasyxc.se/api/athletes/3510348/results
+699,111,CZE,213,0,True,3150637,False,PECHOUSEK Jan,m,https://www.fantasyxc.se/api/athletes/3150637,https://www.fantasyxc.se/api/athletes/3150637/results
+700,111,SWE,212,0,True,3500810,False,JOHANSSON Marcus,m,https://www.fantasyxc.se/api/athletes/3500810,https://www.fantasyxc.se/api/athletes/3500810/results
+701,111,SWE,227,0,False,3500143,False,SVANEBO Anders,m,https://www.fantasyxc.se/api/athletes/3500143,https://www.fantasyxc.se/api/athletes/3500143/results
+702,111,FRA,219,0,True,3190230,False,GOALABRE Paul,m,https://www.fantasyxc.se/api/athletes/3190230,https://www.fantasyxc.se/api/athletes/3190230/results
+703,111,KAZ,218,0,True,3670077,False,DYUSSENOV Asset,m,https://www.fantasyxc.se/api/athletes/3670077,https://www.fantasyxc.se/api/athletes/3670077/results
+704,111,ISL,225,0,True,3250035,False,JONSSON Albert,m,https://www.fantasyxc.se/api/athletes/3250035,https://www.fantasyxc.se/api/athletes/3250035/results
+705,111,ITA,227,0,True,3290245,False,NOECKLER Dietmar,m,https://www.fantasyxc.se/api/athletes/3290245,https://www.fantasyxc.se/api/athletes/3290245/results
+706,111,RUS,228,0,False,1322498,False,NOVIKOV Sergey,m,https://www.fantasyxc.se/api/athletes/1322498,https://www.fantasyxc.se/api/athletes/1322498/results
+707,111,SWE,547,0,True,3500015,False,RICHARDSSON Daniel,m,https://www.fantasyxc.se/api/athletes/3500015,https://www.fantasyxc.se/api/athletes/3500015/results
+708,111,RUS,226,0,False,3482131,False,GONTAR Valeriy,m,https://www.fantasyxc.se/api/athletes/3482131,https://www.fantasyxc.se/api/athletes/3482131/results
+709,111,CZE,226,0,False,3150523,False,ANTOS Jakub,m,https://www.fantasyxc.se/api/athletes/3150523,https://www.fantasyxc.se/api/athletes/3150523/results
+710,111,CHE,357,0,True,3510534,False,KLEE Beda,m,https://www.fantasyxc.se/api/athletes/3510534,https://www.fantasyxc.se/api/athletes/3510534/results
+711,111,ITA,225,0,False,3290353,False,VIERIN Francois,m,https://www.fantasyxc.se/api/athletes/3290353,https://www.fantasyxc.se/api/athletes/3290353/results
+712,111,ITA,222,0,False,3290391,False,URBANI Simone,m,https://www.fantasyxc.se/api/athletes/3290391,https://www.fantasyxc.se/api/athletes/3290391/results
+713,111,ARM,213,0,True,3740021,False,MIKAYELYAN Sergey,m,https://www.fantasyxc.se/api/athletes/3740021,https://www.fantasyxc.se/api/athletes/3740021/results
+714,111,SWE,224,0,False,1248293,False,SOEDERGREN Anders,m,https://www.fantasyxc.se/api/athletes/1248293,https://www.fantasyxc.se/api/athletes/1248293/results
+715,111,DEU,212,0,False,3200346,False,WEEGER Markus,m,https://www.fantasyxc.se/api/athletes/3200346,https://www.fantasyxc.se/api/athletes/3200346/results
+716,111,CHN,242,0,True,3120031,False,SUN Qinghai,m,https://www.fantasyxc.se/api/athletes/3120031,https://www.fantasyxc.se/api/athletes/3120031/results
+717,111,UKR,1803,0,True,102475,True,UKRAINE I,m,https://www.fantasyxc.se/api/athletes/102475,https://www.fantasyxc.se/api/athletes/102475/results
+718,111,FIN,229,0,False,3180250,False,PENTSINEN Anssi,m,https://www.fantasyxc.se/api/athletes/3180250,https://www.fantasyxc.se/api/athletes/3180250/results
+719,111,NOR,218,0,True,3421845,False,GUNNULFSEN Mikael,m,https://www.fantasyxc.se/api/athletes/3421845,https://www.fantasyxc.se/api/athletes/3421845/results
+720,111,FRA,586,0,True,3190255,False,GROS Baptiste,m,https://www.fantasyxc.se/api/athletes/3190255,https://www.fantasyxc.se/api/athletes/3190255/results
+721,111,SWE,228,0,False,3501224,False,HEDLUND Anton,m,https://www.fantasyxc.se/api/athletes/3501224,https://www.fantasyxc.se/api/athletes/3501224/results
+722,111,FIN,227,0,False,3180977,False,HARTULL Jim,m,https://www.fantasyxc.se/api/athletes/3180977,https://www.fantasyxc.se/api/athletes/3180977/results
+723,111,CAN,1596,0,False,3100110,False,HARVEY Alex,m,https://www.fantasyxc.se/api/athletes/3100110,https://www.fantasyxc.se/api/athletes/3100110/results
+724,111,KAZ,225,0,True,3670078,False,KLIMIN Olzhas,m,https://www.fantasyxc.se/api/athletes/3670078,https://www.fantasyxc.se/api/athletes/3670078/results
+725,111,NOR,228,0,False,3421172,False,STROEM Mads Ek,m,https://www.fantasyxc.se/api/athletes/3421172,https://www.fantasyxc.se/api/athletes/3421172/results
+726,111,RUS,216,0,True,3482932,False,ARDASHEV Sergey,m,https://www.fantasyxc.se/api/athletes/3482932,https://www.fantasyxc.se/api/athletes/3482932/results
+727,111,CAN,223,0,False,3100217,False,JOHNSGAARD Knute,m,https://www.fantasyxc.se/api/athletes/3100217,https://www.fantasyxc.se/api/athletes/3100217/results
+728,111,KAZ,232,0,False,3670000,False,CHEBOTKO Nikolay,m,https://www.fantasyxc.se/api/athletes/3670000,https://www.fantasyxc.se/api/athletes/3670000/results
+729,111,AUT,217,0,True,3050281,False,MRKONJIC Lukas,m,https://www.fantasyxc.se/api/athletes/3050281,https://www.fantasyxc.se/api/athletes/3050281/results
+730,111,NOR,229,0,True,3421239,False,HOELGAARD Stian,m,https://www.fantasyxc.se/api/athletes/3421239,https://www.fantasyxc.se/api/athletes/3421239/results
+731,111,NOR,216,0,True,3422004,False,THORSTENSEN Erik Lippestad,m,https://www.fantasyxc.se/api/athletes/3422004,https://www.fantasyxc.se/api/athletes/3422004/results
+732,111,ITA,218,0,True,3290712,False,GRAZ Davide,m,https://www.fantasyxc.se/api/athletes/3290712,https://www.fantasyxc.se/api/athletes/3290712/results
+733,111,RUS,212,0,True,3480533,False,VOLZHENTSEV Stanislav,m,https://www.fantasyxc.se/api/athletes/3480533,https://www.fantasyxc.se/api/athletes/3480533/results
+734,111,RUS,3331,0,True,3481161,False,BELOV Evgeniy,m,https://www.fantasyxc.se/api/athletes/3481161,https://www.fantasyxc.se/api/athletes/3481161/results
+735,111,CAN,215,0,False,3100283,False,PALMER-CHARRETTE Evan,m,https://www.fantasyxc.se/api/athletes/3100283,https://www.fantasyxc.se/api/athletes/3100283/results
+736,111,SWE,2252,0,True,3501223,False,BURMAN Jens,m,https://www.fantasyxc.se/api/athletes/3501223,https://www.fantasyxc.se/api/athletes/3501223/results
+737,111,CZE,216,0,False,3150070,False,RAZYM Ales,m,https://www.fantasyxc.se/api/athletes/3150070,https://www.fantasyxc.se/api/athletes/3150070/results
+738,111,ITA,218,0,True,3290383,False,RASTELLI Maicol,m,https://www.fantasyxc.se/api/athletes/3290383,https://www.fantasyxc.se/api/athletes/3290383/results
+739,111,SVN,211,0,True,3560126,False,JENKO Andrej,m,https://www.fantasyxc.se/api/athletes/3560126,https://www.fantasyxc.se/api/athletes/3560126/results
+740,111,SWE,222,0,False,3500625,False,NORDSTROEM Gustav,m,https://www.fantasyxc.se/api/athletes/3500625,https://www.fantasyxc.se/api/athletes/3500625/results
+741,111,FRA,222,0,False,3190076,False,MOUGEL Adrien,m,https://www.fantasyxc.se/api/athletes/3190076,https://www.fantasyxc.se/api/athletes/3190076/results
+742,111,RUS,220,0,True,3480004,False,DEMENTIEV Eugeniy,m,https://www.fantasyxc.se/api/athletes/3480004,https://www.fantasyxc.se/api/athletes/3480004/results
+743,111,FRA,229,0,True,3190029,False,DUVILLARD Robin,m,https://www.fantasyxc.se/api/athletes/3190029,https://www.fantasyxc.se/api/athletes/3190029/results
+744,111,RUS,231,0,False,3481445,False,FAYZULLOV Ildar,m,https://www.fantasyxc.se/api/athletes/3481445,https://www.fantasyxc.se/api/athletes/3481445/results
+745,111,ITA,368,0,True,3290407,False,SALVADORI Giandomenico,m,https://www.fantasyxc.se/api/athletes/3290407,https://www.fantasyxc.se/api/athletes/3290407/results
+746,111,BLR,223,0,True,3660065,False,SEMENOV Michail,m,https://www.fantasyxc.se/api/athletes/3660065,https://www.fantasyxc.se/api/athletes/3660065/results
+747,111,USA,230,0,False,3530100,False,BLACKHORSE-VON JESS Dakota,m,https://www.fantasyxc.se/api/athletes/3530100,https://www.fantasyxc.se/api/athletes/3530100/results
+748,111,CHN,222,0,True,3120120,False,ABUDELEHAN Yeernaer,m,https://www.fantasyxc.se/api/athletes/3120120,https://www.fantasyxc.se/api/athletes/3120120/results
+749,111,EST,227,0,False,3390033,False,EINASTE Kein,m,https://www.fantasyxc.se/api/athletes/3390033,https://www.fantasyxc.se/api/athletes/3390033/results
+750,111,BIH,415,0,True,3710068,True,BOSNIA AND HERZEGOVINA I,m,https://www.fantasyxc.se/api/athletes/3710068,https://www.fantasyxc.se/api/athletes/3710068/results
+751,111,BGR,233,0,True,3090133,True,BULGARIA I,m,https://www.fantasyxc.se/api/athletes/3090133,https://www.fantasyxc.se/api/athletes/3090133/results
+752,111,ISL,220,0,True,3250038,False,EINARSSON Snorri Eythor,m,https://www.fantasyxc.se/api/athletes/3250038,https://www.fantasyxc.se/api/athletes/3250038/results
+753,111,NOR,627,0,False,3420365,False,BRANDSDAL Eirik,m,https://www.fantasyxc.se/api/athletes/3420365,https://www.fantasyxc.se/api/athletes/3420365/results
+754,111,USA,233,0,False,1285347,False,FREEMAN Kris,m,https://www.fantasyxc.se/api/athletes/1285347,https://www.fantasyxc.se/api/athletes/1285347/results
+755,111,NOR,224,0,False,3422084,False,HIPPE Even Saeteren,m,https://www.fantasyxc.se/api/athletes/3422084,https://www.fantasyxc.se/api/athletes/3422084/results
+756,111,JPN,212,0,False,3300330,False,LENTING Akira,m,https://www.fantasyxc.se/api/athletes/3300330,https://www.fantasyxc.se/api/athletes/3300330/results
+757,111,GRC,220,0,True,3230131,True,GREECE I,m,https://www.fantasyxc.se/api/athletes/3230131,https://www.fantasyxc.se/api/athletes/3230131/results
+758,111,USA,211,0,False,3530378,False,GELSO Matthew Phillip,m,https://www.fantasyxc.se/api/athletes/3530378,https://www.fantasyxc.se/api/athletes/3530378/results
+759,111,AUT,214,0,False,3050155,False,STADLOBER Luis,m,https://www.fantasyxc.se/api/athletes/3050155,https://www.fantasyxc.se/api/athletes/3050155/results
+760,111,NOR,231,0,True,3420614,False,NYGAARD Per Kristian,m,https://www.fantasyxc.se/api/athletes/3420614,https://www.fantasyxc.se/api/athletes/3420614/results
+761,111,EST,231,0,False,3390003,False,KUMMEL Peeter,m,https://www.fantasyxc.se/api/athletes/3390003,https://www.fantasyxc.se/api/athletes/3390003/results
+762,111,SVK,233,0,True,171269,True,SLOVAKIA II,m,https://www.fantasyxc.se/api/athletes/171269,https://www.fantasyxc.se/api/athletes/171269/results
+763,111,NOR,224,0,True,3423183,False,BUCHER-JOHANNESSEN Thomas,m,https://www.fantasyxc.se/api/athletes/3423183,https://www.fantasyxc.se/api/athletes/3423183/results
+764,111,CHN,226,0,True,193056,True,PEOPLES REPUBLIC OF CHINA II,m,https://www.fantasyxc.se/api/athletes/193056,https://www.fantasyxc.se/api/athletes/193056/results
+765,111,CHE,214,0,False,3510428,False,HOESLI Corsin,m,https://www.fantasyxc.se/api/athletes/3510428,https://www.fantasyxc.se/api/athletes/3510428/results
+766,111,NOR,247,0,True,3421316,False,AUNE Paal Troean,m,https://www.fantasyxc.se/api/athletes/3421316,https://www.fantasyxc.se/api/athletes/3421316/results
+767,111,AUS,420,0,True,171270,True,AUSTRALIA II,m,https://www.fantasyxc.se/api/athletes/171270,https://www.fantasyxc.se/api/athletes/171270/results
+768,111,GBR,3103,0,True,3220058,True,GREAT BRITAIN I,m,https://www.fantasyxc.se/api/athletes/3220058,https://www.fantasyxc.se/api/athletes/3220058/results
+769,111,DEU,228,0,True,3200309,False,WOLZ Alexander,m,https://www.fantasyxc.se/api/athletes/3200309,https://www.fantasyxc.se/api/athletes/3200309/results
+770,111,EST,213,0,True,3390101,False,RANKEL Raido,m,https://www.fantasyxc.se/api/athletes/3390101,https://www.fantasyxc.se/api/athletes/3390101/results
+771,111,RUS,229,0,False,3480317,False,TURYSHEV Sergey,m,https://www.fantasyxc.se/api/athletes/3480317,https://www.fantasyxc.se/api/athletes/3480317/results
+772,111,JPN,218,0,False,3300422,False,UDA Takatsugu,m,https://www.fantasyxc.se/api/athletes/3300422,https://www.fantasyxc.se/api/athletes/3300422/results
+773,111,EST,232,0,True,3390240,False,HIMMA Martin,m,https://www.fantasyxc.se/api/athletes/3390240,https://www.fantasyxc.se/api/athletes/3390240/results
+774,111,IRL,289,0,True,3270010,False,MALONEY WESTGAARD Thomas,m,https://www.fantasyxc.se/api/athletes/3270010,https://www.fantasyxc.se/api/athletes/3270010/results
+775,111,EST,222,0,True,3390167,False,ALEV Alvar Johannes,m,https://www.fantasyxc.se/api/athletes/3390167,https://www.fantasyxc.se/api/athletes/3390167/results
+776,111,JPN,216,0,True,3300373,False,MIYAZAWA Hiroyuki,m,https://www.fantasyxc.se/api/athletes/3300373,https://www.fantasyxc.se/api/athletes/3300373/results
+777,111,NOR,211,0,False,3420935,False,FALLA Marius Caspersen,m,https://www.fantasyxc.se/api/athletes/3420935,https://www.fantasyxc.se/api/athletes/3420935/results
+778,111,BLR,231,0,True,3660055,False,VORANAU Aliaksandr,m,https://www.fantasyxc.se/api/athletes/3660055,https://www.fantasyxc.se/api/athletes/3660055/results
+779,111,NOR,233,0,False,3420077,False,HATTESTAD Ola Vigen,m,https://www.fantasyxc.se/api/athletes/3420077,https://www.fantasyxc.se/api/athletes/3420077/results
+780,111,JPN,216,0,True,3300277,False,SHIMIZU Kohei,m,https://www.fantasyxc.se/api/athletes/3300277,https://www.fantasyxc.se/api/athletes/3300277/results
+781,111,EST,211,0,True,3390169,False,KILP Marko,m,https://www.fantasyxc.se/api/athletes/3390169,https://www.fantasyxc.se/api/athletes/3390169/results
+782,111,NOR,225,0,False,3421645,False,AUNLI Lars Ove,m,https://www.fantasyxc.se/api/athletes/3421645,https://www.fantasyxc.se/api/athletes/3421645/results
+783,111,ITA,231,0,False,3290432,False,PELLEGRIN Sebastiano,m,https://www.fantasyxc.se/api/athletes/3290432,https://www.fantasyxc.se/api/athletes/3290432/results
+784,111,NOR,224,0,False,3420463,False,STEEN Andreas Myran,m,https://www.fantasyxc.se/api/athletes/3420463,https://www.fantasyxc.se/api/athletes/3420463/results
+785,111,SWE,229,0,False,3500138,False,SOEDERHIELM Tiio,m,https://www.fantasyxc.se/api/athletes/3500138,https://www.fantasyxc.se/api/athletes/3500138/results
+786,111,NOR,218,0,True,3422474,False,BRUVOLL Ole Joergen,m,https://www.fantasyxc.se/api/athletes/3422474,https://www.fantasyxc.se/api/athletes/3422474/results
+787,111,NOR,228,0,False,3421290,False,MIKKELSEN Martin,m,https://www.fantasyxc.se/api/athletes/3421290,https://www.fantasyxc.se/api/athletes/3421290/results
+788,111,NOR,223,0,True,3421655,False,LOEFALD Gjermund,m,https://www.fantasyxc.se/api/athletes/3421655,https://www.fantasyxc.se/api/athletes/3421655/results
+789,111,RUS,216,0,True,3482610,False,KIRILLOV Ivan,m,https://www.fantasyxc.se/api/athletes/3482610,https://www.fantasyxc.se/api/athletes/3482610/results
+790,111,NOR,226,0,False,3420573,False,BAKKEN Timo Andre,m,https://www.fantasyxc.se/api/athletes/3420573,https://www.fantasyxc.se/api/athletes/3420573/results
+791,111,FIN,230,0,True,3181015,False,HAKALA Karri,m,https://www.fantasyxc.se/api/athletes/3181015,https://www.fantasyxc.se/api/athletes/3181015/results
+792,111,RUS,211,0,True,3481322,False,KULESHOV Alexander,m,https://www.fantasyxc.se/api/athletes/3481322,https://www.fantasyxc.se/api/athletes/3481322/results
+793,111,EST,220,0,False,3390034,False,KARP Algo,m,https://www.fantasyxc.se/api/athletes/3390034,https://www.fantasyxc.se/api/athletes/3390034/results
+794,111,CAN,214,0,False,3100267,False,LAPOINTE Simon,m,https://www.fantasyxc.se/api/athletes/3100267,https://www.fantasyxc.se/api/athletes/3100267/results
+795,111,NOR,229,0,False,3421931,False,HOEST Anders Moelmen,m,https://www.fantasyxc.se/api/athletes/3421931,https://www.fantasyxc.se/api/athletes/3421931/results
+796,111,SVK,561,0,True,171267,True,SLOVAKIA I,m,https://www.fantasyxc.se/api/athletes/171267,https://www.fantasyxc.se/api/athletes/171267/results
+797,111,TUR,213,0,True,3520046,False,DURSUN Hamza,m,https://www.fantasyxc.se/api/athletes/3520046,https://www.fantasyxc.se/api/athletes/3520046/results
+798,111,COL,233,0,False,3640000,False,BRAGIEL Paul Martin,m,https://www.fantasyxc.se/api/athletes/3640000,https://www.fantasyxc.se/api/athletes/3640000/results
+799,111,NOR,212,0,True,3422841,False,AURLAND Joachim,m,https://www.fantasyxc.se/api/athletes/3422841,https://www.fantasyxc.se/api/athletes/3422841/results
+800,111,FIN,233,0,False,3180404,False,KETELAE Toni,m,https://www.fantasyxc.se/api/athletes/3180404,https://www.fantasyxc.se/api/athletes/3180404/results
+801,111,NOR,228,0,True,3422029,False,HOEL Johan,m,https://www.fantasyxc.se/api/athletes/3422029,https://www.fantasyxc.se/api/athletes/3422029/results
+802,111,SVK,232,0,True,3700081,False,KORISTEK Jan,m,https://www.fantasyxc.se/api/athletes/3700081,https://www.fantasyxc.se/api/athletes/3700081/results
+803,111,FIN,217,0,True,3180984,False,LEPISTO Lauri,m,https://www.fantasyxc.se/api/athletes/3180984,https://www.fantasyxc.se/api/athletes/3180984/results
+804,111,RUS,223,0,True,3481444,False,SAFIULLIN Rifat,m,https://www.fantasyxc.se/api/athletes/3481444,https://www.fantasyxc.se/api/athletes/3481444/results
+805,111,SWE,231,0,True,3500778,False,SILFVER Erik,m,https://www.fantasyxc.se/api/athletes/3500778,https://www.fantasyxc.se/api/athletes/3500778/results
+806,111,SWE,217,0,False,1283892,False,OLSSON Johan,m,https://www.fantasyxc.se/api/athletes/1283892,https://www.fantasyxc.se/api/athletes/1283892/results
+807,111,EST,229,0,True,3390207,False,ROOS Henri,m,https://www.fantasyxc.se/api/athletes/3390207,https://www.fantasyxc.se/api/athletes/3390207/results
+808,111,SVN,231,0,True,3560155,False,JAN Miha,m,https://www.fantasyxc.se/api/athletes/3560155,https://www.fantasyxc.se/api/athletes/3560155/results
+809,111,COL,225,0,False,3640002,False,ACEVEDO Jhon,m,https://www.fantasyxc.se/api/athletes/3640002,https://www.fantasyxc.se/api/athletes/3640002/results
+810,111,RUS,480,0,True,3481775,False,KRASNOV Andrey,m,https://www.fantasyxc.se/api/athletes/3481775,https://www.fantasyxc.se/api/athletes/3481775/results
+811,111,RUS,227,0,True,3480438,False,FELLER Andrey,m,https://www.fantasyxc.se/api/athletes/3480438,https://www.fantasyxc.se/api/athletes/3480438/results
+812,111,SWE,232,0,False,3500409,False,EDIN Johan,m,https://www.fantasyxc.se/api/athletes/3500409,https://www.fantasyxc.se/api/athletes/3500409/results
+813,111,SWE,803,0,False,3500330,False,PETERSON Teodor,m,https://www.fantasyxc.se/api/athletes/3500330,https://www.fantasyxc.se/api/athletes/3500330/results
+814,111,BLR,230,0,False,1125588,False,DOLIDOVICH Sergei,m,https://www.fantasyxc.se/api/athletes/1125588,https://www.fantasyxc.se/api/athletes/1125588/results
+815,111,CAN,221,0,False,3100296,False,HILL Scott James,m,https://www.fantasyxc.se/api/athletes/3100296,https://www.fantasyxc.se/api/athletes/3100296/results
+816,111,USA,216,0,True,3530711,False,MARTIN Adam,m,https://www.fantasyxc.se/api/athletes/3530711,https://www.fantasyxc.se/api/athletes/3530711/results
+817,111,DEU,223,0,True,3200669,False,LEUPOLD Richard,m,https://www.fantasyxc.se/api/athletes/3200669,https://www.fantasyxc.se/api/athletes/3200669/results
+818,111,FIN,214,0,True,3180175,False,HAKAMIES Antti,m,https://www.fantasyxc.se/api/athletes/3180175,https://www.fantasyxc.se/api/athletes/3180175/results
+819,111,SWE,211,0,True,3500991,False,WESTBERG Karl-Johan,m,https://www.fantasyxc.se/api/athletes/3500991,https://www.fantasyxc.se/api/athletes/3500991/results
+820,111,NOR,231,0,True,3422003,False,REISTAD Petter,m,https://www.fantasyxc.se/api/athletes/3422003,https://www.fantasyxc.se/api/athletes/3422003/results
+821,111,LTU,226,0,True,3780036,False,TERENTJEV Stepan,m,https://www.fantasyxc.se/api/athletes/3780036,https://www.fantasyxc.se/api/athletes/3780036/results
+822,111,USA,232,0,False,3530492,False,ELLIOTT Tad,m,https://www.fantasyxc.se/api/athletes/3530492,https://www.fantasyxc.se/api/athletes/3530492/results
+823,111,NOR,220,0,False,3421096,False,PALM Sindre Odberg,m,https://www.fantasyxc.se/api/athletes/3421096,https://www.fantasyxc.se/api/athletes/3421096/results
+824,111,AUT,225,0,False,3050159,False,TRITSCHER Bernhard,m,https://www.fantasyxc.se/api/athletes/3050159,https://www.fantasyxc.se/api/athletes/3050159/results
+825,111,RUS,978,0,True,3480013,False,VYLEGZHANIN Maxim,m,https://www.fantasyxc.se/api/athletes/3480013,https://www.fantasyxc.se/api/athletes/3480013/results
+826,111,USA,212,0,False,3530722,False,KESSELHEIM Sawyer,m,https://www.fantasyxc.se/api/athletes/3530722,https://www.fantasyxc.se/api/athletes/3530722/results
+827,111,NOR,623,0,True,3422115,False,TEFRE Gjoeran,m,https://www.fantasyxc.se/api/athletes/3422115,https://www.fantasyxc.se/api/athletes/3422115/results
+828,111,FRA,225,0,False,3190280,False,TARANTOLA Damien,m,https://www.fantasyxc.se/api/athletes/3190280,https://www.fantasyxc.se/api/athletes/3190280/results
+829,111,NOR,219,0,False,3421292,False,NYGAARD Andreas,m,https://www.fantasyxc.se/api/athletes/3421292,https://www.fantasyxc.se/api/athletes/3421292/results
+830,111,NOR,230,0,True,3421836,False,EK Aleksander Dyrberg,m,https://www.fantasyxc.se/api/athletes/3421836,https://www.fantasyxc.se/api/athletes/3421836/results
+831,111,USA,232,0,True,3530814,False,TORCHIA Ian,m,https://www.fantasyxc.se/api/athletes/3530814,https://www.fantasyxc.se/api/athletes/3530814/results
+832,111,JPN,222,0,False,3300190,False,YOSHIDA Keishin,m,https://www.fantasyxc.se/api/athletes/3300190,https://www.fantasyxc.se/api/athletes/3300190/results
+833,111,CAN,225,0,True,3100097,False,VALJAS Len,m,https://www.fantasyxc.se/api/athletes/3100097,https://www.fantasyxc.se/api/athletes/3100097/results
+834,94,DEU,224,0,False,1373617,False,FESSEL Nicole,f,https://www.fantasyxc.se/api/athletes/1373617,https://www.fantasyxc.se/api/athletes/1373617/results
+835,94,NOR,227,0,True,3425772,False,BJOERNSGAARD Marthe,f,https://www.fantasyxc.se/api/athletes/3425772,https://www.fantasyxc.se/api/athletes/3425772/results
+836,94,SWE,228,0,False,3505489,False,HALLQUIST Frida,f,https://www.fantasyxc.se/api/athletes/3505489,https://www.fantasyxc.se/api/athletes/3505489/results
+837,94,UKR,212,0,True,3695016,False,ANTSYBOR Maryna,f,https://www.fantasyxc.se/api/athletes/3695016,https://www.fantasyxc.se/api/athletes/3695016/results
+838,94,ITA,222,0,False,3295280,False,TOMASINI Monica,f,https://www.fantasyxc.se/api/athletes/3295280,https://www.fantasyxc.se/api/athletes/3295280/results
+839,94,NOR,215,0,False,3425959,False,ERIKSEN Linn,f,https://www.fantasyxc.se/api/athletes/3425959,https://www.fantasyxc.se/api/athletes/3425959/results
+840,94,AUT,231,0,True,3055108,False,UNTERWEGER Lisa,f,https://www.fantasyxc.se/api/athletes/3055108,https://www.fantasyxc.se/api/athletes/3055108/results
+841,94,ITA,222,0,False,3295144,False,DEBERTOLIS Ilaria,f,https://www.fantasyxc.se/api/athletes/3295144,https://www.fantasyxc.se/api/athletes/3295144/results
+842,94,RUS,219,0,True,3486733,False,GRUKHVINA Anna,f,https://www.fantasyxc.se/api/athletes/3486733,https://www.fantasyxc.se/api/athletes/3486733/results
+843,94,AUS,215,0,True,3045009,False,WATSON Aimee,f,https://www.fantasyxc.se/api/athletes/3045009,https://www.fantasyxc.se/api/athletes/3045009/results
+844,94,RUS,217,0,True,3487123,False,KRUPITSKAYA Evgeniya,f,https://www.fantasyxc.se/api/athletes/3487123,https://www.fantasyxc.se/api/athletes/3487123/results
+845,94,NOR,231,0,False,3425837,False,NORDGAARDEN Sigrid,f,https://www.fantasyxc.se/api/athletes/3425837,https://www.fantasyxc.se/api/athletes/3425837/results
+846,94,,224,0,False,0,False,,f,https://www.fantasyxc.se/api/athletes/0,https://www.fantasyxc.se/api/athletes/0/results
+847,94,LTU,233,0,True,3785051,True,LITHUANIA II,f,https://www.fantasyxc.se/api/athletes/3785051,https://www.fantasyxc.se/api/athletes/3785051/results
+848,94,SVN,230,0,True,3565034,False,CEBASEK Alenka,f,https://www.fantasyxc.se/api/athletes/3565034,https://www.fantasyxc.se/api/athletes/3565034/results
+849,94,ITA,1048,0,True,3295157,False,SCARDONI Lucia,f,https://www.fantasyxc.se/api/athletes/3295157,https://www.fantasyxc.se/api/athletes/3295157/results
+850,94,FIN,226,0,True,3185514,False,JULIN Andrea,f,https://www.fantasyxc.se/api/athletes/3185514,https://www.fantasyxc.se/api/athletes/3185514/results
+851,94,KAZ,220,0,True,3675036,False,MANDRIKA Olga,f,https://www.fantasyxc.se/api/athletes/3675036,https://www.fantasyxc.se/api/athletes/3675036/results
+852,94,FRA,229,0,False,3195182,False,DAMIANI Lea,f,https://www.fantasyxc.se/api/athletes/3195182,https://www.fantasyxc.se/api/athletes/3195182/results
+853,94,USA,216,0,False,1365857,False,RANDALL Kikkan,f,https://www.fantasyxc.se/api/athletes/1365857,https://www.fantasyxc.se/api/athletes/1365857/results
+854,94,SWE,230,0,True,3505834,False,HENRIKSSON Sofia,f,https://www.fantasyxc.se/api/athletes/3505834,https://www.fantasyxc.se/api/athletes/3505834/results
+855,94,SVN,226,0,True,3565065,False,KLEMENCIC Anita,f,https://www.fantasyxc.se/api/athletes/3565065,https://www.fantasyxc.se/api/athletes/3565065/results
+856,94,FIN,216,0,False,3185501,False,NIIRANEN Krista,f,https://www.fantasyxc.se/api/athletes/3185501,https://www.fantasyxc.se/api/athletes/3185501/results
+857,94,RUS,226,0,True,3486557,False,PEREVOZCHIKOVA Alena,f,https://www.fantasyxc.se/api/athletes/3486557,https://www.fantasyxc.se/api/athletes/3486557/results
+858,94,NOR,219,0,False,3425539,False,KRISTOFFERSEN Emilie,f,https://www.fantasyxc.se/api/athletes/3425539,https://www.fantasyxc.se/api/athletes/3425539/results
+859,94,SWE,1853,0,False,3505754,False,NILSSON Stina,f,https://www.fantasyxc.se/api/athletes/3505754,https://www.fantasyxc.se/api/athletes/3505754/results
+860,94,KAZ,219,0,True,3675049,False,BYKOVA Irina,f,https://www.fantasyxc.se/api/athletes/3675049,https://www.fantasyxc.se/api/athletes/3675049/results
+861,94,CHN,215,0,True,3125070,False,MA Qinghua,f,https://www.fantasyxc.se/api/athletes/3125070,https://www.fantasyxc.se/api/athletes/3125070/results
+862,94,FIN,232,0,True,3185343,False,SAAPUNKI Susanna,f,https://www.fantasyxc.se/api/athletes/3185343,https://www.fantasyxc.se/api/athletes/3185343/results
+863,94,RUS,230,0,True,3485283,False,NIKOLAEVA Svetlana,f,https://www.fantasyxc.se/api/athletes/3485283,https://www.fantasyxc.se/api/athletes/3485283/results
+864,94,RUS,215,0,True,3485692,False,SERGEEVA Olga,f,https://www.fantasyxc.se/api/athletes/3485692,https://www.fantasyxc.se/api/athletes/3485692/results
+865,94,JPN,215,0,True,3305263,False,KOBAYASHI Chika,f,https://www.fantasyxc.se/api/athletes/3305263,https://www.fantasyxc.se/api/athletes/3305263/results
+866,94,CZE,221,0,True,3155270,False,HYNCICOVA Petra,f,https://www.fantasyxc.se/api/athletes/3155270,https://www.fantasyxc.se/api/athletes/3155270/results
+867,94,BLR,222,0,False,3665023,False,KAMINSKA Valentyna,f,https://www.fantasyxc.se/api/athletes/3665023,https://www.fantasyxc.se/api/athletes/3665023/results
+868,94,POL,1033,0,True,3430262,True,POLAND II,f,https://www.fantasyxc.se/api/athletes/3430262,https://www.fantasyxc.se/api/athletes/3430262/results
+869,94,ITA,222,0,False,3295147,False,PELLEGRINI Sara,f,https://www.fantasyxc.se/api/athletes/3295147,https://www.fantasyxc.se/api/athletes/3295147/results
+870,94,SWE,212,0,True,3505803,False,LOCKNER Jackline,f,https://www.fantasyxc.se/api/athletes/3505803,https://www.fantasyxc.se/api/athletes/3505803/results
+871,94,RUS,217,0,True,3485681,False,ZIUZEVA Natalia,f,https://www.fantasyxc.se/api/athletes/3485681,https://www.fantasyxc.se/api/athletes/3485681/results
+872,94,AUS,224,0,True,3045076,False,YEATON Jessica,f,https://www.fantasyxc.se/api/athletes/3045076,https://www.fantasyxc.se/api/athletes/3045076/results
+873,94,SVN,212,0,True,3385016,False,MALEC Vedrana,f,https://www.fantasyxc.se/api/athletes/3385016,https://www.fantasyxc.se/api/athletes/3385016/results
+874,94,USA,232,0,True,3535448,False,FRANKOWSKI Rosie,f,https://www.fantasyxc.se/api/athletes/3535448,https://www.fantasyxc.se/api/athletes/3535448/results
+875,94,RUS,1956,0,True,3485890,False,KULESHOVA Anastasia,f,https://www.fantasyxc.se/api/athletes/3485890,https://www.fantasyxc.se/api/athletes/3485890/results
+876,94,RUS,220,0,True,3485695,False,MEDVEDEVA Anna,f,https://www.fantasyxc.se/api/athletes/3485695,https://www.fantasyxc.se/api/athletes/3485695/results
+877,94,SWE,697,0,True,3505449,False,SOEMSKAR Linn,f,https://www.fantasyxc.se/api/athletes/3505449,https://www.fantasyxc.se/api/athletes/3505449/results
+878,94,CHN,5402,0,True,3125059,True,PEOPLES REPUBLIC OF CHINA I,f,https://www.fantasyxc.se/api/athletes/3125059,https://www.fantasyxc.se/api/athletes/3125059/results
+879,94,CHE,228,0,True,1360134,False,GASPARIN Selina,f,https://www.fantasyxc.se/api/athletes/1360134,https://www.fantasyxc.se/api/athletes/1360134/results
+880,94,JPN,211,0,True,3305282,False,YOKOHAMA Shiori,f,https://www.fantasyxc.se/api/athletes/3305282,https://www.fantasyxc.se/api/athletes/3305282/results
+881,94,RUS,222,0,False,3485583,False,RUDENKO Natalia,f,https://www.fantasyxc.se/api/athletes/3485583,https://www.fantasyxc.se/api/athletes/3485583/results
+882,94,CZE,213,0,True,3155306,False,SIXTOVA Anna,f,https://www.fantasyxc.se/api/athletes/3155306,https://www.fantasyxc.se/api/athletes/3155306/results
+883,94,HRV,226,0,True,3385049,False,JAGECIC Nika,f,https://www.fantasyxc.se/api/athletes/3385049,https://www.fantasyxc.se/api/athletes/3385049/results
+884,94,RUS,229,0,True,3485571,False,MOSKALENKO Anastasia,f,https://www.fantasyxc.se/api/athletes/3485571,https://www.fantasyxc.se/api/athletes/3485571/results
+885,94,RUS,229,0,True,3485062,False,MELINA Viktoria,f,https://www.fantasyxc.se/api/athletes/3485062,https://www.fantasyxc.se/api/athletes/3485062/results
+886,94,UKR,224,0,False,3695067,False,ANTYPENKO Tetiana,f,https://www.fantasyxc.se/api/athletes/3695067,https://www.fantasyxc.se/api/athletes/3695067/results
+887,94,BLR,228,0,True,3665115,False,KIRILLOVA Anastasia,f,https://www.fantasyxc.se/api/athletes/3665115,https://www.fantasyxc.se/api/athletes/3665115/results
+888,94,CAN,213,0,False,3105182,False,WHITE Sadie,f,https://www.fantasyxc.se/api/athletes/3105182,https://www.fantasyxc.se/api/athletes/3105182/results
+889,94,RUS,220,0,True,3486177,False,BAYAZITOVA Aida,f,https://www.fantasyxc.se/api/athletes/3486177,https://www.fantasyxc.se/api/athletes/3486177/results
+890,94,AUT,239,0,True,3055097,True,AUSTRIA II,f,https://www.fantasyxc.se/api/athletes/3055097,https://www.fantasyxc.se/api/athletes/3055097/results
+891,94,JPN,216,0,False,3305134,False,KOBAYASHI Yuki,f,https://www.fantasyxc.se/api/athletes/3305134,https://www.fantasyxc.se/api/athletes/3305134/results
+892,94,KAZ,230,0,True,3675060,False,SHALYGINA Kseniya,f,https://www.fantasyxc.se/api/athletes/3675060,https://www.fantasyxc.se/api/athletes/3675060/results
+893,94,RUS,213,0,True,3485342,False,DOTSENKO Anastasia,f,https://www.fantasyxc.se/api/athletes/3485342,https://www.fantasyxc.se/api/athletes/3485342/results
+894,94,POL,227,0,True,3435202,False,KALETA Weronika,f,https://www.fantasyxc.se/api/athletes/3435202,https://www.fantasyxc.se/api/athletes/3435202/results
+895,94,DEU,215,0,False,1293107,False,BOEHLER Stefanie,f,https://www.fantasyxc.se/api/athletes/1293107,https://www.fantasyxc.se/api/athletes/1293107/results
+896,94,RUS,219,0,False,3485170,False,ILJINA Natalja,f,https://www.fantasyxc.se/api/athletes/3485170,https://www.fantasyxc.se/api/athletes/3485170/results
+897,94,CHN,219,0,True,3125095,False,MENG Honglian,f,https://www.fantasyxc.se/api/athletes/3125095,https://www.fantasyxc.se/api/athletes/3125095/results
+898,94,FRA,226,0,True,3195224,False,BULLE Emilie,f,https://www.fantasyxc.se/api/athletes/3195224,https://www.fantasyxc.se/api/athletes/3195224/results
+899,94,BLR,223,0,False,3665106,False,MAYNGARDT Anastasia,f,https://www.fantasyxc.se/api/athletes/3665106,https://www.fantasyxc.se/api/athletes/3665106/results
+900,94,CZE,213,0,True,3155357,False,HOLIKOVA Zuzana,f,https://www.fantasyxc.se/api/athletes/3155357,https://www.fantasyxc.se/api/athletes/3155357/results
+901,94,NOR,6196,0,False,3425183,False,JACOBSEN Astrid Uhrenholdt,f,https://www.fantasyxc.se/api/athletes/3425183,https://www.fantasyxc.se/api/athletes/3425183/results
+902,94,CHN,235,0,True,3125060,True,PEOPLES REPUBLIC OF CHINA II,f,https://www.fantasyxc.se/api/athletes/3125060,https://www.fantasyxc.se/api/athletes/3125060/results
+903,94,SVN,213,0,True,3565090,False,MANDELJC Anja,f,https://www.fantasyxc.se/api/athletes/3565090,https://www.fantasyxc.se/api/athletes/3565090/results
+904,94,JPN,222,0,True,3305240,False,KODAMA Miki,f,https://www.fantasyxc.se/api/athletes/3305240,https://www.fantasyxc.se/api/athletes/3305240/results
+905,94,KAZ,225,0,False,3675029,False,STOYAN Anna,f,https://www.fantasyxc.se/api/athletes/3675029,https://www.fantasyxc.se/api/athletes/3675029/results
+906,94,FRA,298,0,True,3195405,True,FRANCE II,f,https://www.fantasyxc.se/api/athletes/3195405,https://www.fantasyxc.se/api/athletes/3195405/results
+907,94,DEU,215,0,False,3205124,False,SIEGEL Monique,f,https://www.fantasyxc.se/api/athletes/3205124,https://www.fantasyxc.se/api/athletes/3205124/results
+908,94,RUS,218,0,False,3486352,False,MORKOVKINA Anna,f,https://www.fantasyxc.se/api/athletes/3486352,https://www.fantasyxc.se/api/athletes/3486352/results
+909,94,DEU,219,0,False,3205283,False,WOLF Eva,f,https://www.fantasyxc.se/api/athletes/3205283,https://www.fantasyxc.se/api/athletes/3205283/results
+910,94,RUS,224,0,False,3486471,False,ZHEREBYATEVA Anna,f,https://www.fantasyxc.se/api/athletes/3486471,https://www.fantasyxc.se/api/athletes/3486471/results
+911,94,RUS,609,0,True,3485849,False,SURKOVA Anna,f,https://www.fantasyxc.se/api/athletes/3485849,https://www.fantasyxc.se/api/athletes/3485849/results
+912,94,RUS,217,0,True,3485490,False,TSAREVA Olga,f,https://www.fantasyxc.se/api/athletes/3485490,https://www.fantasyxc.se/api/athletes/3485490/results
+913,94,DEU,231,0,False,3205225,False,JOAS Lucia,f,https://www.fantasyxc.se/api/athletes/3205225,https://www.fantasyxc.se/api/athletes/3205225/results
+914,94,FIN,232,0,False,1255665,False,SAARINEN Aino-Kaisa,f,https://www.fantasyxc.se/api/athletes/1255665,https://www.fantasyxc.se/api/athletes/1255665/results
+915,94,ITA,212,0,False,3295141,False,AGREITER Debora,f,https://www.fantasyxc.se/api/athletes/3295141,https://www.fantasyxc.se/api/athletes/3295141/results
+916,94,SWE,233,0,True,3505916,False,SOLIN Jenny,f,https://www.fantasyxc.se/api/athletes/3505916,https://www.fantasyxc.se/api/athletes/3505916/results
+917,94,CZE,220,0,True,3155288,False,KLEMENTOVA Andrea,f,https://www.fantasyxc.se/api/athletes/3155288,https://www.fantasyxc.se/api/athletes/3155288/results
+918,94,NOR,231,0,False,3426370,False,JOHANSEN Marte Maehlum,f,https://www.fantasyxc.se/api/athletes/3426370,https://www.fantasyxc.se/api/athletes/3426370/results
+919,94,RUS,232,0,True,3486326,False,KALUGER Gabriella,f,https://www.fantasyxc.se/api/athletes/3486326,https://www.fantasyxc.se/api/athletes/3486326/results
+920,94,NOR,230,0,True,3426456,False,AMUNDSEN Hedda Oestberg,f,https://www.fantasyxc.se/api/athletes/3426456,https://www.fantasyxc.se/api/athletes/3426456/results
+921,94,RUS,215,0,True,1322110,False,ROTCHEVA Olga,f,https://www.fantasyxc.se/api/athletes/1322110,https://www.fantasyxc.se/api/athletes/1322110/results
+922,94,NOR,226,0,True,3426423,False,OEVREBUST Martine Lorgen,f,https://www.fantasyxc.se/api/athletes/3426423,https://www.fantasyxc.se/api/athletes/3426423/results
+923,94,CHE,217,0,True,3515238,False,HIERNICKEL Lydia,f,https://www.fantasyxc.se/api/athletes/3515238,https://www.fantasyxc.se/api/athletes/3515238/results
+924,94,RUS,215,0,True,3486289,False,NEKRASOVA Polina,f,https://www.fantasyxc.se/api/athletes/3486289,https://www.fantasyxc.se/api/athletes/3486289/results
+925,94,SWE,10641,0,False,3506166,False,SVAHN Linn,f,https://www.fantasyxc.se/api/athletes/3506166,https://www.fantasyxc.se/api/athletes/3506166/results
+926,94,SWE,219,0,False,3505445,False,OEBERG Jennie,f,https://www.fantasyxc.se/api/athletes/3505445,https://www.fantasyxc.se/api/athletes/3505445/results
+927,94,GBR,263,0,True,3225029,True,GREAT BRITAIN I,f,https://www.fantasyxc.se/api/athletes/3225029,https://www.fantasyxc.se/api/athletes/3225029/results
+928,94,RUS,233,0,True,3485042,False,IKSANOVA Alija,f,https://www.fantasyxc.se/api/athletes/3485042,https://www.fantasyxc.se/api/athletes/3485042/results
+929,94,SVN,212,0,True,3565002,False,FABJAN Vesna,f,https://www.fantasyxc.se/api/athletes/3565002,https://www.fantasyxc.se/api/athletes/3565002/results
+930,94,FIN,231,0,True,3185218,False,HOKKANEN Heini,f,https://www.fantasyxc.se/api/athletes/3185218,https://www.fantasyxc.se/api/athletes/3185218/results
+931,94,THA,211,0,True,3905003,False,KLOBUCZEK Poonyanuch,f,https://www.fantasyxc.se/api/athletes/3905003,https://www.fantasyxc.se/api/athletes/3905003/results
+932,94,RUS,217,0,False,3485195,False,TCHEKALEVA Yulia,f,https://www.fantasyxc.se/api/athletes/3485195,https://www.fantasyxc.se/api/athletes/3485195/results
+933,94,ITA,732,0,True,3295322,False,COMARELLA Anna,f,https://www.fantasyxc.se/api/athletes/3295322,https://www.fantasyxc.se/api/athletes/3295322/results
+934,94,SWE,217,0,False,3505588,False,MOHLIN Elin,f,https://www.fantasyxc.se/api/athletes/3505588,https://www.fantasyxc.se/api/athletes/3505588/results
+935,94,RUS,213,0,True,3485870,False,VLASOVA Anastasia,f,https://www.fantasyxc.se/api/athletes/3485870,https://www.fantasyxc.se/api/athletes/3485870/results
+936,94,SWE,222,0,True,3505858,False,MOLANDER KRISTIANSEN Moa,f,https://www.fantasyxc.se/api/athletes/3505858,https://www.fantasyxc.se/api/athletes/3505858/results
+937,94,THA,226,0,True,3905001,False,CHANLOUNG Karen,f,https://www.fantasyxc.se/api/athletes/3905001,https://www.fantasyxc.se/api/athletes/3905001/results
+938,94,BRA,511,0,True,3085022,True,BRAZIL I,f,https://www.fantasyxc.se/api/athletes/3085022,https://www.fantasyxc.se/api/athletes/3085022/results
+939,94,RUS,363,0,True,3486592,False,DUBOTOLKINA Nina,f,https://www.fantasyxc.se/api/athletes/3486592,https://www.fantasyxc.se/api/athletes/3486592/results
+940,94,EST,220,0,False,3395067,False,TAMMJARV Kati,f,https://www.fantasyxc.se/api/athletes/3395067,https://www.fantasyxc.se/api/athletes/3395067/results
+941,94,RUS,221,0,True,3485498,False,GUSCHINA Mariya,f,https://www.fantasyxc.se/api/athletes/3485498,https://www.fantasyxc.se/api/athletes/3485498/results
+942,94,FRA,2921,0,True,3195402,True,FRANCE I,f,https://www.fantasyxc.se/api/athletes/3195402,https://www.fantasyxc.se/api/athletes/3195402/results
+943,94,KOR,229,0,False,3325027,False,JU Hyeri,f,https://www.fantasyxc.se/api/athletes/3325027,https://www.fantasyxc.se/api/athletes/3325027/results
+944,94,FIN,231,0,False,3185055,False,MAKARAINEN Kaisa,f,https://www.fantasyxc.se/api/athletes/3185055,https://www.fantasyxc.se/api/athletes/3185055/results
+945,94,CAN,227,0,False,3105105,False,DUPONT Andrea,f,https://www.fantasyxc.se/api/athletes/3105105,https://www.fantasyxc.se/api/athletes/3105105/results
+946,94,AUT,228,0,False,3055093,False,SEEBACHER Anna Roswitha,f,https://www.fantasyxc.se/api/athletes/3055093,https://www.fantasyxc.se/api/athletes/3055093/results
+947,94,EST,219,0,True,1323565,False,MANNIMA Tatjana,f,https://www.fantasyxc.se/api/athletes/1323565,https://www.fantasyxc.se/api/athletes/1323565/results
+948,94,NOR,211,0,False,3425287,False,MONRAD-HANSEN Marte,f,https://www.fantasyxc.se/api/athletes/3425287,https://www.fantasyxc.se/api/athletes/3425287/results
+949,94,DEU,223,0,False,3205298,False,EICHHORN Theresa,f,https://www.fantasyxc.se/api/athletes/3205298,https://www.fantasyxc.se/api/athletes/3205298/results
+950,94,RUS,219,0,False,3486353,False,MELNIKOVA Alena,f,https://www.fantasyxc.se/api/athletes/3486353,https://www.fantasyxc.se/api/athletes/3486353/results
+951,94,USA,223,0,False,3535468,False,HART Anne,f,https://www.fantasyxc.se/api/athletes/3535468,https://www.fantasyxc.se/api/athletes/3535468/results
+952,94,USA,232,0,False,3535124,False,SARGENT Ida,f,https://www.fantasyxc.se/api/athletes/3535124,https://www.fantasyxc.se/api/athletes/3535124/results
+953,94,POL,220,0,False,3435098,False,MARCISZ Ewelina,f,https://www.fantasyxc.se/api/athletes/3435098,https://www.fantasyxc.se/api/athletes/3435098/results
+954,94,KAZ,214,0,True,3675053,False,MUTAGAROVA Elmira,f,https://www.fantasyxc.se/api/athletes/3675053,https://www.fantasyxc.se/api/athletes/3675053/results
+955,94,CHE,231,0,True,3515273,False,FISCHER Lea,f,https://www.fantasyxc.se/api/athletes/3515273,https://www.fantasyxc.se/api/athletes/3515273/results
+956,94,SWE,438,0,True,3505874,False,VINSA Lisa,f,https://www.fantasyxc.se/api/athletes/3505874,https://www.fantasyxc.se/api/athletes/3505874/results
+957,94,NOR,215,0,False,3425349,False,KRISTOFFERSEN Marthe,f,https://www.fantasyxc.se/api/athletes/3425349,https://www.fantasyxc.se/api/athletes/3425349/results
+958,94,SVN,15854,0,True,3565059,True,SLOVENIA I,f,https://www.fantasyxc.se/api/athletes/3565059,https://www.fantasyxc.se/api/athletes/3565059/results
+959,94,FIN,217,0,True,3185265,False,PITKANEN Marjaana,f,https://www.fantasyxc.se/api/athletes/3185265,https://www.fantasyxc.se/api/athletes/3185265/results
+960,94,FRA,216,0,True,3195205,False,BENTZ Coralie,f,https://www.fantasyxc.se/api/athletes/3195205,https://www.fantasyxc.se/api/athletes/3195205/results
+961,94,CZE,3175,0,True,3155262,True,CZECH REPUBLIC II,f,https://www.fantasyxc.se/api/athletes/3155262,https://www.fantasyxc.se/api/athletes/3155262/results
+962,94,SWE,225,0,False,3505773,False,SVAN Julia,f,https://www.fantasyxc.se/api/athletes/3505773,https://www.fantasyxc.se/api/athletes/3505773/results
+963,94,SWE,231,0,False,3505069,False,LINDBORG Sara,f,https://www.fantasyxc.se/api/athletes/3505069,https://www.fantasyxc.se/api/athletes/3505069/results
+964,94,AUT,215,0,False,3055065,False,MAYERHOFER Veronika,f,https://www.fantasyxc.se/api/athletes/3055065,https://www.fantasyxc.se/api/athletes/3055065/results
+965,94,CAN,216,0,False,3105194,False,CARRIER-LAFORTE Sophie,f,https://www.fantasyxc.se/api/athletes/3105194,https://www.fantasyxc.se/api/athletes/3105194/results
+966,94,GRC,365,0,True,3235087,True,GREECE I,f,https://www.fantasyxc.se/api/athletes/3235087,https://www.fantasyxc.se/api/athletes/3235087/results
+967,94,JPN,1906,0,True,3305201,True,JAPAN I,f,https://www.fantasyxc.se/api/athletes/3305201,https://www.fantasyxc.se/api/athletes/3305201/results
+968,94,EST,224,0,True,3395115,False,PULLES Mariel Merlii,f,https://www.fantasyxc.se/api/athletes/3395115,https://www.fantasyxc.se/api/athletes/3395115/results
+969,94,FRA,214,0,False,3195061,False,DABUDYK Aurelie,f,https://www.fantasyxc.se/api/athletes/3195061,https://www.fantasyxc.se/api/athletes/3195061/results
+970,94,RUS,1562,0,False,3485717,False,USTIUGOVA Elena,f,https://www.fantasyxc.se/api/athletes/3485717,https://www.fantasyxc.se/api/athletes/3485717/results
+971,94,NOR,229,0,True,3425703,False,SLIND Kari Oeyre,f,https://www.fantasyxc.se/api/athletes/3425703,https://www.fantasyxc.se/api/athletes/3425703/results
+972,94,CHN,224,0,True,3125068,False,LI Lei,f,https://www.fantasyxc.se/api/athletes/3125068,https://www.fantasyxc.se/api/athletes/3125068/results
+973,94,DEU,217,0,True,3205655,False,DANNER Alexandra,f,https://www.fantasyxc.se/api/athletes/3205655,https://www.fantasyxc.se/api/athletes/3205655/results
+974,94,USA,222,0,False,3535408,False,GUINEY Elizabeth,f,https://www.fantasyxc.se/api/athletes/3535408,https://www.fantasyxc.se/api/athletes/3535408/results
+975,94,SWE,212,0,True,3505750,False,MODIG Lovisa,f,https://www.fantasyxc.se/api/athletes/3505750,https://www.fantasyxc.se/api/athletes/3505750/results
+976,94,JPN,216,0,True,3305193,False,TAKIZAWA Kozue,f,https://www.fantasyxc.se/api/athletes/3305193,https://www.fantasyxc.se/api/athletes/3305193/results
+977,94,ITA,219,0,False,3295195,False,RONCARI Debora,f,https://www.fantasyxc.se/api/athletes/3295195,https://www.fantasyxc.se/api/athletes/3295195/results
+978,94,RUS,219,0,False,3485794,False,KOVALEVA Polina,f,https://www.fantasyxc.se/api/athletes/3485794,https://www.fantasyxc.se/api/athletes/3485794/results
+979,94,JPN,214,0,True,3305021,False,ISHIGAKI Sumiko,f,https://www.fantasyxc.se/api/athletes/3305021,https://www.fantasyxc.se/api/athletes/3305021/results
+980,94,AUS,212,0,True,3045074,False,PAUL Katerina,f,https://www.fantasyxc.se/api/athletes/3045074,https://www.fantasyxc.se/api/athletes/3045074/results
+981,94,ITA,218,0,False,3295248,False,CANCLINI Alice,f,https://www.fantasyxc.se/api/athletes/3295248,https://www.fantasyxc.se/api/athletes/3295248/results
+982,94,FIN,224,0,False,3185003,False,NOUSIAINEN Mona-Liisa,f,https://www.fantasyxc.se/api/athletes/3185003,https://www.fantasyxc.se/api/athletes/3185003/results
+983,94,RUS,1281,0,True,3485862,False,ZHAMBALOVA Alisa,f,https://www.fantasyxc.se/api/athletes/3485862,https://www.fantasyxc.se/api/athletes/3485862/results
+984,94,NOR,221,0,True,3426852,False,JOHNSEN Elena Rise,f,https://www.fantasyxc.se/api/athletes/3426852,https://www.fantasyxc.se/api/athletes/3426852/results
+985,94,SWE,220,0,False,3505719,False,AULAND Clara,f,https://www.fantasyxc.se/api/athletes/3505719,https://www.fantasyxc.se/api/athletes/3505719/results
+986,94,DEU,969,0,False,3205176,False,RINGWALD Sandra,f,https://www.fantasyxc.se/api/athletes/3205176,https://www.fantasyxc.se/api/athletes/3205176/results
+987,94,CHE,211,0,False,3515302,False,WIDMER Heidi,f,https://www.fantasyxc.se/api/athletes/3515302,https://www.fantasyxc.se/api/athletes/3515302/results
+988,94,SWE,232,0,True,3505675,False,SETTLIN Evelina,f,https://www.fantasyxc.se/api/athletes/3505675,https://www.fantasyxc.se/api/athletes/3505675/results
+989,94,FIN,223,0,True,3185633,False,NISSINEN Vilma,f,https://www.fantasyxc.se/api/athletes/3185633,https://www.fantasyxc.se/api/athletes/3185633/results
+990,94,FRA,226,0,False,3195113,False,BUILLET Marion,f,https://www.fantasyxc.se/api/athletes/3195113,https://www.fantasyxc.se/api/athletes/3195113/results
+991,94,CHE,19878,0,True,3515213,True,SWITZERLAND I,f,https://www.fantasyxc.se/api/athletes/3515213,https://www.fantasyxc.se/api/athletes/3515213/results
+992,94,UKR,4842,0,True,3695048,True,UKRAINE I,f,https://www.fantasyxc.se/api/athletes/3695048,https://www.fantasyxc.se/api/athletes/3695048/results
+993,94,RUS,213,0,False,3485656,False,VEDENINA Daria,f,https://www.fantasyxc.se/api/athletes/3485656,https://www.fantasyxc.se/api/athletes/3485656/results
+994,94,USA,213,0,True,3535385,False,PATTERSON Caitlin,f,https://www.fantasyxc.se/api/athletes/3535385,https://www.fantasyxc.se/api/athletes/3535385/results
+995,94,NOR,212,0,True,3425565,False,MYRSETH Merete,f,https://www.fantasyxc.se/api/athletes/3425565,https://www.fantasyxc.se/api/athletes/3425565/results
+996,94,RUS,218,0,False,3485198,False,IVANOVA Julia,f,https://www.fantasyxc.se/api/athletes/3485198,https://www.fantasyxc.se/api/athletes/3485198/results
+997,94,USA,2954,0,False,3535320,False,MAUBET BJORNSEN Sadie,f,https://www.fantasyxc.se/api/athletes/3535320,https://www.fantasyxc.se/api/athletes/3535320/results
+998,94,RUS,219,0,True,3485203,False,RYASINA Larisa,f,https://www.fantasyxc.se/api/athletes/3485203,https://www.fantasyxc.se/api/athletes/3485203/results
+999,94,NOR,214,0,True,3426849,False,FOSNAES Kristin Austgulen,f,https://www.fantasyxc.se/api/athletes/3426849,https://www.fantasyxc.se/api/athletes/3426849/results
+1000,94,ITA,229,0,True,3295274,False,DEFRANCESCO Ilenia,f,https://www.fantasyxc.se/api/athletes/3295274,https://www.fantasyxc.se/api/athletes/3295274/results
+1001,94,SVK,230,0,True,3705003,False,PROCHAZKOVA Alena,f,https://www.fantasyxc.se/api/athletes/3705003,https://www.fantasyxc.se/api/athletes/3705003/results
+1002,94,RUS,227,0,True,3486365,False,ROGOZINA Daria,f,https://www.fantasyxc.se/api/athletes/3486365,https://www.fantasyxc.se/api/athletes/3486365/results
+1003,94,NOR,229,0,True,3426110,False,SMEDAAS Magni,f,https://www.fantasyxc.se/api/athletes/3426110,https://www.fantasyxc.se/api/athletes/3426110/results
+1004,94,ITA,221,0,False,3295170,False,BAUDIN Francesca,f,https://www.fantasyxc.se/api/athletes/3295170,https://www.fantasyxc.se/api/athletes/3295170/results
+1005,94,ITA,230,0,False,3295167,False,VUERICH Gaia,f,https://www.fantasyxc.se/api/athletes/3295167,https://www.fantasyxc.se/api/athletes/3295167/results
+1006,94,SVK,239,0,True,3705088,True,SLOVAKIA II,f,https://www.fantasyxc.se/api/athletes/3705088,https://www.fantasyxc.se/api/athletes/3705088/results
+1007,94,CAN,220,0,False,3105224,False,WEAVER Katherine,f,https://www.fantasyxc.se/api/athletes/3105224,https://www.fantasyxc.se/api/athletes/3105224/results
+1008,94,SVN,232,0,False,3565053,False,EINFALT Lea,f,https://www.fantasyxc.se/api/athletes/3565053,https://www.fantasyxc.se/api/athletes/3565053/results
+1009,94,USA,232,0,False,3535381,False,BENDER Jennie,f,https://www.fantasyxc.se/api/athletes/3535381,https://www.fantasyxc.se/api/athletes/3535381/results
+1010,94,FIN,222,0,True,3185258,False,EDER Mari,f,https://www.fantasyxc.se/api/athletes/3185258,https://www.fantasyxc.se/api/athletes/3185258/results
+1011,94,SWE,3317,0,True,3505809,False,SUNDLING Jonna,f,https://www.fantasyxc.se/api/athletes/3505809,https://www.fantasyxc.se/api/athletes/3505809/results
+1012,94,LVA,622,0,True,3555093,True,LATVIA I,f,https://www.fantasyxc.se/api/athletes/3555093,https://www.fantasyxc.se/api/athletes/3555093/results
+1013,94,RUS,216,0,False,3485932,False,KVARATSKHELIA Lali,f,https://www.fantasyxc.se/api/athletes/3485932,https://www.fantasyxc.se/api/athletes/3485932/results
+1014,94,SWE,215,0,False,3505013,False,NORGREN Britta,f,https://www.fantasyxc.se/api/athletes/3505013,https://www.fantasyxc.se/api/athletes/3505013/results
+1015,94,CAN,225,0,False,3105180,False,MACISAAC-JONES Maya,f,https://www.fantasyxc.se/api/athletes/3105180,https://www.fantasyxc.se/api/athletes/3105180/results
+1016,94,RUS,294,0,True,3486373,False,SMIRNOVA Ekaterina,f,https://www.fantasyxc.se/api/athletes/3486373,https://www.fantasyxc.se/api/athletes/3486373/results
+1017,94,ITA,226,0,True,3295370,False,FRANCHI Francesca,f,https://www.fantasyxc.se/api/athletes/3295370,https://www.fantasyxc.se/api/athletes/3295370/results
+1018,94,SWE,1491,0,False,3505090,False,INGEMARSDOTTER Ida,f,https://www.fantasyxc.se/api/athletes/3505090,https://www.fantasyxc.se/api/athletes/3505090/results
+1019,94,SWE,218,0,True,3506075,False,PERSSON Alicia,f,https://www.fantasyxc.se/api/athletes/3506075,https://www.fantasyxc.se/api/athletes/3506075/results
+1020,94,CAN,222,0,False,3105095,False,NISHIKAWA Emily,f,https://www.fantasyxc.se/api/athletes/3105095,https://www.fantasyxc.se/api/athletes/3105095/results
+1021,94,HRV,879,0,True,3385056,True,CROATIA I,f,https://www.fantasyxc.se/api/athletes/3385056,https://www.fantasyxc.se/api/athletes/3385056/results
+1022,94,SVN,670,0,False,3565005,False,VISNAR Katja,f,https://www.fantasyxc.se/api/athletes/3565005,https://www.fantasyxc.se/api/athletes/3565005/results
+1023,94,CHE,213,0,False,1312216,False,BONER Seraina,f,https://www.fantasyxc.se/api/athletes/1312216,https://www.fantasyxc.se/api/athletes/1312216/results
+1024,94,SVN,791,0,True,3565057,True,SLOVENIA II,f,https://www.fantasyxc.se/api/athletes/3565057,https://www.fantasyxc.se/api/athletes/3565057/results
+1025,94,RUS,345,0,True,3486213,False,DURKINA Lidia,f,https://www.fantasyxc.se/api/athletes/3486213,https://www.fantasyxc.se/api/athletes/3486213/results
+1026,94,NOR,232,0,False,3425779,False,JEVNE Karianne,f,https://www.fantasyxc.se/api/athletes/3425779,https://www.fantasyxc.se/api/athletes/3425779/results
+1027,94,RUS,224,0,False,1371774,False,KAZAKUL Anastasia,f,https://www.fantasyxc.se/api/athletes/1371774,https://www.fantasyxc.se/api/athletes/1371774/results
+1028,94,BLR,228,0,False,3665121,False,SERONOSOVA Polina,f,https://www.fantasyxc.se/api/athletes/3665121,https://www.fantasyxc.se/api/athletes/3665121/results
+1029,94,FIN,233,0,True,3185089,False,HAKALA Maija,f,https://www.fantasyxc.se/api/athletes/3185089,https://www.fantasyxc.se/api/athletes/3185089/results
+1030,94,FIN,954,0,False,3185114,False,MONONEN Laura,f,https://www.fantasyxc.se/api/athletes/3185114,https://www.fantasyxc.se/api/athletes/3185114/results
+1031,94,CAN,1107,0,True,3105151,True,CANADA II,f,https://www.fantasyxc.se/api/athletes/3105151,https://www.fantasyxc.se/api/athletes/3105151/results
+1032,94,CHN,268,0,True,3125082,False,CHI Chunxue,f,https://www.fantasyxc.se/api/athletes/3125082,https://www.fantasyxc.se/api/athletes/3125082/results
+1033,94,SWE,216,0,False,3505681,False,ERKERS Frida,f,https://www.fantasyxc.se/api/athletes/3505681,https://www.fantasyxc.se/api/athletes/3505681/results
+1034,94,FIN,225,0,True,3185299,False,RAHKOLA Hennariikka,f,https://www.fantasyxc.se/api/athletes/3185299,https://www.fantasyxc.se/api/athletes/3185299/results
+1035,94,NOR,231,0,True,3426163,False,MYHRE Julie,f,https://www.fantasyxc.se/api/athletes/3426163,https://www.fantasyxc.se/api/athletes/3426163/results
